@@ -2,9 +2,9 @@
   "date": "2025-01-19",
   "projects": {
     "Typing Game": {
-      "totalLinesAdded": 756,
-      "totalLinesRemoved": 516,
-      "totalActiveTime": 99,
+      "totalLinesAdded": 789,
+      "totalLinesRemoved": 533,
+      "totalActiveTime": 130,
       "files": {
         "e:\\Projects\\Typing Game\\script.js": [
           {
@@ -1007,6 +1007,300 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:54:25.681Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:54:25.861Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:54:27.978Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:54:30.945Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:54:33.075Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:54:35.393Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:54:38.112Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:54:38.906Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:54:42.875Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:54:43.923Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:55:09.740Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:57:05.601Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:57:14.575Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:57:26.235Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:57:27.098Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:57:28.450Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:57:29.699Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:57:31.140Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:57:32.473Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:57:34.002Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T17:57:35.656Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "Typing Game",
             "content": {
               "added": [],
