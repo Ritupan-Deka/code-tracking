@@ -2,9 +2,9 @@
   "date": "2025-01-19",
   "projects": {
     "Typing Game": {
-      "totalLinesAdded": 330,
-      "totalLinesRemoved": 114,
-      "totalActiveTime": 43,
+      "totalLinesAdded": 445,
+      "totalLinesRemoved": 229,
+      "totalActiveTime": 49,
       "files": {
         "e:\\Projects\\Typing Game\\script.js": [
           {
@@ -321,6 +321,34 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 45,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T16:36:02.017Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "Typing Game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-19T16:36:36.513Z",
+            "fileName": "e:\\Projects\\Typing Game\\script.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 115,
             "projectName": "Typing Game",
             "content": {
               "added": [],
