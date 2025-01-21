@@ -2,9 +2,9 @@
   "date": "2025-01-21",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 805,
-      "totalLinesRemoved": 248,
-      "totalActiveTime": 91,
+      "totalLinesAdded": 807,
+      "totalLinesRemoved": 250,
+      "totalActiveTime": 103,
       "files": {
         "e:\\Projects\\FileExplorer\\explorer.py": [
           {
@@ -1147,6 +1147,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:23:09.089Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:23:09.264Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:23:12.226Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:23:12.998Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "c"
           }
         ]
