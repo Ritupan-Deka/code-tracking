@@ -2,9 +2,9 @@
   "date": "2025-01-21",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 807,
-      "totalLinesRemoved": 250,
-      "totalActiveTime": 103,
+      "totalLinesAdded": 829,
+      "totalLinesRemoved": 271,
+      "totalActiveTime": 148,
       "files": {
         "e:\\Projects\\FileExplorer\\explorer.py": [
           {
@@ -1203,6 +1203,524 @@
               "removed": []
             },
             "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:25:56.228Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:25:58.324Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:00.248Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:03.560Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:05.276Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:07.831Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:08.883Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:12.728Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:13.335Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:16.419Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:16.972Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:31.772Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:31.844Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:32.032Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:33.613Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:42.965Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:26:43.493Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:03.520Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:04.793Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:08.006Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:08.691Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:41.543Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:42.427Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:43.927Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:44.829Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:46.153Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:46.435Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:54.060Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:56.206Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:28:59.958Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:29:03.338Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:29:05.007Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:29:08.516Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:29:09.239Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:29:12.943Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:29:21.314Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T16:29:29.600Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "c"
           }
         ]
