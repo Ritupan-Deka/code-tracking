@@ -2,9 +2,9 @@
   "date": "2025-01-21",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 746,
-      "totalLinesRemoved": 153,
-      "totalActiveTime": 66,
+      "totalLinesAdded": 763,
+      "totalLinesRemoved": 210,
+      "totalActiveTime": 72,
       "files": {
         "e:\\Projects\\FileExplorer\\explorer.py": [
           {
@@ -867,6 +867,34 @@
               "removed": []
             },
             "duration": 5,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T15:24:55.772Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-21T15:27:43.205Z",
+            "fileName": "e:\\Projects\\SpinningCube\\cube.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 57,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "c"
           }
         ]
