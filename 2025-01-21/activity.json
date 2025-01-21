@@ -2,9 +2,9 @@
   "date": "2025-01-21",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 243,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 10,
+      "totalLinesAdded": 321,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 21,
       "files": {
         "e:\\Projects\\FileExplorer\\explorer.py": [
           {
@@ -286,6 +286,154 @@
             },
             "duration": 0,
             "language": "py"
+          }
+        ],
+        "e:\\Projects\\app.py": [
+          {
+            "timestamp": "2025-01-21T10:02:02.022Z",
+            "fileName": "e:\\Projects\\app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "e:\\Projects\\templates\\index.html": [
+          {
+            "timestamp": "2025-01-21T10:02:12.466Z",
+            "fileName": "e:\\Projects\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "e:\\Projects\\SpeechToText\\app.py": [
+          {
+            "timestamp": "2025-01-21T10:02:29.095Z",
+            "fileName": "e:\\Projects\\SpeechToText\\app.py",
+            "fileType": ".py",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T10:03:46.406Z",
+            "fileName": "e:\\Projects\\SpeechToText\\app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T10:03:47.127Z",
+            "fileName": "e:\\Projects\\SpeechToText\\app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T10:03:50.255Z",
+            "fileName": "e:\\Projects\\SpeechToText\\app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T10:03:51.020Z",
+            "fileName": "e:\\Projects\\SpeechToText\\app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T10:03:52.203Z",
+            "fileName": "e:\\Projects\\SpeechToText\\app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T10:03:52.556Z",
+            "fileName": "e:\\Projects\\SpeechToText\\app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "e:\\Projects\\SpeechToText\\templates\\index.html": [
+          {
+            "timestamp": "2025-01-21T10:02:44.877Z",
+            "fileName": "e:\\Projects\\SpeechToText\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },
