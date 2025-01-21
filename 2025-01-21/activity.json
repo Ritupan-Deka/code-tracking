@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-21",
+  "projects": {
+    "Projects": {
+      "totalLinesAdded": 218,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Projects\\FileExplorer\\explorer.py": [
+          {
+            "timestamp": "2025-01-21T08:06:50.968Z",
+            "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
+            "fileType": ".py",
+            "linesAdded": 213,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T08:08:22.720Z",
+            "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "13": 2
+      },
+      "topFiles": [
+        "e:\\Projects\\FileExplorer\\explorer.py"
+      ],
+      "averageChangeSize": 109
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
