@@ -2,8 +2,8 @@
   "date": "2025-01-21",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 220,
-      "totalLinesRemoved": 2,
+      "totalLinesAdded": 223,
+      "totalLinesRemoved": 5,
       "totalActiveTime": 2,
       "files": {
         "e:\\Projects\\FileExplorer\\explorer.py": [
@@ -54,6 +54,90 @@
             "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
             "fileType": ".py",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T08:40:56.304Z",
+            "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T08:40:56.989Z",
+            "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T08:40:57.887Z",
+            "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T08:41:00.161Z",
+            "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T08:41:00.835Z",
+            "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T08:41:00.646Z",
+            "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
+            "fileType": ".py",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Projects",
             "content": {
