@@ -2,8 +2,8 @@
   "date": "2025-01-21",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 218,
-      "totalLinesRemoved": 0,
+      "totalLinesAdded": 220,
+      "totalLinesRemoved": 2,
       "totalActiveTime": 2,
       "files": {
         "e:\\Projects\\FileExplorer\\explorer.py": [
@@ -33,6 +33,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T08:13:53.269Z",
+            "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T08:13:56.075Z",
+            "fileName": "e:\\Projects\\FileExplorer\\explorer.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
