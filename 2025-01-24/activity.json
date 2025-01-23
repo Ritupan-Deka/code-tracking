@@ -2,9 +2,9 @@
   "date": "2025-01-24",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 9,
+      "totalLinesAdded": 125,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 14,
       "files": {
         "e:\\Projects\\src\\services\\newsService.js": [
           {
@@ -132,6 +132,20 @@
             },
             "duration": 0,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-01-23T20:40:31.197Z",
+            "fileName": "e:\\Projects\\index.html",
+            "fileType": ".html",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "html"
           }
         ],
         "e:\\Projects\\styles.css": [
@@ -148,6 +162,50 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-01-23T20:40:32.156Z",
+            "fileName": "e:\\Projects\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "e:\\Projects\\script.js": [
+          {
+            "timestamp": "2025-01-23T20:35:47.629Z",
+            "fileName": "e:\\Projects\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-23T20:36:46.982Z",
+            "fileName": "e:\\Projects\\script.js",
+            "fileType": ".js",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
