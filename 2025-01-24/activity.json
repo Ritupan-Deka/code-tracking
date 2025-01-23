@@ -2,9 +2,9 @@
   "date": "2025-01-24",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 126,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 138,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 24,
       "files": {
         "e:\\Projects\\src\\services\\newsService.js": [
           {
@@ -233,6 +233,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-23T20:51:15.864Z",
+            "fileName": "e:\\Projects\\script.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-23T20:51:20.147Z",
+            "fileName": "e:\\Projects\\script.js",
+            "fileType": ".js",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "js"
           }
         ]
