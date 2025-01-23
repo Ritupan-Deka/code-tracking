@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7                                          |
+| **Lines Added** (➕)   | 9                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 7                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Net Change** (↕)    | 9                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,8 @@
 - **SearchBar.js** (+1, -0)
 - **FavoriteArticles.js** (+1, -0)
 - **App.js** (+1, -0)
+- **index.html** (+1, -0)
+- **styles.css** (+1, -0)
 
 ## Visualizations
 
@@ -27,6 +29,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 7
+".html" : 1
+".css" : 1
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,7 +39,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "01h" : 7
+"02h" : 2
 ```
 
 
-> **Last Updated:** 1/24/2025, 2:00:47 AM
+> **Last Updated:** 1/24/2025, 2:05:47 AM
