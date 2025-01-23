@@ -3,8 +3,8 @@
   "projects": {
     "Projects": {
       "totalLinesAdded": 184,
-      "totalLinesRemoved": 31,
-      "totalActiveTime": 48,
+      "totalLinesRemoved": 66,
+      "totalActiveTime": 63,
       "files": {
         "e:\\Projects\\src\\services\\newsService.js": [
           {
@@ -146,6 +146,20 @@
             },
             "duration": 4,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-01-23T21:24:13.805Z",
+            "fileName": "e:\\Projects\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "html"
           }
         ],
         "e:\\Projects\\styles.css": [
@@ -175,6 +189,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-23T21:24:14.026Z",
+            "fileName": "e:\\Projects\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "css"
           }
         ],
@@ -499,6 +527,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-23T21:24:02.133Z",
+            "fileName": "e:\\Projects\\script.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "js"
           }
         ]
