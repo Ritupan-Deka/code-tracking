@@ -2,8 +2,8 @@
   "date": "2025-01-24",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 351,
-      "totalLinesRemoved": 117,
+      "totalLinesAdded": 353,
+      "totalLinesRemoved": 119,
       "totalActiveTime": 92,
       "files": {
         "e:\\Projects\\src\\services\\newsService.js": [
@@ -264,6 +264,34 @@
             "fileName": "e:\\Projects\\index.html",
             "fileType": ".html",
             "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T08:20:26.330Z",
+            "fileName": "e:\\Projects\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T08:20:27.487Z",
+            "fileName": "e:\\Projects\\index.html",
+            "fileType": ".html",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "Projects",
             "content": {
