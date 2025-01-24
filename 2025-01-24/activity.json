@@ -2,7 +2,7 @@
   "date": "2025-01-24",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 300,
+      "totalLinesAdded": 303,
       "totalLinesRemoved": 116,
       "totalActiveTime": 92,
       "files": {
@@ -716,6 +716,20 @@
             "fileName": "e:\\Projects\\script.js",
             "fileType": ".js",
             "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-24T07:49:02.648Z",
+            "fileName": "e:\\Projects\\script.js",
+            "fileType": ".js",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "Projects",
             "content": {
