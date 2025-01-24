@@ -2,9 +2,9 @@
   "date": "2025-01-24",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 510,
-      "totalLinesRemoved": 121,
-      "totalActiveTime": 105,
+      "totalLinesAdded": 535,
+      "totalLinesRemoved": 126,
+      "totalActiveTime": 120,
       "files": {
         "e:\\Projects\\src\\services\\newsService.js": [
           {
@@ -991,6 +991,232 @@
               "removed": []
             },
             "duration": 0,
+            "language": "html"
+          }
+        ],
+        "e:\\Projects\\Dictionary\\index.html": [
+          {
+            "timestamp": "2025-01-24T18:09:48.989Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:09:51.248Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:10:30.468Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:10:41.196Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:11:37.620Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:11:37.995Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:11:49.020Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:12:01.124Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:12:06.512Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:12:08.531Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:12:10.128Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:12:14.402Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:12:19.784Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:12:54.398Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:13:55.693Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-24T18:14:00.706Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ]
