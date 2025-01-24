@@ -2,7 +2,7 @@
   "date": "2025-01-24",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 420,
+      "totalLinesAdded": 465,
       "totalLinesRemoved": 121,
       "totalActiveTime": 105,
       "files": {
@@ -962,6 +962,22 @@
             },
             "duration": 3,
             "language": "js"
+          }
+        ],
+        "e:\\Projects\\NewsApp\\index.html": [
+          {
+            "timestamp": "2025-01-24T16:54:54.616Z",
+            "fileName": "e:\\Projects\\NewsApp\\index.html",
+            "fileType": ".html",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
           }
         ]
       },
