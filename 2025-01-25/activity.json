@@ -389,9 +389,9 @@
       "averageChangeSize": 18
     },
     "Desktop": {
-      "totalLinesAdded": 125,
+      "totalLinesAdded": 179,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 16,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk": [
           {
@@ -582,6 +582,48 @@
             "fileType": ".ahk",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ahk"
+          },
+          {
+            "timestamp": "2025-01-25T14:16:26.958Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk",
+            "fileType": ".ahk",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ahk"
+          },
+          {
+            "timestamp": "2025-01-25T14:18:58.620Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk",
+            "fileType": ".ahk",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ahk"
+          },
+          {
+            "timestamp": "2025-01-25T14:19:04.933Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk",
+            "fileType": ".ahk",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "Desktop",
             "content": {
               "added": [],
