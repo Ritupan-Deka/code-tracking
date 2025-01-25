@@ -389,9 +389,9 @@
       "averageChangeSize": 18
     },
     "Desktop": {
-      "totalLinesAdded": 123,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 125,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 16,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk": [
           {
@@ -508,6 +508,76 @@
           },
           {
             "timestamp": "2025-01-25T13:40:54.590Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk",
+            "fileType": ".ahk",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ahk"
+          },
+          {
+            "timestamp": "2025-01-25T13:42:31.788Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk",
+            "fileType": ".ahk",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ahk"
+          },
+          {
+            "timestamp": "2025-01-25T13:42:51.519Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk",
+            "fileType": ".ahk",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ahk"
+          },
+          {
+            "timestamp": "2025-01-25T13:43:04.691Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk",
+            "fileType": ".ahk",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ahk"
+          },
+          {
+            "timestamp": "2025-01-25T13:44:56.970Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk",
+            "fileType": ".ahk",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ahk"
+          },
+          {
+            "timestamp": "2025-01-25T13:44:57.652Z",
             "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk",
             "fileType": ".ahk",
             "linesAdded": 0,
