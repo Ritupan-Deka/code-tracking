@@ -469,9 +469,9 @@
       "averageChangeSize": 8.3
     },
     "Search": {
-      "totalLinesAdded": 752,
-      "totalLinesRemoved": 393,
-      "totalActiveTime": 69,
+      "totalLinesAdded": 943,
+      "totalLinesRemoved": 396,
+      "totalActiveTime": 83,
       "files": {
         "e:\\Projects\\Search\\main.c": [
           {
@@ -830,6 +830,62 @@
             "fileType": ".c",
             "linesAdded": 0,
             "linesRemoved": 157,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T14:52:04.077Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T14:52:05.395Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T14:55:35.271Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T14:55:37.362Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 121,
+            "linesRemoved": 0,
             "projectName": "Search",
             "content": {
               "added": [],
