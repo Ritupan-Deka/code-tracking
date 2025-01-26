@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 485                                          |
-| **Lines Removed** (➖) | 181                                        |
-| **Net Change** (↕)    | 304                |
-| **Active Time** (⌚)   | 36 minutes |
+| **Lines Added** (➕)   | 579                                          |
+| **Lines Removed** (➖) | 205                                        |
+| **Net Change** (↕)    | 374                |
+| **Active Time** (⌚)   | 47 minutes |
 
 
 ## Modified Files
-- **main.c** (+468, -167)
+- **main.c** (+562, -191)
 - **search_input.txt** (+2, -0)
 - **search_command.txt** (+15, -14)
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".c" : 635
+".c" : 753
 ".txt" : 31
 ```
 
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 8
-"19h" : 21
+"19h" : 25
 ```
 
 
-> **Last Updated:** 1/26/2025, 7:45:55 PM
+> **Last Updated:** 1/26/2025, 7:50:55 PM
