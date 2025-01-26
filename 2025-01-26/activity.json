@@ -469,9 +469,9 @@
       "averageChangeSize": 8.3
     },
     "Search": {
-      "totalLinesAdded": 1310,
+      "totalLinesAdded": 1408,
       "totalLinesRemoved": 973,
-      "totalActiveTime": 140,
+      "totalActiveTime": 143,
       "files": {
         "e:\\Projects\\Search\\main.c": [
           {
@@ -1410,6 +1410,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T15:21:56.146Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "c"
           }
         ],
