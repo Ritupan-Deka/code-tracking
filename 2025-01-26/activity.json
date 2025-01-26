@@ -467,6 +467,81 @@
         "c:\\Users\\user\\OneDrive\\Desktop\\AHK.ahk"
       ],
       "averageChangeSize": 8.3
+    },
+    "Search": {
+      "totalLinesAdded": 60,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Projects\\Search\\main.c": [
+          {
+            "timestamp": "2025-01-26T09:47:22.285Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T09:47:23.647Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T09:47:57.401Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T09:48:10.300Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 2
+      },
+      "changeFrequency": {
+        "15": 2
+      },
+      "topFiles": [
+        "e:\\Projects\\Search\\main.c"
+      ],
+      "averageChangeSize": 15.25
     }
   },
   "totalActiveTime": 8,
