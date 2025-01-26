@@ -470,8 +470,8 @@
     },
     "Search": {
       "totalLinesAdded": 485,
-      "totalLinesRemoved": 152,
-      "totalActiveTime": 28,
+      "totalLinesRemoved": 181,
+      "totalActiveTime": 36,
       "files": {
         "e:\\Projects\\Search\\main.c": [
           {
@@ -620,6 +620,20 @@
             "fileType": ".c",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T14:15:05.108Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 22,
             "projectName": "Search",
             "content": {
               "added": [],
@@ -854,6 +868,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-26T14:13:01.791Z",
+            "fileName": "e:\\Projects\\Search\\search_command.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "txt"
           }
         ]
