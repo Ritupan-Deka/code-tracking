@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 477                                          |
-| **Lines Removed** (➖) | 148                                        |
-| **Net Change** (↕)    | 329                |
-| **Active Time** (⌚)   | 21 minutes |
+| **Lines Added** (➕)   | 485                                          |
+| **Lines Removed** (➖) | 152                                        |
+| **Net Change** (↕)    | 333                |
+| **Active Time** (⌚)   | 28 minutes |
 
 
 ## Modified Files
 - **main.c** (+468, -145)
 - **search_input.txt** (+2, -0)
-- **search_command.txt** (+7, -3)
+- **search_command.txt** (+15, -7)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".c" : 613
-".txt" : 12
+".txt" : 24
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 8
-"19h" : 13
+"19h" : 19
 ```
 
 
-> **Last Updated:** 1/26/2025, 7:35:55 PM
+> **Last Updated:** 1/26/2025, 7:40:55 PM
