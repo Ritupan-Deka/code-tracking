@@ -469,9 +469,9 @@
       "averageChangeSize": 8.3
     },
     "Search": {
-      "totalLinesAdded": 1408,
-      "totalLinesRemoved": 973,
-      "totalActiveTime": 143,
+      "totalLinesAdded": 1433,
+      "totalLinesRemoved": 977,
+      "totalActiveTime": 146,
       "files": {
         "e:\\Projects\\Search\\main.c": [
           {
@@ -1424,6 +1424,62 @@
               "removed": []
             },
             "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T15:27:33.734Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T15:27:35.083Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T15:29:03.482Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T15:29:47.809Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "c"
           }
         ],
