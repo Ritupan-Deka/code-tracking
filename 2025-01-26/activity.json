@@ -470,8 +470,8 @@
     },
     "Search": {
       "totalLinesAdded": 1434,
-      "totalLinesRemoved": 988,
-      "totalActiveTime": 149,
+      "totalLinesRemoved": 1076,
+      "totalActiveTime": 156,
       "files": {
         "e:\\Projects\\Search\\main.c": [
           {
@@ -1550,6 +1550,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T16:09:03.311Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T16:09:08.755Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 31,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T16:09:19.443Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 26,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T16:10:47.212Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 30,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "c"
           }
         ],
