@@ -469,9 +469,9 @@
       "averageChangeSize": 8.3
     },
     "Search": {
-      "totalLinesAdded": 597,
-      "totalLinesRemoved": 231,
-      "totalActiveTime": 59,
+      "totalLinesAdded": 655,
+      "totalLinesRemoved": 235,
+      "totalActiveTime": 64,
       "files": {
         "e:\\Projects\\Search\\main.c": [
           {
@@ -738,6 +738,34 @@
               "removed": []
             },
             "duration": 5,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T14:31:45.330Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T14:31:50.457Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "c"
           }
         ],
