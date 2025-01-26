@@ -469,9 +469,9 @@
       "averageChangeSize": 8.3
     },
     "Search": {
-      "totalLinesAdded": 465,
-      "totalLinesRemoved": 145,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 477,
+      "totalLinesRemoved": 148,
+      "totalActiveTime": 21,
       "files": {
         "e:\\Projects\\Search\\main.c": [
           {
@@ -613,6 +613,164 @@
             },
             "duration": 1,
             "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T14:03:50.198Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          }
+        ],
+        "e:\\Projects\\Search\\search_input.txt": [
+          {
+            "timestamp": "2025-01-26T14:01:05.103Z",
+            "fileName": "e:\\Projects\\Search\\search_input.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-26T14:01:06.288Z",
+            "fileName": "e:\\Projects\\Search\\search_input.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "e:\\Projects\\Search\\search_command.txt": [
+          {
+            "timestamp": "2025-01-26T14:04:14.983Z",
+            "fileName": "e:\\Projects\\Search\\search_command.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-26T14:04:23.132Z",
+            "fileName": "e:\\Projects\\Search\\search_command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-26T14:04:55.211Z",
+            "fileName": "e:\\Projects\\Search\\search_command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-26T14:05:36.233Z",
+            "fileName": "e:\\Projects\\Search\\search_command.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-26T14:05:36.242Z",
+            "fileName": "e:\\Projects\\Search\\search_command.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-26T14:05:37.895Z",
+            "fileName": "e:\\Projects\\Search\\search_command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-26T14:05:38.463Z",
+            "fileName": "e:\\Projects\\Search\\search_command.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-26T14:05:41.753Z",
+            "fileName": "e:\\Projects\\Search\\search_command.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
