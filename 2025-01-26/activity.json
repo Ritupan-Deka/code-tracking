@@ -470,7 +470,7 @@
     },
     "Search": {
       "totalLinesAdded": 1297,
-      "totalLinesRemoved": 908,
+      "totalLinesRemoved": 971,
       "totalActiveTime": 130,
       "files": {
         "e:\\Projects\\Search\\main.c": [
@@ -1368,6 +1368,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-01-26T15:15:11.973Z",
+            "fileName": "e:\\Projects\\Search\\main.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 63,
+            "projectName": "Search",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "c"
           }
         ],
