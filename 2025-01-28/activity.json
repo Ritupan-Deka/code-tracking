@@ -3,8 +3,8 @@
   "projects": {
     "Projects": {
       "totalLinesAdded": 147,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 3,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 16,
       "files": {
         "e:\\Projects\\Dictionary\\index.html": [
           {
@@ -61,6 +61,76 @@
               "removed": []
             },
             "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-27T18:59:25.544Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-27T18:59:29.235Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-27T18:59:40.614Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-27T18:59:50.109Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-27T18:59:59.637Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ],
