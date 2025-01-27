@@ -2,9 +2,9 @@
   "date": "2025-01-28",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 147,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 960,
+      "totalLinesRemoved": 69,
+      "totalActiveTime": 35,
       "files": {
         "e:\\Projects\\Dictionary\\index.html": [
           {
@@ -132,6 +132,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-01-27T19:01:27.121Z",
+            "fileName": "e:\\Projects\\Dictionary\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 24,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "e:\\Projects\\Dictionary\\script.js": [
@@ -176,6 +190,124 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-01-27T19:01:15.060Z",
+            "fileName": "e:\\Projects\\Dictionary\\script.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 39,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-01-27T19:01:46.645Z",
+            "fileName": "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-27T19:01:50.120Z",
+            "fileName": "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "e:\\Projects\\Form\\index.html": [
+          {
+            "timestamp": "2025-01-27T19:05:07.213Z",
+            "fileName": "e:\\Projects\\Form\\index.html",
+            "fileType": ".html",
+            "linesAdded": 143,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-27T19:05:10.962Z",
+            "fileName": "e:\\Projects\\Form\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-27T19:05:12.367Z",
+            "fileName": "e:\\Projects\\Form\\index.html",
+            "fileType": ".html",
+            "linesAdded": 147,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "html"
+          }
+        ],
+        "e:\\Projects\\Form\\styles.css": [
+          {
+            "timestamp": "2025-01-27T19:05:31.368Z",
+            "fileName": "e:\\Projects\\Form\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 180,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-27T19:05:32.974Z",
+            "fileName": "e:\\Projects\\Form\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 175,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
