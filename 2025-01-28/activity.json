@@ -381,9 +381,9 @@
       "averageChangeSize": 21.142857142857142
     },
     "0Starter Files": {
-      "totalLinesAdded": 863,
-      "totalLinesRemoved": 565,
-      "totalActiveTime": 48,
+      "totalLinesAdded": 1023,
+      "totalLinesRemoved": 782,
+      "totalActiveTime": 55,
       "files": {
         "e:\\Coding\\WebDevlopment\\Projects\\0Starter Files\\index.html": [
           {
@@ -980,6 +980,76 @@
             "fileType": ".html",
             "linesAdded": 145,
             "linesRemoved": 0,
+            "projectName": "0Starter Files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-28T16:51:47.058Z",
+            "fileName": "e:\\Coding\\WebDevlopment\\Projects\\0Starter Files\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 104,
+            "projectName": "0Starter Files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-28T16:51:48.180Z",
+            "fileName": "e:\\Coding\\WebDevlopment\\Projects\\0Starter Files\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "0Starter Files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-28T16:51:58.412Z",
+            "fileName": "e:\\Coding\\WebDevlopment\\Projects\\0Starter Files\\index.html",
+            "fileType": ".html",
+            "linesAdded": 155,
+            "linesRemoved": 0,
+            "projectName": "0Starter Files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-28T16:52:58.291Z",
+            "fileName": "e:\\Coding\\WebDevlopment\\Projects\\0Starter Files\\index.html",
+            "fileType": ".html",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "0Starter Files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-28T16:53:55.001Z",
+            "fileName": "e:\\Coding\\WebDevlopment\\Projects\\0Starter Files\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 72,
             "projectName": "0Starter Files",
             "content": {
               "added": [],
