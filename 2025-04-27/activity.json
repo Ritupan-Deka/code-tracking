@@ -3,8 +3,8 @@
   "projects": {
     "Portfolio": {
       "totalLinesAdded": 1236,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
       "files": {
         "e:\\Projects\\Portfolio\\index.html": [
           {
@@ -19,6 +19,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-27T08:05:39.400Z",
+            "fileName": "e:\\Projects\\Portfolio\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "html"
           }
         ]
