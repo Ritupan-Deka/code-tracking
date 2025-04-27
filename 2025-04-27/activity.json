@@ -315,6 +315,71 @@
         "e:\\Projects\\Portfolio\\index.html"
       ],
       "averageChangeSize": 1236
+    },
+    "RealTimeCollaborativeApp": {
+      "totalLinesAdded": 51,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "e:\\Projects\\RealTimeCollaborativeApp\\real-time-collaborative-app\\package.json": [
+          {
+            "timestamp": "2025-04-27T18:13:42.265Z",
+            "fileName": "e:\\Projects\\RealTimeCollaborativeApp\\real-time-collaborative-app\\package.json",
+            "fileType": ".json",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "RealTimeCollaborativeApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-27T18:14:47.580Z",
+            "fileName": "e:\\Projects\\RealTimeCollaborativeApp\\real-time-collaborative-app\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "RealTimeCollaborativeApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "e:\\Projects\\RealTimeCollaborativeApp\\real-time-collaborative-app\\public\\index.html": [
+          {
+            "timestamp": "2025-04-27T18:16:54.130Z",
+            "fileName": "e:\\Projects\\RealTimeCollaborativeApp\\real-time-collaborative-app\\public\\index.html",
+            "fileType": ".html",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "RealTimeCollaborativeApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2,
+        "html": 3
+      },
+      "changeFrequency": {
+        "23": 5
+      },
+      "topFiles": [
+        "e:\\Projects\\RealTimeCollaborativeApp\\real-time-collaborative-app\\package.json",
+        "e:\\Projects\\RealTimeCollaborativeApp\\real-time-collaborative-app\\public\\index.html"
+      ],
+      "averageChangeSize": 17
     }
   },
   "totalActiveTime": 0,
