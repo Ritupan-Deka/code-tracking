@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "HouseRentalService": {
-      "totalLinesAdded": 1283,
-      "totalLinesRemoved": 85,
-      "totalActiveTime": 131,
+      "totalLinesAdded": 1532,
+      "totalLinesRemoved": 96,
+      "totalActiveTime": 142,
       "files": {
         "e:\\Projects\\HouseRentalService\\house-rental-app\\tailwind.config.js": [
           {
@@ -842,6 +842,48 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-03T20:45:25.148Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\properties\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-03T20:45:45.631Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\properties\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-03T20:46:01.856Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\properties\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "e:\\Projects\\HouseRentalService\\house-rental\\app\\properties\\add\\page.tsx": [
@@ -850,6 +892,20 @@
             "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\properties\\add\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-03T20:46:26.503Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\properties\\add\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 10,
             "linesRemoved": 0,
             "projectName": "HouseRentalService",
             "content": {
@@ -947,6 +1003,20 @@
           },
           {
             "timestamp": "2025-05-03T20:11:39.186Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-03T20:47:04.371Z",
             "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\layout.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
@@ -1326,6 +1396,84 @@
             "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\auth\\signup\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Projects\\HouseRentalService\\house-rental\\app\\components\\PropertyCard.tsx": [
+          {
+            "timestamp": "2025-05-03T20:43:40.560Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\components\\PropertyCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-05-03T20:45:45.445Z",
+            "fileName": "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 170,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-03T20:45:46.605Z",
+            "fileName": "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "e:\\Projects\\HouseRentalService\\house-rental\\app\\lib\\auth.tsx": [
+          {
+            "timestamp": "2025-05-03T20:47:29.067Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\lib\\auth.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Projects\\HouseRentalService\\house-rental\\app\\page.tsx": [
+          {
+            "timestamp": "2025-05-03T20:47:45.023Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 22,
             "linesRemoved": 0,
             "projectName": "HouseRentalService",
             "content": {

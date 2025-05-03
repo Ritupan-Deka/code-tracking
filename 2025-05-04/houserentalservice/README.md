@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1283                                          |
-| **Lines Removed** (➖) | 85                                        |
-| **Net Change** (↕)    | 1198                |
-| **Active Time** (⌚)   | 131 minutes |
+| **Lines Added** (➕)   | 1532                                          |
+| **Lines Removed** (➖) | 96                                        |
+| **Net Change** (↕)    | 1436                |
+| **Active Time** (⌚)   | 142 minutes |
 
 
 ## Modified Files
@@ -37,15 +37,19 @@
 - **route.ts** (+63, -10)
 - **Header.tsx** (+29, -0)
 - **SearchBar.tsx** (+33, -0)
-- **page.tsx** (+34, -0)
-- **page.tsx** (+84, -0)
-- **layout.tsx** (+53, -24)
+- **page.tsx** (+44, -10)
+- **page.tsx** (+94, -0)
+- **layout.tsx** (+53, -25)
 - **auth.ts** (+34, -20)
 - **tailwind.config.js** (+11, -0)
 - **db.tsx** (+39, -3)
 - **route.ts** (+38, -0)
 - **page.tsx** (+72, -0)
 - **page.tsx** (+82, -0)
+- **PropertyCard.tsx** (+28, -0)
+- **settings.json** (+173, -0)
+- **auth.tsx** (+6, -0)
+- **page.tsx** (+22, -0)
 
 ## Visualizations
 
@@ -57,9 +61,9 @@ title Lines changed by file type
 ".js" : 567
 ".css" : 10
 ".local" : 6
-".json" : 77
+".json" : 250
 ".ts" : 255
-".tsx" : 453
+".tsx" : 540
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -69,8 +73,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 36
 "01h" : 42
-"02h" : 12
+"02h" : 22
 ```
 
 
-> **Last Updated:** 5/4/2025, 2:12:56 AM
+> **Last Updated:** 5/4/2025, 2:17:56 AM
