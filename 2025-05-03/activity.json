@@ -623,9 +623,9 @@
       "averageChangeSize": 60.333333333333336
     },
     "Projects": {
-      "totalLinesAdded": 844,
-      "totalLinesRemoved": 112,
-      "totalActiveTime": 67,
+      "totalLinesAdded": 878,
+      "totalLinesRemoved": 139,
+      "totalActiveTime": 106,
       "files": {
         "e:\\Projects\\SnakeGame\\index.html": [
           {
@@ -1242,6 +1242,258 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:45.075Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:45.145Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:45.493Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:45.675Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:46.092Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:46.841Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:47.777Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:51.958Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:53.619Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:54.303Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:55.774Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:57.814Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:25:59.917Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:26:01.427Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:26:02.149Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:26:04.915Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:26:07.610Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T11:26:24.289Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\register\\page.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
