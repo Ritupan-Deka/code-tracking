@@ -624,8 +624,8 @@
     },
     "Projects": {
       "totalLinesAdded": 813,
-      "totalLinesRemoved": 46,
-      "totalActiveTime": 49,
+      "totalLinesRemoved": 81,
+      "totalActiveTime": 52,
       "files": {
         "e:\\Projects\\SnakeGame\\index.html": [
           {
@@ -1085,6 +1085,48 @@
             },
             "duration": 4,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T10:56:28.822Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\api\\register\\route.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 32,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T10:56:29.002Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\api\\register\\route.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T10:56:31.708Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\api\\register\\route.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "e:\\Projects\\LoginForm\\auth-app\\app\\api\\login\\route.js": [
@@ -1306,6 +1348,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-03T10:58:27.302Z",
+            "fileName": "e:\\Projects\\LoginForm\\auth-app\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
