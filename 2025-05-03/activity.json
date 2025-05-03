@@ -621,6 +621,85 @@
         "e:\\Projects\\RealTimeCollaborativeApp\\index.html"
       ],
       "averageChangeSize": 60.333333333333336
+    },
+    "Projects": {
+      "totalLinesAdded": 164,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Projects\\SnakeGame\\index.html": [
+          {
+            "timestamp": "2025-05-03T08:33:15.591Z",
+            "fileName": "e:\\Projects\\SnakeGame\\index.html",
+            "fileType": ".html",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-03T08:33:15.642Z",
+            "fileName": "e:\\Projects\\SnakeGame\\index.html",
+            "fileType": ".html",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "e:\\Projects\\SnakeGame\\style.css": [
+          {
+            "timestamp": "2025-05-03T08:33:48.778Z",
+            "fileName": "e:\\Projects\\SnakeGame\\style.css",
+            "fileType": ".css",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-03T08:33:49.500Z",
+            "fileName": "e:\\Projects\\SnakeGame\\style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0,
+        "css": 2
+      },
+      "changeFrequency": {
+        "14": 2
+      },
+      "topFiles": [
+        "e:\\Projects\\SnakeGame\\index.html",
+        "e:\\Projects\\SnakeGame\\style.css"
+      ],
+      "averageChangeSize": 43.5
     }
   },
   "totalActiveTime": 6,
