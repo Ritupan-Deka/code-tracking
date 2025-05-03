@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "HouseRentalService": {
-      "totalLinesAdded": 314,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 538,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 39,
       "files": {
         "e:\\Projects\\HouseRentalService\\house-rental-app\\tailwind.config.js": [
           {
@@ -121,6 +121,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-03T19:06:11.673Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental-app\\styles\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-03T19:06:12.013Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental-app\\styles\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "css"
           }
         ],
@@ -288,6 +316,96 @@
             "fileName": "e:\\Projects\\HouseRentalService\\house-rental-app\\pages\\properties.js",
             "fileType": ".js",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T19:03:48.602Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental-app\\pages\\properties.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T19:03:49.372Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental-app\\pages\\properties.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-03T19:03:50.232Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental-app\\pages\\properties.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\HouseRentalService\\house-rental-app\\pages\\properties\\[id].js": [
+          {
+            "timestamp": "2025-05-03T19:01:48.320Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental-app\\pages\\properties\\[id].js",
+            "fileType": ".js",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\HouseRentalService\\house-rental-app\\pages\\api\\properties.js": [
+          {
+            "timestamp": "2025-05-03T19:02:23.055Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental-app\\pages\\api\\properties.js",
+            "fileType": ".js",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\HouseRentalService\\house-rental-app\\pages\\post-property.js": [
+          {
+            "timestamp": "2025-05-03T19:03:06.675Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental-app\\pages\\post-property.js",
+            "fileType": ".js",
+            "linesAdded": 121,
             "linesRemoved": 0,
             "projectName": "HouseRentalService",
             "content": {
