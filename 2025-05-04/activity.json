@@ -3,8 +3,8 @@
   "projects": {
     "HouseRentalService": {
       "totalLinesAdded": 1078,
-      "totalLinesRemoved": 67,
-      "totalActiveTime": 117,
+      "totalLinesRemoved": 68,
+      "totalActiveTime": 119,
       "files": {
         "e:\\Projects\\HouseRentalService\\house-rental-app\\tailwind.config.js": [
           {
@@ -627,6 +627,20 @@
             "fileType": ".json",
             "linesAdded": 14,
             "linesRemoved": 0,
+            "projectName": "HouseRentalService",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-03T20:33:35.792Z",
+            "fileName": "e:\\Projects\\HouseRentalService\\house-rental\\tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "HouseRentalService",
             "content": {
               "added": [],
