@@ -250,9 +250,9 @@
       "averageChangeSize": 411
     },
     "AiExpenseTracker": {
-      "totalLinesAdded": 147,
+      "totalLinesAdded": 166,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 3,
       "files": {
         "e:\\Projects\\AiExpenseTracker\\expense-tracker\\src\\index.css": [
           {
@@ -300,6 +300,38 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "e:\\Projects\\AiExpenseTracker\\expense-tracker\\tailwind.config.js": [
+          {
+            "timestamp": "2025-05-21T16:28:34.454Z",
+            "fileName": "e:\\Projects\\AiExpenseTracker\\expense-tracker\\tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "AiExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\AiExpenseTracker\\expense-tracker\\postcss.config.js": [
+          {
+            "timestamp": "2025-05-21T16:28:46.177Z",
+            "fileName": "e:\\Projects\\AiExpenseTracker\\expense-tracker\\postcss.config.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "AiExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
