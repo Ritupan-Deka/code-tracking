@@ -3,7 +3,7 @@
   "projects": {
     "FileTransfer": {
       "totalLinesAdded": 1936,
-      "totalLinesRemoved": 207,
+      "totalLinesRemoved": 656,
       "totalActiveTime": 31,
       "files": {
         "e:\\Projects\\FileTransfer\\design.html": [
@@ -35,6 +35,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-21T16:57:14.541Z",
+            "fileName": "e:\\Projects\\FileTransfer\\gork.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 449,
+            "projectName": "FileTransfer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ],
