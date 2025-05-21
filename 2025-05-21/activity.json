@@ -234,6 +234,74 @@
         "e:\\Projects\\FileTransfer\\gork.html"
       ],
       "averageChangeSize": 411
+    },
+    "AiExpenseTracker": {
+      "totalLinesAdded": 147,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Projects\\AiExpenseTracker\\expense-tracker\\src\\index.css": [
+          {
+            "timestamp": "2025-05-21T16:21:29.601Z",
+            "fileName": "e:\\Projects\\AiExpenseTracker\\expense-tracker\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "AiExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          }
+        ],
+        "e:\\Projects\\AiExpenseTracker\\expense-tracker\\src\\main.jsx": [
+          {
+            "timestamp": "2025-05-21T16:21:42.554Z",
+            "fileName": "e:\\Projects\\AiExpenseTracker\\expense-tracker\\src\\main.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "AiExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "e:\\Projects\\AiExpenseTracker\\expense-tracker\\src\\App.jsx": [
+          {
+            "timestamp": "2025-05-21T16:22:17.637Z",
+            "fileName": "e:\\Projects\\AiExpenseTracker\\expense-tracker\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "AiExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "css": 0,
+        "jsx": 2
+      },
+      "changeFrequency": {
+        "21": 2
+      },
+      "topFiles": [
+        "e:\\Projects\\AiExpenseTracker\\expense-tracker\\src\\index.css",
+        "e:\\Projects\\AiExpenseTracker\\expense-tracker\\src\\main.jsx",
+        "e:\\Projects\\AiExpenseTracker\\expense-tracker\\src\\App.jsx"
+      ],
+      "averageChangeSize": 49
     }
   },
   "totalActiveTime": 2,
