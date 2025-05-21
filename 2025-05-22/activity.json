@@ -3,8 +3,8 @@
   "projects": {
     "FileTransfer": {
       "totalLinesAdded": 2118,
-      "totalLinesRemoved": 1498,
-      "totalActiveTime": 13,
+      "totalLinesRemoved": 2112,
+      "totalActiveTime": 17,
       "files": {
         "e:\\Projects\\FileTransfer\\gork.html": [
           {
@@ -195,6 +195,34 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "FileTransfer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-21T18:58:35.275Z",
+            "fileName": "e:\\Projects\\FileTransfer\\gork.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 606,
+            "projectName": "FileTransfer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-21T18:58:36.105Z",
+            "fileName": "e:\\Projects\\FileTransfer\\gork.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "FileTransfer",
             "content": {
               "added": [],
