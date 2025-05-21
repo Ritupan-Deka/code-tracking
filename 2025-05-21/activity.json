@@ -2,7 +2,7 @@
   "date": "2025-05-21",
   "projects": {
     "FileTransfer": {
-      "totalLinesAdded": 1367,
+      "totalLinesAdded": 1397,
       "totalLinesRemoved": 152,
       "totalActiveTime": 21,
       "files": {
@@ -163,6 +163,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-21T16:00:54.028Z",
+            "fileName": "e:\\Projects\\FileTransfer\\gork2.html",
+            "fileType": ".html",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "FileTransfer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]
