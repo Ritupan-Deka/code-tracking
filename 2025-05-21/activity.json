@@ -1,0 +1,64 @@
+{
+  "date": "2025-05-21",
+  "projects": {
+    "FileTransfer": {
+      "totalLinesAdded": 822,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Projects\\FileTransfer\\design.html": [
+          {
+            "timestamp": "2025-05-21T14:55:26.979Z",
+            "fileName": "e:\\Projects\\FileTransfer\\design.html",
+            "fileType": ".html",
+            "linesAdded": 372,
+            "linesRemoved": 0,
+            "projectName": "FileTransfer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "e:\\Projects\\FileTransfer\\gork.html": [
+          {
+            "timestamp": "2025-05-21T14:56:44.166Z",
+            "fileName": "e:\\Projects\\FileTransfer\\gork.html",
+            "fileType": ".html",
+            "linesAdded": 450,
+            "linesRemoved": 0,
+            "projectName": "FileTransfer",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 2
+      },
+      "changeFrequency": {
+        "20": 2
+      },
+      "topFiles": [
+        "e:\\Projects\\FileTransfer\\design.html",
+        "e:\\Projects\\FileTransfer\\gork.html"
+      ],
+      "averageChangeSize": 411
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
