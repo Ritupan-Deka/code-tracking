@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 504                                          |
+| **Lines Added** (➕)   | 1008                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 504                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Net Change** (↕)    | 1008                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
-- **[expenseId].jsx** (+128, -0)
-- **index.jsx** (+163, -0)
+- **[expenseId].jsx** (+256, -0)
+- **index.jsx** (+326, -0)
 - **add-expense.jsx** (+213, -0)
+- **add-entry.jsx** (+213, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 504
+".jsx" : 1008
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"01h" : 10
+"01h" : 13
 ```
 
 
-> **Last Updated:** 5/23/2025, 1:15:29 AM
+> **Last Updated:** 5/23/2025, 1:31:21 AM
