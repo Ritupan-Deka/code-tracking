@@ -363,9 +363,9 @@
       "averageChangeSize": 40.25
     },
     "...Base": {
-      "totalLinesAdded": 253,
-      "totalLinesRemoved": 26,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 261,
+      "totalLinesRemoved": 34,
+      "totalActiveTime": 15,
       "files": {
         "e:\\Projects\\...Base\\ExpenseTracker\\tailwind.config.js": [
           {
@@ -381,6 +381,20 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-22T11:29:55.316Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "e:\\Projects\\...Base\\ExpenseTracker\\babel.config.js": [
@@ -389,6 +403,34 @@
             "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\babel.config.js",
             "fileType": ".js",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-22T11:26:55.673Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\babel.config.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-22T11:26:57.393Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\babel.config.js",
+            "fileType": ".js",
+            "linesAdded": 6,
             "linesRemoved": 0,
             "projectName": "...Base",
             "content": {
@@ -461,6 +503,34 @@
             "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\App.tsx",
             "fileType": ".tsx",
             "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-22T11:25:28.479Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-22T11:28:12.711Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "...Base",
             "content": {
