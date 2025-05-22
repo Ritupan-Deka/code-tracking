@@ -661,9 +661,9 @@
       "averageChangeSize": 51.666666666666664
     },
     "ExpenseTracker": {
-      "totalLinesAdded": 75,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 98,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 14,
       "files": {
         "e:\\Projects\\ExpenseTracker\\package.json": [
           {
@@ -766,6 +766,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-22T12:39:33.514Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-22T12:39:33.909Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-22T12:40:08.392Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-22T12:41:33.789Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
