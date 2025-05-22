@@ -361,6 +361,74 @@
         "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\screens\\AddExpenseScreen.tsx"
       ],
       "averageChangeSize": 40.25
+    },
+    "...Base": {
+      "totalLinesAdded": 155,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Projects\\...Base\\ExpenseTracker\\tailwind.config.js": [
+          {
+            "timestamp": "2025-05-22T11:15:49.775Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\...Base\\ExpenseTracker\\babel.config.js": [
+          {
+            "timestamp": "2025-05-22T11:16:47.521Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\babel.config.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\...Base\\ExpenseTracker\\App.tsx": [
+          {
+            "timestamp": "2025-05-22T11:17:10.737Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 141,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 1,
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "16": 2
+      },
+      "topFiles": [
+        "e:\\Projects\\...Base\\ExpenseTracker\\tailwind.config.js",
+        "e:\\Projects\\...Base\\ExpenseTracker\\babel.config.js",
+        "e:\\Projects\\...Base\\ExpenseTracker\\App.tsx"
+      ],
+      "averageChangeSize": 51.666666666666664
     }
   },
   "totalActiveTime": 1,
