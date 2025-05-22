@@ -363,9 +363,9 @@
       "averageChangeSize": 40.25
     },
     "...Base": {
-      "totalLinesAdded": 155,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 253,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 7,
       "files": {
         "e:\\Projects\\...Base\\ExpenseTracker\\tailwind.config.js": [
           {
@@ -412,6 +412,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-22T11:22:52.034Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-22T11:23:38.221Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-22T11:24:48.301Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-22T11:24:48.583Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
