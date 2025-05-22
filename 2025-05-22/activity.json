@@ -661,7 +661,7 @@
       "averageChangeSize": 51.666666666666664
     },
     "ExpenseTracker": {
-      "totalLinesAdded": 317,
+      "totalLinesAdded": 9213,
       "totalLinesRemoved": 3,
       "totalActiveTime": 20,
       "files": {
@@ -867,6 +867,22 @@
             },
             "duration": 4,
             "language": "tsx"
+          }
+        ],
+        "e:\\Projects\\ExpenseTracker\\package-lock.json": [
+          {
+            "timestamp": "2025-05-22T12:51:12.726Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 8896,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
