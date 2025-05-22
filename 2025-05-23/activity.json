@@ -237,9 +237,9 @@
       "averageChangeSize": 38
     },
     "Projects": {
-      "totalLinesAdded": 901,
-      "totalLinesRemoved": 483,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 931,
+      "totalLinesRemoved": 484,
+      "totalActiveTime": 47,
       "files": {
         "e:\\Projects\\...Base\\index.html": [
           {
@@ -569,6 +569,202 @@
             "fileName": "e:\\Projects\\...Base\\index.html",
             "fileType": ".html",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:59:25.260Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:59:27.117Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:00:08.985Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:00:31.912Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:00:42.629Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:00:48.422Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:00:48.511Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:00:49.737Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:00:56.496Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:01:31.295Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:01:33.698Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:01:35.662Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:01:37.214Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T22:01:39.056Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Projects",
             "content": {
