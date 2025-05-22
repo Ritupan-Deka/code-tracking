@@ -661,9 +661,9 @@
       "averageChangeSize": 51.666666666666664
     },
     "ExpenseTracker": {
-      "totalLinesAdded": 9423,
-      "totalLinesRemoved": 10,
-      "totalActiveTime": 49,
+      "totalLinesAdded": 9440,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 56,
       "files": {
         "e:\\Projects\\ExpenseTracker\\package.json": [
           {
@@ -1209,6 +1209,20 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-22T13:41:27.855Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "jsx"
           }
         ],
         "e:\\Projects\\ExpenseTracker\\app\\add-expense.jsx": [
@@ -1225,6 +1239,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-22T13:41:38.526Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\add-expense.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "e:\\Projects\\ExpenseTracker\\app\\[expenseId].jsx": [
@@ -1234,6 +1262,20 @@
             "fileType": ".jsx",
             "linesAdded": 32,
             "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-22T13:41:48.314Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\[expenseId].jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "ExpenseTracker",
             "content": {
               "added": [],
