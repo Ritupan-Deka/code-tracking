@@ -237,9 +237,9 @@
       "averageChangeSize": 38
     },
     "Projects": {
-      "totalLinesAdded": 416,
-      "totalLinesRemoved": 14,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 833,
+      "totalLinesRemoved": 483,
+      "totalActiveTime": 23,
       "files": {
         "e:\\Projects\\...Base\\index.html": [
           {
@@ -342,6 +342,160 @@
           },
           {
             "timestamp": "2025-05-22T21:46:41.346Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:51:48.005Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 60,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:51:56.319Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:52:04.841Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:52:08.484Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:52:10.407Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:52:15.936Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:52:17.705Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 60,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:52:23.564Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 341,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:52:28.753Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 341,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:52:35.947Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:52:41.304Z",
             "fileName": "e:\\Projects\\...Base\\index.html",
             "fileType": ".html",
             "linesAdded": 7,
