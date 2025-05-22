@@ -243,6 +243,92 @@
         "e:\\Projects\\FileTransfer\\gork.html"
       ],
       "averageChangeSize": 327
+    },
+    "AiExpenseTracker": {
+      "totalLinesAdded": 161,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\package.json": [
+          {
+            "timestamp": "2025-05-22T10:35:52.775Z",
+            "fileName": "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\package.json",
+            "fileType": ".json",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "AiExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\types\\index.ts": [
+          {
+            "timestamp": "2025-05-22T10:36:44.141Z",
+            "fileName": "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\types\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "AiExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\store\\index.ts": [
+          {
+            "timestamp": "2025-05-22T10:37:27.489Z",
+            "fileName": "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\store\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "AiExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\screens\\AddExpenseScreen.tsx": [
+          {
+            "timestamp": "2025-05-22T10:38:13.886Z",
+            "fileName": "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\screens\\AddExpenseScreen.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "AiExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "ts": 2,
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "16": 3
+      },
+      "topFiles": [
+        "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\package.json",
+        "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\types\\index.ts",
+        "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\store\\index.ts",
+        "e:\\Projects\\AiExpenseTracker\\ExpenseTracker\\screens\\AddExpenseScreen.tsx"
+      ],
+      "averageChangeSize": 40.25
     }
   },
   "totalActiveTime": 1,
