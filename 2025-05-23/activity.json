@@ -235,6 +235,67 @@
         "e:\\Projects\\ExpenseTracker\\app\\[expenseId].jsx"
       ],
       "averageChangeSize": 38
+    },
+    "Projects": {
+      "totalLinesAdded": 313,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "e:\\Projects\\...Base\\index.html": [
+          {
+            "timestamp": "2025-05-22T21:33:50.899Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 305,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:35:56.350Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-22T21:36:00.161Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 4
+      },
+      "changeFrequency": {
+        "3": 4
+      },
+      "topFiles": [
+        "e:\\Projects\\...Base\\index.html"
+      ],
+      "averageChangeSize": 104.33333333333333
     }
   },
   "totalActiveTime": 0,
