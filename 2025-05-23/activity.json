@@ -2,9 +2,9 @@
   "date": "2025-05-23",
   "projects": {
     "ExpenseTracker": {
-      "totalLinesAdded": 1008,
+      "totalLinesAdded": 1010,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 10,
+      "totalActiveTime": 11,
       "files": {
         "e:\\Projects\\ExpenseTracker\\app\\[expenseId].jsx": [
           {
@@ -193,6 +193,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-22T20:07:09.851Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\add-entry.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-22T20:07:30.199Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\add-entry.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]
