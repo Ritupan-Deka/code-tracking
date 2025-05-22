@@ -661,9 +661,9 @@
       "averageChangeSize": 51.666666666666664
     },
     "ExpenseTracker": {
-      "totalLinesAdded": 63,
+      "totalLinesAdded": 64,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalActiveTime": 11,
       "files": {
         "e:\\Projects\\ExpenseTracker\\package.json": [
           {
@@ -694,6 +694,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-22T11:58:58.691Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ],
