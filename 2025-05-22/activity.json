@@ -661,9 +661,9 @@
       "averageChangeSize": 51.666666666666664
     },
     "ExpenseTracker": {
-      "totalLinesAdded": 9234,
+      "totalLinesAdded": 9270,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 20,
+      "totalActiveTime": 27,
       "files": {
         "e:\\Projects\\ExpenseTracker\\package.json": [
           {
@@ -678,6 +678,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-22T13:26:13.314Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\package.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-22T13:26:13.331Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ],
@@ -899,6 +927,36 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "e:\\Projects\\ExpenseTracker\\app\\index.jsx": [
+          {
+            "timestamp": "2025-05-22T13:24:06.295Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-22T13:24:06.948Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "ExpenseTracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ]
       },
