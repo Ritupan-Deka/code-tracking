@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 161                                          |
+| **Lines Added** (➕)   | 291                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 161                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Net Change** (↕)    | 291                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,8 @@
 - **index.ts** (+8, -0)
 - **index.ts** (+26, -0)
 - **AddExpenseScreen.tsx** (+100, -0)
+- **HomeScreen.tsx** (+100, -0)
+- **App.tsx** (+30, -0)
 
 ## Visualizations
 
@@ -25,7 +27,7 @@ pie showData
 title Lines changed by file type
 ".json" : 27
 ".ts" : 34
-".tsx" : 100
+".tsx" : 230
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +35,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"16h" : 4
+"16h" : 6
 ```
 
 
-> **Last Updated:** 5/22/2025, 4:08:46 PM
+> **Last Updated:** 5/22/2025, 4:13:46 PM
