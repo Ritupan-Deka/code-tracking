@@ -363,9 +363,9 @@
       "averageChangeSize": 40.25
     },
     "...Base": {
-      "totalLinesAdded": 289,
-      "totalLinesRemoved": 36,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 320,
+      "totalLinesRemoved": 37,
+      "totalActiveTime": 32,
       "files": {
         "e:\\Projects\\...Base\\ExpenseTracker\\tailwind.config.js": [
           {
@@ -452,6 +452,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-22T11:42:31.592Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\babel.config.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ],
@@ -613,6 +627,22 @@
             },
             "duration": 5,
             "language": "js"
+          }
+        ],
+        "e:\\Projects\\...Base\\ExpenseTracker\\package.json": [
+          {
+            "timestamp": "2025-05-22T11:40:55.175Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\package.json",
+            "fileType": ".json",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
           }
         ]
       },
