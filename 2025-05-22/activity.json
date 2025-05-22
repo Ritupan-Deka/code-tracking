@@ -363,9 +363,9 @@
       "averageChangeSize": 40.25
     },
     "...Base": {
-      "totalLinesAdded": 261,
-      "totalLinesRemoved": 34,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 276,
+      "totalLinesRemoved": 36,
+      "totalActiveTime": 21,
       "files": {
         "e:\\Projects\\...Base\\ExpenseTracker\\tailwind.config.js": [
           {
@@ -394,6 +394,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-22T11:30:01.564Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
@@ -539,6 +553,50 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "e:\\Projects\\...Base\\ExpenseTracker\\index.ts": [
+          {
+            "timestamp": "2025-05-22T11:32:10.464Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-22T11:32:11.401Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-22T11:32:12.815Z",
+            "fileName": "e:\\Projects\\...Base\\ExpenseTracker\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
