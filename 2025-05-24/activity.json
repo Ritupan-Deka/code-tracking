@@ -1,0 +1,61 @@
+{
+  "date": "2025-05-24",
+  "projects": {
+    "Projects": {
+      "totalLinesAdded": 454,
+      "totalLinesRemoved": 320,
+      "totalActiveTime": 1,
+      "files": {
+        "e:\\Projects\\...Base\\index.html": [
+          {
+            "timestamp": "2025-05-24T08:50:11.405Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 454,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-24T08:50:20.636Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 320,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 1
+      },
+      "changeFrequency": {
+        "14": 1
+      },
+      "topFiles": [
+        "e:\\Projects\\...Base\\index.html"
+      ],
+      "averageChangeSize": 387
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
