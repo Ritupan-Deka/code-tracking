@@ -2,9 +2,9 @@
   "date": "2025-05-24",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 454,
-      "totalLinesRemoved": 320,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 820,
+      "totalLinesRemoved": 322,
+      "totalActiveTime": 10,
       "files": {
         "e:\\Projects\\...Base\\index.html": [
           {
@@ -27,6 +27,62 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 320,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-24T08:53:50.065Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 320,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-24T08:56:01.039Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-24T08:56:30.908Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-24T08:56:57.659Z",
+            "fileName": "e:\\Projects\\...Base\\index.html",
+            "fileType": ".html",
+            "linesAdded": 46,
+            "linesRemoved": 0,
             "projectName": "Projects",
             "content": {
               "added": [],
