@@ -1,0 +1,605 @@
+{
+  "date": "2025-05-25",
+  "projects": {
+    "Projects": {
+      "totalLinesAdded": 10640,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 36,
+      "files": {
+        "e:\\Projects\\...Base\\2048Game\\node_modules\\eslint-plugin-react-hooks\\index.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:57:41.023Z",
+            "fileName": "e:\\Projects\\...Base\\2048Game\\node_modules\\eslint-plugin-react-hooks\\index.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\2048Game\\node_modules\\@types\\react\\jsx-runtime.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:57:41.248Z",
+            "fileName": "e:\\Projects\\...Base\\2048Game\\node_modules\\@types\\react\\jsx-runtime.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\2048Game\\node_modules\\eslint\\lib\\types\\use-at-your-own-risk.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:57:41.295Z",
+            "fileName": "e:\\Projects\\...Base\\2048Game\\node_modules\\eslint\\lib\\types\\use-at-your-own-risk.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\2048Game\\node_modules\\eslint\\lib\\types\\index.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:57:41.797Z",
+            "fileName": "e:\\Projects\\...Base\\2048Game\\node_modules\\eslint\\lib\\types\\index.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 2296,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\2048Game\\package.json": [
+          {
+            "timestamp": "2025-05-25T17:57:48.366Z",
+            "fileName": "e:\\Projects\\...Base\\2048Game\\package.json",
+            "fileType": ".json",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-25T17:57:52.658Z",
+            "fileName": "e:\\Projects\\...Base\\2048Game\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-25T17:57:52.981Z",
+            "fileName": "e:\\Projects\\...Base\\2048Game\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-25T17:57:53.343Z",
+            "fileName": "e:\\Projects\\...Base\\2048Game\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\@types\\react\\jsx-runtime.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:49.740Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\@types\\react\\jsx-runtime.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\vite\\types\\customEvent.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:49.827Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\vite\\types\\customEvent.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\lazy-result.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:50.996Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\lazy-result.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 191,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\root.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:50.895Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\root.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\declaration.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:50.756Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\declaration.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\css-syntax-error.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:50.571Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\css-syntax-error.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 249,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\previous-map.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:50.519Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\previous-map.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\input.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:50.557Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\input.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 207,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\vite\\dist\\node\\module-runner.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:50.178Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\vite\\dist\\node\\module-runner.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 291,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\vite\\types\\hot.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:49.898Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\vite\\types\\hot.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\vite\\dist\\node\\moduleRunnerTransport.d-DJ_mE5sf.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:50.128Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\vite\\dist\\node\\moduleRunnerTransport.d-DJ_mE5sf.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\no-work-result.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:51.181Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\no-work-result.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\document.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:52.127Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\document.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\node.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:52.457Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\node.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 542,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\processor.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:51.848Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\processor.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\result.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:51.973Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\result.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 206,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\warning.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:51.558Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\warning.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 148,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\postcss.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:53.544Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\postcss.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 459,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\at-rule.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:53.232Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\at-rule.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 141,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\comment.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:52.652Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\comment.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\container.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:52.787Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\container.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 481,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\rule.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:52.340Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\rule.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\postcss.d.mts": [
+          {
+            "timestamp": "2025-05-25T17:58:53.817Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\postcss\\lib\\postcss.d.mts",
+            "fileType": ".mts",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\node_modules\\vite\\dist\\node\\index.d.ts": [
+          {
+            "timestamp": "2025-05-25T17:58:53.864Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\node_modules\\vite\\dist\\node\\index.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 4223,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "e:\\Projects\\...Base\\game2048\\src\\App.jsx": [
+          {
+            "timestamp": "2025-05-25T18:00:13.719Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-25T18:00:27.161Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-25T18:00:28.101Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-25T18:00:34.984Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 25,
+        "json": 4,
+        "mts": 2,
+        "jsx": 5
+      },
+      "changeFrequency": {
+        "23": 36
+      },
+      "topFiles": [
+        "e:\\Projects\\...Base\\2048Game\\package.json",
+        "e:\\Projects\\...Base\\game2048\\src\\App.jsx",
+        "e:\\Projects\\...Base\\2048Game\\node_modules\\eslint-plugin-react-hooks\\index.d.ts",
+        "e:\\Projects\\...Base\\2048Game\\node_modules\\@types\\react\\jsx-runtime.d.ts",
+        "e:\\Projects\\...Base\\2048Game\\node_modules\\eslint\\lib\\types\\use-at-your-own-risk.d.ts"
+      ],
+      "averageChangeSize": 295.72222222222223
+    }
+  },
+  "totalActiveTime": 25,
+  "totalProjects": 1,
+  "totalFiles": 30,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "ts",
+    "jsx",
+    "json",
+    "mts"
+  ]
+}
