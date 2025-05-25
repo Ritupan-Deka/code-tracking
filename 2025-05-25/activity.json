@@ -2,9 +2,9 @@
   "date": "2025-05-25",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 10753,
-      "totalLinesRemoved": 61,
-      "totalActiveTime": 121,
+      "totalLinesAdded": 10765,
+      "totalLinesRemoved": 81,
+      "totalActiveTime": 142,
       "files": {
         "e:\\Projects\\...Base\\2048Game\\node_modules\\eslint-plugin-react-hooks\\index.d.ts": [
           {
@@ -1665,6 +1665,272 @@
           },
           {
             "timestamp": "2025-05-25T18:15:22.587Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:18:20.943Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:19:12.026Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:19:12.793Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:19:13.361Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:19:19.269Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:19:19.356Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:19:19.285Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:19:19.374Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:19:30.552Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:19:30.412Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:19:56.881Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:20:02.353Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:20:04.337Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:20:28.742Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:20:28.905Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:20:29.062Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:20:29.577Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:20:36.011Z",
+            "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-25T18:20:36.028Z",
             "fileName": "e:\\Projects\\...Base\\game2048\\src\\App.css",
             "fileType": ".css",
             "linesAdded": 1,
