@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 528                                          |
-| **Lines Removed** (➖) | 317                                        |
-| **Net Change** (↕)    | 211                |
-| **Active Time** (⌚)   | 380 minutes |
+| **Lines Added** (➕)   | 652                                          |
+| **Lines Removed** (➖) | 322                                        |
+| **Net Change** (↕)    | 330                |
+| **Active Time** (⌚)   | 390 minutes |
 
 
 ## Modified Files
 - **index.html** (+34, -6)
 - **index.css** (+169, -94)
-- **App.css** (+193, -131)
-- **App.jsx** (+132, -86)
+- **App.css** (+197, -135)
+- **App.jsx** (+252, -87)
 
 ## Visualizations
 
@@ -24,8 +24,8 @@
 pie showData
 title Lines changed by file type
 ".html" : 40
-".css" : 587
-".jsx" : 218
+".css" : 595
+".jsx" : 339
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,9 +35,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 90
 "01h" : 140
-"02h" : 82
+"02h" : 90
 "23h" : 16
 ```
 
 
-> **Last Updated:** 5/26/2025, 2:38:33 AM
+> **Last Updated:** 5/26/2025, 2:50:11 AM
