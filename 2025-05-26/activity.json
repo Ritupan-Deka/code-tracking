@@ -4847,9 +4847,9 @@
       "averageChangeSize": 2.8823529411764706
     },
     "ZIP FILE": {
-      "totalLinesAdded": 2215,
+      "totalLinesAdded": 2232,
       "totalLinesRemoved": 30,
-      "totalActiveTime": 27,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
           {
@@ -5287,6 +5287,50 @@
           {
             "timestamp": "2025-05-26T10:48:17.720Z",
             "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Rough.txt": [
+          {
+            "timestamp": "2025-05-26T11:04:51.858Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Rough.txt",
+            "fileType": ".txt",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:05:40.536Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Rough.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:05:41.838Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Rough.txt",
             "fileType": ".txt",
             "linesAdded": 5,
             "linesRemoved": 0,
