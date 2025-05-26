@@ -4845,6 +4845,39 @@
         "e:\\Projects\\...Base\\game2048\\src\\App.css"
       ],
       "averageChangeSize": 2.8823529411764706
+    },
+    "ZIP FILE": {
+      "totalLinesAdded": 184,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
+          {
+            "timestamp": "2025-05-26T10:10:24.031Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py",
+            "fileType": ".py",
+            "linesAdded": 184,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py"
+      ],
+      "averageChangeSize": 184
     }
   },
   "totalActiveTime": 20,
