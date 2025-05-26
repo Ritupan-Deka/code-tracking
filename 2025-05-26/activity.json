@@ -4847,9 +4847,9 @@
       "averageChangeSize": 2.8823529411764706
     },
     "ZIP FILE": {
-      "totalLinesAdded": 2187,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 2215,
+      "totalLinesRemoved": 30,
+      "totalActiveTime": 27,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
           {
@@ -5135,6 +5135,160 @@
             "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
             "fileType": ".txt",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:46:57.620Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:47:18.413Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:47:22.748Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:48:04.835Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:48:05.254Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:48:05.671Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:48:06.309Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:48:07.146Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:48:09.256Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:48:13.025Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T10:48:17.720Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "ZIP FILE",
             "content": {
