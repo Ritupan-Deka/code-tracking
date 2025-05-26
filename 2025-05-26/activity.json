@@ -4847,9 +4847,9 @@
       "averageChangeSize": 2.8823529411764706
     },
     "ZIP FILE": {
-      "totalLinesAdded": 3262,
-      "totalLinesRemoved": 293,
-      "totalActiveTime": 101,
+      "totalLinesAdded": 3299,
+      "totalLinesRemoved": 302,
+      "totalActiveTime": 114,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
           {
@@ -6187,6 +6187,34 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T12:36:08.215Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Embedding_robust.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T12:36:15.740Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Embedding_robust.py",
+            "fileType": ".py",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
           }
         ],
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_robust.py": [
@@ -6266,6 +6294,48 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T12:33:34.800Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_robust.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T12:33:37.489Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_robust.py",
+            "fileType": ".py",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T12:33:51.045Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_robust.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
             "projectName": "ZIP FILE",
             "content": {
               "added": [],
