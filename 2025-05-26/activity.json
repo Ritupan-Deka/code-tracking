@@ -4847,9 +4847,9 @@
       "averageChangeSize": 2.8823529411764706
     },
     "ZIP FILE": {
-      "totalLinesAdded": 2232,
+      "totalLinesAdded": 2242,
       "totalLinesRemoved": 30,
-      "totalActiveTime": 29,
+      "totalActiveTime": 34,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
           {
@@ -5333,6 +5333,62 @@
             "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Rough.txt",
             "fileType": ".txt",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:07:15.579Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Rough.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:07:16.087Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Rough.txt",
+            "fileType": ".txt",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:07:26.634Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Rough.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:07:27.066Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Rough.txt",
+            "fileType": ".txt",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "ZIP FILE",
             "content": {
