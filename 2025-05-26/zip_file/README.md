@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3195                                          |
-| **Lines Removed** (➖) | 267                                        |
-| **Net Change** (↕)    | 2928                |
-| **Active Time** (⌚)   | 87 minutes |
+| **Lines Added** (➕)   | 3214                                          |
+| **Lines Removed** (➖) | 274                                        |
+| **Net Change** (↕)    | 2940                |
+| **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **Rough.txt** (+27, -0)
 - **Embedding_diff.py** (+364, -177)
 - **Extraction_diff.py** (+187, -12)
-- **Embedding_robust.py** (+165, -0)
+- **Embedding_robust.py** (+184, -7)
 - **Extraction_robust.py** (+157, -0)
 
 ## Visualizations
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 3232
+".py" : 3258
 ".txt" : 230
 ```
 
@@ -42,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "15h" : 4
 "16h" : 67
-"17h" : 17
+"17h" : 20
 ```
 
 
-> **Last Updated:** 5/26/2025, 5:46:38 PM
+> **Last Updated:** 5/26/2025, 5:51:38 PM
