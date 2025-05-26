@@ -4847,9 +4847,9 @@
       "averageChangeSize": 2.8823529411764706
     },
     "ZIP FILE": {
-      "totalLinesAdded": 2242,
-      "totalLinesRemoved": 30,
-      "totalActiveTime": 34,
+      "totalLinesAdded": 2729,
+      "totalLinesRemoved": 205,
+      "totalActiveTime": 58,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
           {
@@ -5297,6 +5297,174 @@
             },
             "duration": 1,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:14:24.142Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:14:24.504Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:14:58.058Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:03.147Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:04.126Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:06.685Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:07.184Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:26.050Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:27.136Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:31.247Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:32.949Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:35.501Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ],
         "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Rough.txt": [
@@ -5397,6 +5565,122 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Embedding_diff.py": [
+          {
+            "timestamp": "2025-05-26T11:12:12.343Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Embedding_diff.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T11:12:47.006Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Embedding_diff.py",
+            "fileType": ".py",
+            "linesAdded": 171,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T11:12:56.981Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Embedding_diff.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 171,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T11:14:03.253Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Embedding_diff.py",
+            "fileType": ".py",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:52.069Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Embedding_diff.py",
+            "fileType": ".py",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_diff.py": [
+          {
+            "timestamp": "2025-05-26T11:13:39.317Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_diff.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T11:14:13.028Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_diff.py",
+            "fileType": ".py",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T11:15:52.897Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_diff.py",
+            "fileType": ".py",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
