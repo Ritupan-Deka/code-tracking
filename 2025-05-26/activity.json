@@ -4848,8 +4848,8 @@
     },
     "ZIP FILE": {
       "totalLinesAdded": 4884,
-      "totalLinesRemoved": 550,
-      "totalActiveTime": 193,
+      "totalLinesRemoved": 557,
+      "totalActiveTime": 194,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
           {
@@ -6158,6 +6158,20 @@
             "fileType": ".txt",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T18:02:53.959Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\run-command.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 7,
             "projectName": "ZIP FILE",
             "content": {
               "added": [],
