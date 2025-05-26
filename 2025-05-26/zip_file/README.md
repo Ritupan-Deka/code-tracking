@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4223                                          |
-| **Lines Removed** (➖) | 335                                        |
-| **Net Change** (↕)    | 3888                |
+| **Lines Removed** (➖) | 477                                        |
+| **Net Change** (↕)    | 3746                |
 | **Active Time** (⌚)   | 163 minutes |
 
 
@@ -25,7 +25,7 @@
 - **Extraction_robust.py** (+231, -13)
 - **Validattion.py** (+207, -0)
 - **Validation.py** (+273, -0)
-- **Completely_different.py** (+313, -9)
+- **Completely_different.py** (+313, -151)
 - **validation_report.txt** (+8, -0)
 
 ## Visualizations
@@ -35,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 4215
+".py" : 4357
 ".txt" : 343
 ```
 
@@ -48,8 +48,8 @@ title Coding activity by hour (count of changes)
 "16h" : 67
 "17h" : 26
 "18h" : 39
-"19h" : 15
+"19h" : 16
 ```
 
 
-> **Last Updated:** 5/26/2025, 7:36:43 PM
+> **Last Updated:** 5/26/2025, 7:51:43 PM

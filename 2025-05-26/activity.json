@@ -4848,7 +4848,7 @@
     },
     "ZIP FILE": {
       "totalLinesAdded": 4223,
-      "totalLinesRemoved": 335,
+      "totalLinesRemoved": 477,
       "totalActiveTime": 163,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
@@ -6978,6 +6978,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T14:18:53.571Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Completely_different.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 142,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
