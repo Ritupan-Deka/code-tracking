@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4275                                          |
-| **Lines Removed** (➖) | 483                                        |
-| **Net Change** (↕)    | 3792                |
-| **Active Time** (⌚)   | 175 minutes |
+| **Lines Added** (➕)   | 4276                                          |
+| **Lines Removed** (➖) | 488                                        |
+| **Net Change** (↕)    | 3788                |
+| **Active Time** (⌚)   | 178 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **Extraction.py** (+471, -0)
 - **Embedding_new.py** (+193, -0)
 - **Extraction_new.py** (+229, -0)
-- **run-command.txt** (+185, -93)
+- **run-command.txt** (+186, -98)
 - **Rough.txt** (+48, -9)
 - **Embedding_diff.py** (+364, -177)
 - **Extraction_diff.py** (+187, -12)
@@ -36,7 +36,7 @@
 pie showData
 title Lines changed by file type
 ".py" : 4415
-".txt" : 343
+".txt" : 349
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,7 +49,8 @@ title Coding activity by hour (count of changes)
 "17h" : 26
 "18h" : 39
 "19h" : 22
+"20h" : 4
 ```
 
 
-> **Last Updated:** 5/26/2025, 7:56:50 PM
+> **Last Updated:** 5/26/2025, 8:06:47 PM
