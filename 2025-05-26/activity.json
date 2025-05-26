@@ -4847,9 +4847,9 @@
       "averageChangeSize": 2.8823529411764706
     },
     "ZIP FILE": {
-      "totalLinesAdded": 2822,
-      "totalLinesRemoved": 222,
-      "totalActiveTime": 67,
+      "totalLinesAdded": 2824,
+      "totalLinesRemoved": 234,
+      "totalActiveTime": 71,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
           {
@@ -5827,6 +5827,34 @@
             "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_diff.py",
             "fileType": ".py",
             "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T11:28:52.557Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_diff.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-26T11:29:11.575Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_diff.py",
+            "fileType": ".py",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "ZIP FILE",
             "content": {
