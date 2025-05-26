@@ -4847,9 +4847,9 @@
       "averageChangeSize": 2.8823529411764706
     },
     "ZIP FILE": {
-      "totalLinesAdded": 4339,
+      "totalLinesAdded": 4341,
       "totalLinesRemoved": 550,
-      "totalActiveTime": 182,
+      "totalActiveTime": 183,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
           {
@@ -7219,6 +7219,38 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Embedding_crop_robust.py": [
+          {
+            "timestamp": "2025-05-26T17:50:40.760Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Embedding_crop_robust.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_crop_robust.py": [
+          {
+            "timestamp": "2025-05-26T17:51:33.058Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\Extraction_crop_robust.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
