@@ -4,15 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 854                                          |
+| **Lines Added** (➕)   | 1748                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 854                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 1748                |
+| **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **MODEL.py** (+184, -0)
 - **RS-EM.py** (+670, -0)
+- **Embedding.py** (+423, -0)
+- **Extraction.py** (+471, -0)
 
 ## Visualizations
 
@@ -21,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 854
+".py" : 1748
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"15h" : 2
+"15h" : 4
 ```
 
 
-> **Last Updated:** 5/26/2025, 3:51:37 PM
+> **Last Updated:** 5/26/2025, 3:56:37 PM

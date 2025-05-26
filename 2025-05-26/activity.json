@@ -4847,9 +4847,9 @@
       "averageChangeSize": 2.8823529411764706
     },
     "ZIP FILE": {
-      "totalLinesAdded": 854,
+      "totalLinesAdded": 1748,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\CODE_NON_ROI\\MODEL.py": [
           {
@@ -4880,6 +4880,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\Embedding.py": [
+          {
+            "timestamp": "2025-05-26T10:26:05.816Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\Embedding.py",
+            "fileType": ".py",
+            "linesAdded": 423,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\Extraction.py": [
+          {
+            "timestamp": "2025-05-26T10:26:28.410Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\temp\\ZIP FILE\\Extraction.py",
+            "fileType": ".py",
+            "linesAdded": 471,
+            "linesRemoved": 0,
+            "projectName": "ZIP FILE",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
