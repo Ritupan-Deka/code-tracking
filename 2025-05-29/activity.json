@@ -1,0 +1,47 @@
+{
+  "date": "2025-05-29",
+  "projects": {
+    "Projects": {
+      "totalLinesAdded": 90,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Projects\\...Base\\football-stats-app\\src\\App.jsx": [
+          {
+            "timestamp": "2025-05-29T08:42:35.611Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "e:\\Projects\\...Base\\football-stats-app\\src\\App.jsx"
+      ],
+      "averageChangeSize": 90
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
