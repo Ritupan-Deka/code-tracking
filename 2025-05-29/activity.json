@@ -2,9 +2,9 @@
   "date": "2025-05-29",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 396,
-      "totalLinesRemoved": 14,
-      "totalActiveTime": 44,
+      "totalLinesAdded": 652,
+      "totalLinesRemoved": 111,
+      "totalActiveTime": 52,
       "files": {
         "e:\\Projects\\...Base\\football-stats-app\\src\\App.jsx": [
           {
@@ -19,6 +19,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-29T09:12:45.854Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 89,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-29T09:12:45.788Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-29T09:12:49.920Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ],
@@ -74,6 +116,48 @@
             "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\components\\TeamStats.jsx",
             "fileType": ".jsx",
             "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-29T09:13:30.242Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\components\\TeamStats.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-29T09:13:30.748Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\components\\TeamStats.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-29T09:13:46.806Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\components\\TeamStats.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Projects",
             "content": {
@@ -418,6 +502,50 @@
             },
             "duration": 2,
             "language": "js"
+          }
+        ],
+        "e:\\Projects\\...Base\\football-stats-app\\src\\index.css": [
+          {
+            "timestamp": "2025-05-29T09:12:05.019Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-29T09:12:29.237Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-29T09:14:01.869Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
