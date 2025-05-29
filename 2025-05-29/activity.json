@@ -3,8 +3,8 @@
   "projects": {
     "Projects": {
       "totalLinesAdded": 396,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 42,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 44,
       "files": {
         "e:\\Projects\\...Base\\football-stats-app\\src\\App.jsx": [
           {
@@ -403,6 +403,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-29T09:05:08.178Z",
+            "fileName": "e:\\Projects\\...Base\\football-stats-app\\backend\\server.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]
