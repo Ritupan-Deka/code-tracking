@@ -117,9 +117,9 @@
       "averageChangeSize": 60.2
     },
     "documents": {
-      "totalLinesAdded": 5,
+      "totalLinesAdded": 240,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 3,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\documents\\JOB4MONTHS.txt": [
           {
@@ -163,6 +163,36 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\user\\OneDrive\\Desktop\\documents\\JOB4MONTHS.html": [
+          {
+            "timestamp": "2025-06-01T22:55:48.997Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\JOB4MONTHS.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-01T22:55:54.790Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\JOB4MONTHS.html",
+            "fileType": ".html",
+            "linesAdded": 234,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },
