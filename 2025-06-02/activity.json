@@ -1,0 +1,114 @@
+{
+  "date": "2025-06-02",
+  "projects": {
+    "Projects": {
+      "totalLinesAdded": 301,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "e:\\Projects\\ExpenseTracker\\app\\constants\\CommonStyles.js": [
+          {
+            "timestamp": "2025-06-01T18:26:21.675Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\constants\\CommonStyles.js",
+            "fileType": ".js",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\ExpenseTracker\\app\\constants\\Colors.js": [
+          {
+            "timestamp": "2025-06-01T18:26:21.760Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\constants\\Colors.js",
+            "fileType": ".js",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\ExpenseTracker\\app\\[entryId].jsx": [
+          {
+            "timestamp": "2025-06-01T18:26:29.917Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\[entryId].jsx",
+            "fileType": ".jsx",
+            "linesAdded": 180,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-01T18:27:18.910Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\[entryId].jsx",
+            "fileType": ".jsx",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "e:\\Projects\\ExpenseTracker\\app\\index.jsx": [
+          {
+            "timestamp": "2025-06-01T18:28:45.233Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 2,
+        "jsx": 4
+      },
+      "changeFrequency": {
+        "23": 6
+      },
+      "topFiles": [
+        "e:\\Projects\\ExpenseTracker\\app\\[entryId].jsx",
+        "e:\\Projects\\ExpenseTracker\\app\\constants\\CommonStyles.js",
+        "e:\\Projects\\ExpenseTracker\\app\\constants\\Colors.js",
+        "e:\\Projects\\ExpenseTracker\\app\\index.jsx"
+      ],
+      "averageChangeSize": 60.2
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "jsx",
+    "js"
+  ]
+}
