@@ -2,7 +2,7 @@
   "date": "2025-06-02",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 301,
+      "totalLinesAdded": 318,
       "totalLinesRemoved": 0,
       "totalActiveTime": 6,
       "files": {
@@ -81,6 +81,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "e:\\Projects\\ExpenseTracker\\app\\add-entry.jsx": [
+          {
+            "timestamp": "2025-06-01T18:45:54.162Z",
+            "fileName": "e:\\Projects\\ExpenseTracker\\app\\add-entry.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]
