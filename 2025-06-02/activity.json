@@ -117,7 +117,7 @@
       "averageChangeSize": 60.2
     },
     "documents": {
-      "totalLinesAdded": 240,
+      "totalLinesAdded": 269,
       "totalLinesRemoved": 0,
       "totalActiveTime": 3,
       "files": {
@@ -192,6 +192,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-02T00:10:47.297Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\JOB4MONTHS.html",
+            "fileType": ".html",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]
