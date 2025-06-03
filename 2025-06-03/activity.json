@@ -3,8 +3,8 @@
   "projects": {
     "RealTimeChat": {
       "totalLinesAdded": 478,
-      "totalLinesRemoved": 56,
-      "totalActiveTime": 29,
+      "totalLinesRemoved": 87,
+      "totalActiveTime": 34,
       "files": {
         "e:\\Projects\\RealTimeChat\\chat-backend\\index.js": [
           {
@@ -247,6 +247,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-03T13:04:20.144Z",
+            "fileName": "e:\\Projects\\RealTimeChat\\chat-frontend\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 31,
+            "projectName": "RealTimeChat",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "jsx"
           }
         ],
