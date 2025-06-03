@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 334                                          |
-| **Lines Removed** (➖) | 30                                        |
-| **Net Change** (↕)    | 304                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Lines Added** (➕)   | 391                                          |
+| **Lines Removed** (➖) | 54                                        |
+| **Net Change** (↕)    | 337                |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
 - **index.js** (+79, -5)
 - **package.json** (+21, -0)
-- **App.jsx** (+79, -11)
+- **App.jsx** (+86, -34)
 - **vite.config.js** (+13, -0)
 - **.env** (+3, -0)
-- **App.css** (+139, -14)
+- **App.css** (+189, -15)
 
 ## Visualizations
 
@@ -27,9 +27,9 @@ pie showData
 title Lines changed by file type
 ".js" : 97
 ".json" : 21
-".jsx" : 90
+".jsx" : 120
 "unknown" : 3
-".css" : 153
+".css" : 204
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 19
-"18h" : 3
+"18h" : 9
 ```
 
 
-> **Last Updated:** 6/3/2025, 6:21:33 PM
+> **Last Updated:** 6/3/2025, 6:26:30 PM
