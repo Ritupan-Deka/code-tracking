@@ -4,16 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 365                                          |
+| **Lines Added** (➕)   | 498                                          |
 | **Lines Removed** (➖) | 78                                        |
-| **Net Change** (↕)    | 287                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Net Change** (↕)    | 420                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
 - **settings.json** (+185, -0)
-- **main.dart** (+101, -78)
+- **main.dart** (+124, -78)
 - **home_screen.dart** (+79, -0)
+- **home_screen.dart** (+79, -0)
+- **widget_test.dart** (+31, -0)
 
 ## Visualizations
 
@@ -23,7 +25,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 185
-".dart" : 258
+".dart" : 391
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,7 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 5
+"01h" : 3
 ```
 
 
-> **Last Updated:** 6/15/2025, 12:54:53 AM
+> **Last Updated:** 6/15/2025, 1:11:04 AM

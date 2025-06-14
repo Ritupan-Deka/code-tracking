@@ -2,9 +2,9 @@
   "date": "2025-06-15",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 365,
+      "totalLinesAdded": 498,
       "totalLinesRemoved": 78,
-      "totalActiveTime": 5,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -64,6 +64,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-06-14T19:36:05.191Z",
+            "fileName": "e:\\Projects\\mindful_journal_app\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
           }
         ],
         "e:\\Projects\\mindful_journal_app\\lib\\home_screen.dart": [
@@ -79,6 +93,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "e:\\Projects\\mindful_journal_app\\lib\\screens\\home_screen.dart": [
+          {
+            "timestamp": "2025-06-14T19:37:05.587Z",
+            "fileName": "e:\\Projects\\mindful_journal_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "e:\\Projects\\mindful_journal_app\\test\\widget_test.dart": [
+          {
+            "timestamp": "2025-06-14T19:40:25.786Z",
+            "fileName": "e:\\Projects\\mindful_journal_app\\test\\widget_test.dart",
+            "fileType": ".dart",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "dart"
           }
         ]
