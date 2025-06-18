@@ -1,0 +1,372 @@
+{
+  "date": "2025-06-18",
+  "projects": {
+    "documents": {
+      "totalLinesAdded": 61,
+      "totalLinesRemoved": 17,
+      "totalActiveTime": 22,
+      "files": {
+        "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt": [
+          {
+            "timestamp": "2025-06-18T05:51:27.407Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:51:27.496Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:51:31.909Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:51:43.169Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:51:44.616Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:51:45.963Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:51:49.558Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:51:51.673Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:51:55.726Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:51:57.701Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:52:02.815Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:52:03.251Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:52:12.067Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:52:13.418Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:52:36.667Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:53:09.863Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:53:10.439Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\user\\OneDrive\\Desktop\\documents\\SaaSIdeas.txt": [
+          {
+            "timestamp": "2025-06-18T05:53:00.151Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\SaaSIdeas.txt",
+            "fileType": ".txt",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:53:49.415Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\SaaSIdeas.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:53:51.061Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\SaaSIdeas.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:53:55.870Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\SaaSIdeas.txt",
+            "fileType": ".txt",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:53:58.323Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\SaaSIdeas.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:53:59.631Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\SaaSIdeas.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-18T05:54:00.589Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\documents\\SaaSIdeas.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 22
+      },
+      "changeFrequency": {
+        "11": 22
+      },
+      "topFiles": [
+        "c:\\Users\\user\\OneDrive\\Desktop\\documents\\Project.txt",
+        "c:\\Users\\user\\OneDrive\\Desktop\\documents\\SaaSIdeas.txt"
+      ],
+      "averageChangeSize": 3.25
+    }
+  },
+  "totalActiveTime": 23,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "txt"
+  ]
+}
