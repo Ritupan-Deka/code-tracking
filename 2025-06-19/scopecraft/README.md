@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 126                                          |
-| **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 120                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Lines Added** (➕)   | 252                                          |
+| **Lines Removed** (➖) | 15                                        |
+| **Net Change** (↕)    | 237                |
+| **Active Time** (⌚)   | 29 minutes |
 
 
 ## Modified Files
@@ -15,9 +15,11 @@
 - **postcss.config.js** (+7, -0)
 - **globals.css** (+4, -0)
 - **layout.tsx** (+20, -1)
-- **page.tsx** (+9, -0)
+- **page.tsx** (+20, -9)
 - **package.json** (+37, -5)
 - **tsconfig.json** (+36, -0)
+- **HeroSection.tsx** (+51, -0)
+- **HowItWorks.tsx** (+64, -0)
 
 ## Visualizations
 
@@ -28,7 +30,7 @@ pie showData
 title Lines changed by file type
 ".js" : 20
 ".css" : 4
-".tsx" : 30
+".tsx" : 165
 ".json" : 78
 ```
 
@@ -39,7 +41,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "17h" : 12
 "18h" : 3
+"19h" : 14
 ```
 
 
-> **Last Updated:** 6/19/2025, 6:06:12 PM
+> **Last Updated:** 6/19/2025, 7:41:12 PM
