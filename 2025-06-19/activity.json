@@ -205,9 +205,9 @@
       "averageChangeSize": 167.83333333333334
     },
     "scopecraft": {
-      "totalLinesAdded": 252,
+      "totalLinesAdded": 445,
       "totalLinesRemoved": 15,
-      "totalActiveTime": 29,
+      "totalActiveTime": 34,
       "files": {
         "e:\\scopecraft\\tailwind.config.js": [
           {
@@ -630,6 +630,70 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "e:\\scopecraft\\components\\KeyFeatures.tsx": [
+          {
+            "timestamp": "2025-06-19T14:11:11.608Z",
+            "fileName": "e:\\scopecraft\\components\\KeyFeatures.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\scopecraft\\components\\WhoItsFor.tsx": [
+          {
+            "timestamp": "2025-06-19T14:12:02.266Z",
+            "fileName": "e:\\scopecraft\\components\\WhoItsFor.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\scopecraft\\components\\PricingPlans.tsx": [
+          {
+            "timestamp": "2025-06-19T14:13:13.015Z",
+            "fileName": "e:\\scopecraft\\components\\PricingPlans.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "e:\\scopecraft\\components\\FinalCTA.tsx": [
+          {
+            "timestamp": "2025-06-19T14:13:59.580Z",
+            "fileName": "e:\\scopecraft\\components\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
