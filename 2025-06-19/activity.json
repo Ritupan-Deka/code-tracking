@@ -205,9 +205,9 @@
       "averageChangeSize": 167.83333333333334
     },
     "scopecraft": {
-      "totalLinesAdded": 88,
+      "totalLinesAdded": 124,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 10,
+      "totalActiveTime": 11,
       "files": {
         "e:\\scopecraft\\tailwind.config.js": [
           {
@@ -365,6 +365,22 @@
             "fileName": "e:\\scopecraft\\package.json",
             "fileType": ".json",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "e:\\scopecraft\\tsconfig.json": [
+          {
+            "timestamp": "2025-06-19T12:26:28.478Z",
+            "fileName": "e:\\scopecraft\\tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 36,
             "linesRemoved": 0,
             "projectName": "scopecraft",
             "content": {
