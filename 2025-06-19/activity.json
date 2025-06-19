@@ -205,9 +205,9 @@
       "averageChangeSize": 167.83333333333334
     },
     "scopecraft": {
-      "totalLinesAdded": 523,
-      "totalLinesRemoved": 46,
-      "totalActiveTime": 131,
+      "totalLinesAdded": 524,
+      "totalLinesRemoved": 48,
+      "totalActiveTime": 136,
       "files": {
         "e:\\scopecraft\\tailwind.config.js": [
           {
@@ -340,6 +340,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-19T14:53:26.197Z",
+            "fileName": "e:\\scopecraft\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
@@ -898,6 +912,34 @@
           },
           {
             "timestamp": "2025-06-19T14:50:52.003Z",
+            "fileName": "e:\\scopecraft\\components\\HeroSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-19T14:51:18.223Z",
+            "fileName": "e:\\scopecraft\\components\\HeroSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-19T14:51:20.898Z",
             "fileName": "e:\\scopecraft\\components\\HeroSection.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
