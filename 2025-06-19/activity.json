@@ -206,8 +206,8 @@
     },
     "scopecraft": {
       "totalLinesAdded": 569,
-      "totalLinesRemoved": 52,
-      "totalActiveTime": 153,
+      "totalLinesRemoved": 95,
+      "totalActiveTime": 163,
       "files": {
         "e:\\scopecraft\\tailwind.config.js": [
           {
@@ -409,6 +409,20 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-06-19T15:19:09.831Z",
+            "fileName": "e:\\scopecraft\\styles\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
           }
         ],
         "e:\\scopecraft\\app\\layout.tsx": [
@@ -516,6 +530,20 @@
             "fileType": ".tsx",
             "linesAdded": 18,
             "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-19T15:19:16.814Z",
+            "fileName": "e:\\scopecraft\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
             "projectName": "scopecraft",
             "content": {
               "added": [],
@@ -875,6 +903,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-19T15:19:25.747Z",
+            "fileName": "e:\\scopecraft\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-19T15:19:35.848Z",
+            "fileName": "e:\\scopecraft\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "e:\\scopecraft\\package.json": [
@@ -1132,6 +1188,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-19T15:17:26.398Z",
+            "fileName": "e:\\scopecraft\\components\\HeroSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
