@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 672                                          |
-| **Lines Removed** (➖) | 335                                        |
-| **Net Change** (↕)    | 337                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Lines Added** (➕)   | 804                                          |
+| **Lines Removed** (➖) | 339                                        |
+| **Net Change** (↕)    | 465                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
-- **page.tsx** (+672, -335)
+- **page.tsx** (+675, -335)
+- **PDFButton.tsx** (+129, -4)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1007
+".tsx" : 1143
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"15h" : 6
+"15h" : 10
 ```
 
 
-> **Last Updated:** 6/19/2025, 3:38:08 PM
+> **Last Updated:** 6/19/2025, 3:48:08 PM
