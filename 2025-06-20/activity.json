@@ -1,0 +1,47 @@
+{
+  "date": "2025-06-20",
+  "projects": {
+    "ANN with AVK": {
+      "totalLinesAdded": 205,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Academic\\SummerInternshipNITS\\ANN with AVK\\Ann_AVK64.cpp": [
+          {
+            "timestamp": "2025-06-20T15:51:26.037Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\ANN with AVK\\Ann_AVK64.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 205,
+            "linesRemoved": 0,
+            "projectName": "ANN with AVK",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 0
+      },
+      "changeFrequency": {
+        "21": 0
+      },
+      "topFiles": [
+        "e:\\Academic\\SummerInternshipNITS\\ANN with AVK\\Ann_AVK64.cpp"
+      ],
+      "averageChangeSize": 205
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "cpp"
+  ]
+}
