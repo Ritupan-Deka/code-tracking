@@ -679,7 +679,7 @@
     },
     "Portfolio": {
       "totalLinesAdded": 2000,
-      "totalLinesRemoved": 189,
+      "totalLinesRemoved": 190,
       "totalActiveTime": 4,
       "files": {
         "e:\\Projects\\Portfolio\\demo\\script.css": [
@@ -765,6 +765,20 @@
             "fileType": ".html",
             "linesAdded": 1297,
             "linesRemoved": 0,
+            "projectName": "Portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-21T10:46:36.368Z",
+            "fileName": "e:\\Projects\\Portfolio\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Portfolio",
             "content": {
               "added": [],
