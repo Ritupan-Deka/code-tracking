@@ -2,9 +2,9 @@
   "date": "2025-06-21",
   "projects": {
     "RefinedProject": {
-      "totalLinesAdded": 1909,
-      "totalLinesRemoved": 753,
-      "totalActiveTime": 53,
+      "totalLinesAdded": 2293,
+      "totalLinesRemoved": 913,
+      "totalActiveTime": 67,
       "files": {
         "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\neuralNetwork.cpp": [
           {
@@ -310,6 +310,118 @@
             "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\avk.cpp",
             "fileType": ".cpp",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-06-21T13:43:32.731Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\avk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-06-21T13:43:42.068Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\avk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-06-21T13:43:48.847Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\avk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-06-21T13:43:49.698Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\avk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-06-21T13:43:55.772Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\avk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-06-21T13:43:56.297Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\avk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-06-21T13:44:03.535Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\avk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-06-21T13:44:04.112Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\avk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "RefinedProject",
             "content": {
@@ -688,6 +800,20 @@
             },
             "duration": 1,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T13:45:01.183Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\xor_keys.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 30,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ],
         "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\csavk_keys.txt": [
@@ -711,6 +837,64 @@
             "fileType": ".txt",
             "linesAdded": 0,
             "linesRemoved": 375,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\dataset.txt": [
+          {
+            "timestamp": "2025-06-21T13:45:01.233Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\dataset.txt",
+            "fileType": ".txt",
+            "linesAdded": 126,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T13:46:56.322Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\dataset.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 125,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T13:47:00.837Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\dataset.txt",
+            "fileType": ".txt",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T13:47:11.812Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\dataset.txt",
+            "fileType": ".txt",
+            "linesAdded": 125,
+            "linesRemoved": 0,
             "projectName": "RefinedProject",
             "content": {
               "added": [],
