@@ -178,6 +178,102 @@
         "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\lavk.cpp"
       ],
       "averageChangeSize": 141
+    },
+    "Portfolio": {
+      "totalLinesAdded": 703,
+      "totalLinesRemoved": 189,
+      "totalActiveTime": 4,
+      "files": {
+        "e:\\Projects\\Portfolio\\demo\\script.css": [
+          {
+            "timestamp": "2025-06-21T08:55:58.849Z",
+            "fileName": "e:\\Projects\\Portfolio\\demo\\script.css",
+            "fileType": ".css",
+            "linesAdded": 190,
+            "linesRemoved": 0,
+            "projectName": "Portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-06-21T08:56:15.397Z",
+            "fileName": "e:\\Projects\\Portfolio\\demo\\script.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 189,
+            "projectName": "Portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-06-21T08:56:39.392Z",
+            "fileName": "e:\\Projects\\Portfolio\\demo\\script.css",
+            "fileType": ".css",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "Portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "e:\\Projects\\Portfolio\\demo\\style.css": [
+          {
+            "timestamp": "2025-06-21T08:56:11.030Z",
+            "fileName": "e:\\Projects\\Portfolio\\demo\\style.css",
+            "fileType": ".css",
+            "linesAdded": 290,
+            "linesRemoved": 0,
+            "projectName": "Portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "e:\\Projects\\Portfolio\\demo\\index.html": [
+          {
+            "timestamp": "2025-06-21T08:56:18.353Z",
+            "fileName": "e:\\Projects\\Portfolio\\demo\\index.html",
+            "fileType": ".html",
+            "linesAdded": 190,
+            "linesRemoved": 0,
+            "projectName": "Portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "css": 3,
+        "html": 1
+      },
+      "changeFrequency": {
+        "14": 4
+      },
+      "topFiles": [
+        "e:\\Projects\\Portfolio\\demo\\script.css",
+        "e:\\Projects\\Portfolio\\demo\\style.css",
+        "e:\\Projects\\Portfolio\\demo\\index.html"
+      ],
+      "averageChangeSize": 178.4
     }
   },
   "totalActiveTime": 5,
