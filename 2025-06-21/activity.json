@@ -2,9 +2,9 @@
   "date": "2025-06-21",
   "projects": {
     "RefinedProject": {
-      "totalLinesAdded": 1002,
-      "totalLinesRemoved": 204,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 1020,
+      "totalLinesRemoved": 237,
+      "totalActiveTime": 30,
       "files": {
         "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\neuralNetwork.cpp": [
           {
@@ -236,6 +236,48 @@
             },
             "duration": 0,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T09:46:46.130Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\msg.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T09:46:48.204Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\msg.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T09:47:10.526Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\msg.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ],
         "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\initialkey.txt": [
@@ -331,6 +373,62 @@
             "fileType": ".txt",
             "linesAdded": 30,
             "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T09:45:58.745Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\xor_keys.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 30,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T09:46:02.538Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\xor_keys.txt",
+            "fileType": ".txt",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T09:46:55.063Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\xor_keys.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T09:46:59.368Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\xor_keys.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "RefinedProject",
             "content": {
               "added": [],
