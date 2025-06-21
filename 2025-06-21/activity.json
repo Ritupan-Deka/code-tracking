@@ -3,8 +3,8 @@
   "projects": {
     "RefinedProject": {
       "totalLinesAdded": 1845,
-      "totalLinesRemoved": 378,
-      "totalActiveTime": 48,
+      "totalLinesRemoved": 753,
+      "totalActiveTime": 49,
       "files": {
         "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\neuralNetwork.cpp": [
           {
@@ -599,6 +599,20 @@
             "fileType": ".txt",
             "linesAdded": 502,
             "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-21T09:57:54.312Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\dataset\\csavk_keys.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 375,
             "projectName": "RefinedProject",
             "content": {
               "added": [],
