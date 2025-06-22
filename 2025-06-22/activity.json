@@ -891,9 +891,9 @@
       "averageChangeSize": 3.25
     },
     "txtFiles": {
-      "totalLinesAdded": 36,
-      "totalLinesRemoved": 31,
-      "totalActiveTime": 96,
+      "totalLinesAdded": 40,
+      "totalLinesRemoved": 34,
+      "totalActiveTime": 100,
       "files": {
         "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt": [
           {
@@ -1812,6 +1812,104 @@
             "fileType": ".txt",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-22T06:20:42.801Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-22T06:20:44.745Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-22T06:20:44.959Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-22T06:21:04.742Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-22T06:21:05.233Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-22T06:21:08.292Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-22T06:21:08.427Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "txtFiles",
             "content": {
               "added": [],
