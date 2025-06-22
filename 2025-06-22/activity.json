@@ -2638,6 +2638,39 @@
         "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt"
       ],
       "averageChangeSize": 1
+    },
+    "command-line-file-folder-search-tool": {
+      "totalLinesAdded": 121,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Projects\\command-line-file-folder-search-tool\\src\\main.rs": [
+          {
+            "timestamp": "2025-06-22T15:22:08.661Z",
+            "fileName": "e:\\Projects\\command-line-file-folder-search-tool\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "command-line-file-folder-search-tool",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "rs"
+          }
+        ]
+      },
+      "languageStats": {
+        "rs": 0
+      },
+      "changeFrequency": {
+        "20": 0
+      },
+      "topFiles": [
+        "e:\\Projects\\command-line-file-folder-search-tool\\src\\main.rs"
+      ],
+      "averageChangeSize": 121
     }
   },
   "totalActiveTime": 11,
