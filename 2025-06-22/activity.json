@@ -2640,7 +2640,7 @@
       "averageChangeSize": 1
     },
     "command-line-file-folder-search-tool": {
-      "totalLinesAdded": 121,
+      "totalLinesAdded": 125,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -2658,6 +2658,22 @@
             },
             "duration": 0,
             "language": "rs"
+          }
+        ],
+        "e:\\Projects\\command-line-file-folder-search-tool\\run-search.bat": [
+          {
+            "timestamp": "2025-06-22T15:39:12.288Z",
+            "fileName": "e:\\Projects\\command-line-file-folder-search-tool\\run-search.bat",
+            "fileType": ".bat",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "command-line-file-folder-search-tool",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "bat"
           }
         ]
       },
