@@ -889,6 +889,81 @@
         "e:\\Projects\\...Base\\index.html"
       ],
       "averageChangeSize": 3.25
+    },
+    "txtFiles": {
+      "totalLinesAdded": 3,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt": [
+          {
+            "timestamp": "2025-06-22T05:46:00.752Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-22T05:46:56.764Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-22T05:47:35.250Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-06-22T05:47:34.799Z",
+            "fileName": "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "txtFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 3
+      },
+      "changeFrequency": {
+        "11": 3
+      },
+      "topFiles": [
+        "c:\\Users\\user\\OneDrive\\Desktop\\txtFiles\\Be10X.txt"
+      ],
+      "averageChangeSize": 1
     }
   },
   "totalActiveTime": 11,
