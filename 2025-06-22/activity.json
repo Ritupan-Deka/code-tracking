@@ -3,8 +3,8 @@
   "projects": {
     "...Base": {
       "totalLinesAdded": 1064,
-      "totalLinesRemoved": 310,
-      "totalActiveTime": 106,
+      "totalLinesRemoved": 319,
+      "totalActiveTime": 109,
       "files": {
         "e:\\Projects\\...Base\\index.html": [
           {
@@ -1046,6 +1046,20 @@
             },
             "duration": 4,
             "language": "toml"
+          },
+          {
+            "timestamp": "2025-06-22T14:21:25.717Z",
+            "fileName": "e:\\Projects\\...Base\\noname\\Cargo.toml",
+            "fileType": ".toml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "toml"
           }
         ],
         "e:\\Projects\\...Base\\noname\\src\\noname.rs": [
@@ -1287,6 +1301,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-06-22T14:23:49.036Z",
+            "fileName": "e:\\Projects\\...Base\\noname\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "...Base",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "rs"
           }
         ],
