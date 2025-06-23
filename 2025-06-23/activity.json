@@ -63,9 +63,9 @@
       "averageChangeSize": 74.33333333333333
     },
     "scopecraft": {
-      "totalLinesAdded": 529,
+      "totalLinesAdded": 730,
       "totalLinesRemoved": 65,
-      "totalActiveTime": 45,
+      "totalActiveTime": 49,
       "files": {
         "e:\\Saas\\scopecraft\\styles\\globals.css": [
           {
@@ -675,6 +675,86 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\app\\builder\\page.tsx": [
+          {
+            "timestamp": "2025-06-23T13:17:48.300Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\builder\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\ScopeForm.tsx": [
+          {
+            "timestamp": "2025-06-23T13:18:16.499Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\ScopeForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\ScopePreview.tsx": [
+          {
+            "timestamp": "2025-06-23T13:18:19.671Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\ScopePreview.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\PDFDownloadButton.tsx": [
+          {
+            "timestamp": "2025-06-23T13:18:21.612Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\PDFDownloadButton.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\app\\builder\\_polyfill.ts": [
+          {
+            "timestamp": "2025-06-23T13:18:26.986Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\builder\\_polyfill.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
