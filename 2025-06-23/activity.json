@@ -63,7 +63,7 @@
       "averageChangeSize": 74.33333333333333
     },
     "scopecraft": {
-      "totalLinesAdded": 745,
+      "totalLinesAdded": 840,
       "totalLinesRemoved": 107,
       "totalActiveTime": 61,
       "files": {
@@ -965,6 +965,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\ScopePDF.tsx": [
+          {
+            "timestamp": "2025-06-23T13:59:58.460Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\ScopePDF.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
