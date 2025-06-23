@@ -63,9 +63,9 @@
       "averageChangeSize": 74.33333333333333
     },
     "scopecraft": {
-      "totalLinesAdded": 107,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 139,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 6,
       "files": {
         "e:\\Saas\\scopecraft\\styles\\globals.css": [
           {
@@ -124,6 +124,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2025-06-23T09:23:46.058Z",
+            "fileName": "e:\\Saas\\scopecraft\\postcss.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "mjs"
           }
         ],
@@ -187,6 +201,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\package.json": [
+          {
+            "timestamp": "2025-06-23T09:23:23.751Z",
+            "fileName": "e:\\Saas\\scopecraft\\package.json",
+            "fileType": ".json",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-06-23T09:23:24.014Z",
+            "fileName": "e:\\Saas\\scopecraft\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
