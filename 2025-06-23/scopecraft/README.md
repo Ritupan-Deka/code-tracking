@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 447                                          |
-| **Lines Removed** (➖) | 56                                        |
-| **Net Change** (↕)    | 391                |
-| **Active Time** (⌚)   | 26 minutes |
+| **Lines Added** (➕)   | 529                                          |
+| **Lines Removed** (➖) | 65                                        |
+| **Net Change** (↕)    | 464                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
@@ -15,12 +15,13 @@
 - **postcss.config.mjs** (+8, -2)
 - **tsconfig.json** (+36, -0)
 - **tailwind.config.js** (+29, -0)
-- **page.tsx** (+27, -0)
+- **page.tsx** (+31, -4)
 - **package.json** (+34, -2)
 - **tailwind.config.ts** (+1, -0)
 - **settings.json** (+189, -0)
-- **NavBar.tsx** (+94, -44)
+- **NavBar.tsx** (+94, -46)
 - **layout.tsx** (+20, -0)
+- **PricingPlans.tsx** (+78, -3)
 
 ## Visualizations
 
@@ -33,7 +34,7 @@ title Lines changed by file type
 ".mjs" : 10
 ".json" : 261
 ".js" : 29
-".tsx" : 185
+".tsx" : 276
 ".ts" : 1
 ```
 
@@ -43,8 +44,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 13
-"15h" : 13
+"15h" : 29
 ```
 
 
-> **Last Updated:** 6/23/2025, 3:15:07 PM
+> **Last Updated:** 6/23/2025, 3:19:58 PM
