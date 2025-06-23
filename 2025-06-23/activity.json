@@ -1,0 +1,108 @@
+{
+  "date": "2025-06-23",
+  "projects": {
+    "RefinedProject": {
+      "totalLinesAdded": 223,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\lavk.cpp": [
+          {
+            "timestamp": "2025-06-23T08:25:46.283Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\lavk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 167,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-06-23T08:25:47.248Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\lavk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-06-23T08:25:48.452Z",
+            "fileName": "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\lavk.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "RefinedProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 2
+      },
+      "changeFrequency": {
+        "13": 2
+      },
+      "topFiles": [
+        "e:\\Academic\\SummerInternshipNITS\\RefinedProject\\lavk.cpp"
+      ],
+      "averageChangeSize": 74.33333333333333
+    },
+    "scopecraft": {
+      "totalLinesAdded": 8,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Saas\\scopecraft\\styles\\globals.css": [
+          {
+            "timestamp": "2025-06-23T08:34:32.005Z",
+            "fileName": "e:\\Saas\\scopecraft\\styles\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "css": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "e:\\Saas\\scopecraft\\styles\\globals.css"
+      ],
+      "averageChangeSize": 8
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "cpp"
+  ]
+}
