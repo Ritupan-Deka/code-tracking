@@ -63,9 +63,9 @@
       "averageChangeSize": 74.33333333333333
     },
     "scopecraft": {
-      "totalLinesAdded": 1241,
-      "totalLinesRemoved": 189,
-      "totalActiveTime": 161,
+      "totalLinesAdded": 1254,
+      "totalLinesRemoved": 199,
+      "totalActiveTime": 175,
       "files": {
         "e:\\Saas\\scopecraft\\styles\\globals.css": [
           {
@@ -1951,6 +1951,216 @@
             "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
             "fileType": ".tsx",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:08.480Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:22.466Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:24.266Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:28.613Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:33.101Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:43.277Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:45.251Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:46.564Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:48.947Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:52.014Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:42:56.093Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:43:12.146Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:43:33.596Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:44:13.461Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:44:13.844Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "scopecraft",
             "content": {
