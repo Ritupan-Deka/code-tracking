@@ -64,7 +64,7 @@
     },
     "scopecraft": {
       "totalLinesAdded": 892,
-      "totalLinesRemoved": 127,
+      "totalLinesRemoved": 129,
       "totalActiveTime": 87,
       "files": {
         "e:\\Saas\\scopecraft\\styles\\globals.css": [
@@ -1246,6 +1246,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T14:25:03.235Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\ScopePDF.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
