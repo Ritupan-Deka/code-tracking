@@ -63,9 +63,9 @@
       "averageChangeSize": 74.33333333333333
     },
     "scopecraft": {
-      "totalLinesAdded": 332,
-      "totalLinesRemoved": 12,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 447,
+      "totalLinesRemoved": 56,
+      "totalActiveTime": 26,
       "files": {
         "e:\\Saas\\scopecraft\\styles\\globals.css": [
           {
@@ -299,6 +299,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T09:44:58.408Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "e:\\Saas\\scopecraft\\package.json": [
@@ -375,6 +389,66 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\NavBar.tsx": [
+          {
+            "timestamp": "2025-06-23T09:42:13.016Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\NavBar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T09:42:14.652Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\NavBar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T09:44:01.197Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\NavBar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\app\\layout.tsx": [
+          {
+            "timestamp": "2025-06-23T09:43:00.846Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
