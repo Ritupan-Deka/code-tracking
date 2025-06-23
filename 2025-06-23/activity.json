@@ -63,9 +63,9 @@
       "averageChangeSize": 74.33333333333333
     },
     "scopecraft": {
-      "totalLinesAdded": 1130,
-      "totalLinesRemoved": 178,
-      "totalActiveTime": 139,
+      "totalLinesAdded": 1237,
+      "totalLinesRemoved": 183,
+      "totalActiveTime": 150,
       "files": {
         "e:\\Saas\\scopecraft\\styles\\globals.css": [
           {
@@ -1729,6 +1729,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:32:12.406Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\HeroSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ],
         "e:\\Saas\\scopecraft\\components\\landing\\PricingPlans.tsx": [
@@ -1744,6 +1758,94 @@
               "removed": []
             },
             "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:32:49.246Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\PricingPlans.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:32:52.676Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\PricingPlans.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\sharedComponents\\NavBar.tsx": [
+          {
+            "timestamp": "2025-06-23T15:33:57.920Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\NavBar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx": [
+          {
+            "timestamp": "2025-06-23T15:34:24.368Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:34:27.058Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T15:34:28.385Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\FinalCTA.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
