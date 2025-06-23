@@ -63,9 +63,9 @@
       "averageChangeSize": 74.33333333333333
     },
     "scopecraft": {
-      "totalLinesAdded": 744,
-      "totalLinesRemoved": 105,
-      "totalActiveTime": 56,
+      "totalLinesAdded": 745,
+      "totalLinesRemoved": 107,
+      "totalActiveTime": 61,
       "files": {
         "e:\\Saas\\scopecraft\\styles\\globals.css": [
           {
@@ -482,6 +482,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-06-23T13:50:35.244Z",
+            "fileName": "e:\\Saas\\scopecraft\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-06-23T13:54:31.101Z",
+            "fileName": "e:\\Saas\\scopecraft\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ],
