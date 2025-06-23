@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 840                                          |
+| **Lines Added** (➕)   | 858                                          |
 | **Lines Removed** (➖) | 107                                        |
-| **Net Change** (↕)    | 733                |
-| **Active Time** (⌚)   | 61 minutes |
+| **Net Change** (↕)    | 751                |
+| **Active Time** (⌚)   | 62 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,7 @@
 - **page.tsx** (+45, -10)
 - **ScopeForm.tsx** (+81, -0)
 - **ScopePreview.tsx** (+46, -0)
-- **PDFDownloadButton.tsx** (+39, -30)
+- **PDFDownloadButton.tsx** (+57, -30)
 - **_polyfill.ts** (+2, -0)
 - **ScopePDF.tsx** (+95, -0)
 
@@ -40,7 +40,7 @@ title Lines changed by file type
 ".mjs" : 10
 ".json" : 266
 ".js" : 29
-".tsx" : 622
+".tsx" : 640
 ".ts" : 3
 ```
 
@@ -52,8 +52,8 @@ title Coding activity by hour (count of changes)
 "14h" : 13
 "15h" : 29
 "18h" : 14
-"19h" : 7
+"19h" : 8
 ```
 
 
-> **Last Updated:** 6/23/2025, 7:30:16 PM
+> **Last Updated:** 6/23/2025, 7:35:16 PM
