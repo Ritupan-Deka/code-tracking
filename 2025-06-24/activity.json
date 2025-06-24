@@ -2,9 +2,9 @@
   "date": "2025-06-24",
   "projects": {
     "scopecraft": {
-      "totalLinesAdded": 448,
-      "totalLinesRemoved": 43,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 647,
+      "totalLinesRemoved": 45,
+      "totalActiveTime": 40,
       "files": {
         "e:\\Saas\\scopecraft\\app\\templates\\page.tsx": [
           {
@@ -408,6 +408,96 @@
             },
             "duration": 0,
             "language": "py"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\builder\\ScopeForm.tsx": [
+          {
+            "timestamp": "2025-06-24T12:28:41.962Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\ScopeForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-24T12:28:49.845Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\ScopeForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-24T12:28:52.291Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\ScopeForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\app\\builder\\page.tsx": [
+          {
+            "timestamp": "2025-06-24T12:29:11.643Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\builder\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-24T12:29:15.014Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\builder\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\app\\api\\templates\\[template]\\route.ts": [
+          {
+            "timestamp": "2025-06-24T12:29:31.445Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\api\\templates\\[template]\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
