@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 223                                          |
+| **Lines Added** (➕)   | 277                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 223                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Net Change** (↕)    | 277                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **index.html** (+219, -0)
 - **settings.json** (+4, -0)
+- **NavBar.tsx** (+54, -0)
 
 ## Visualizations
 
@@ -23,6 +24,7 @@ pie showData
 title Lines changed by file type
 ".html" : 219
 ".json" : 4
+".tsx" : 54
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 3
+"15h" : 1
 ```
 
 
-> **Last Updated:** 6/25/2025, 3:02:30 PM
+> **Last Updated:** 6/25/2025, 3:07:30 PM

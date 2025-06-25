@@ -2,9 +2,9 @@
   "date": "2025-06-25",
   "projects": {
     "scopecraft": {
-      "totalLinesAdded": 223,
+      "totalLinesAdded": 277,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 7,
       "files": {
         "e:\\Saas\\scopecraft\\app\\index.html": [
           {
@@ -50,6 +50,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\sharedComponents\\NavBar.tsx": [
+          {
+            "timestamp": "2025-06-25T09:32:46.318Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\NavBar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ]
       },
