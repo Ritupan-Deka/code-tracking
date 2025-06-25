@@ -1,0 +1,80 @@
+{
+  "date": "2025-06-25",
+  "projects": {
+    "scopecraft": {
+      "totalLinesAdded": 223,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "e:\\Saas\\scopecraft\\app\\index.html": [
+          {
+            "timestamp": "2025-06-25T09:27:42.143Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\index.html",
+            "fileType": ".html",
+            "linesAdded": 218,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-25T09:28:53.950Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-06-25T09:27:51.842Z",
+            "fileName": "e:\\Saas\\scopecraft\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 2,
+        "json": 1
+      },
+      "changeFrequency": {
+        "14": 3
+      },
+      "topFiles": [
+        "e:\\Saas\\scopecraft\\app\\index.html",
+        "e:\\Saas\\scopecraft\\.vscode\\settings.json"
+      ],
+      "averageChangeSize": 74.33333333333333
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "html",
+    "json"
+  ]
+}
