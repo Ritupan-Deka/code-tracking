@@ -35,9 +35,9 @@
       "averageChangeSize": 31
     },
     "webapp": {
-      "totalLinesAdded": 98,
+      "totalLinesAdded": 172,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 5,
+      "totalActiveTime": 12,
       "files": {
         "e:\\Academic\\MiniProject\\webapp\\app.py": [
           {
@@ -82,6 +82,54 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          }
+        ],
+        "e:\\Academic\\MiniProject\\webapp\\preprocessing.py": [
+          {
+            "timestamp": "2025-06-26T09:46:07.188Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\preprocessing.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "e:\\Academic\\MiniProject\\webapp\\configs.yaml": [
+          {
+            "timestamp": "2025-06-26T09:49:20.530Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\configs.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "yaml"
+          }
+        ],
+        "e:\\Academic\\MiniProject\\webapp\\spacescale.py": [
+          {
+            "timestamp": "2025-06-26T09:49:46.104Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\spacescale.py",
+            "fileType": ".py",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]

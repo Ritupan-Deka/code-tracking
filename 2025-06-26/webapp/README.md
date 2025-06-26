@@ -4,15 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 98                                          |
+| **Lines Added** (➕)   | 172                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 97                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Net Change** (↕)    | 171                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
 - **app.py** (+52, -1)
 - **model_loader.py** (+46, -0)
+- **preprocessing.py** (+10, -0)
+- **configs.yaml** (+5, -0)
+- **spacescale.py** (+59, -0)
 
 ## Visualizations
 
@@ -21,7 +24,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 99
+".py" : 168
+".yaml" : 5
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"15h" : 3
+"15h" : 6
 ```
 
 
-> **Last Updated:** 6/26/2025, 3:15:59 PM
+> **Last Updated:** 6/26/2025, 3:20:59 PM
