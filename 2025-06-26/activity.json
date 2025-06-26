@@ -1,0 +1,47 @@
+{
+  "date": "2025-06-26",
+  "projects": {
+    ".myHTR": {
+      "totalLinesAdded": 31,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Academic\\MiniProject\\.myHTR\\model.py": [
+          {
+            "timestamp": "2025-06-26T09:17:01.456Z",
+            "fileName": "e:\\Academic\\MiniProject\\.myHTR\\model.py",
+            "fileType": ".py",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": ".myHTR",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "e:\\Academic\\MiniProject\\.myHTR\\model.py"
+      ],
+      "averageChangeSize": 31
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
