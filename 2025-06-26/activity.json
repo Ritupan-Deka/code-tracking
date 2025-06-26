@@ -36,7 +36,7 @@
     },
     "webapp": {
       "totalLinesAdded": 273,
-      "totalLinesRemoved": 1,
+      "totalLinesRemoved": 48,
       "totalActiveTime": 15,
       "files": {
         "e:\\Academic\\MiniProject\\webapp\\app.py": [
@@ -124,6 +124,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T10:34:29.823Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\model_loader.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 47,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
