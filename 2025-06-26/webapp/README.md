@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 576                                          |
+| **Lines Added** (➕)   | 601                                          |
 | **Lines Removed** (➖) | 122                                        |
-| **Net Change** (↕)    | 454                |
-| **Active Time** (⌚)   | 46 minutes |
+| **Net Change** (↕)    | 479                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **preprocessing.py** (+10, -0)
 - **configs.yaml** (+5, -0)
 - **spacescale.py** (+71, -1)
-- **index.html** (+191, -1)
+- **index.html** (+216, -1)
 - **segmenter.py** (+129, -66)
 
 ## Visualizations
@@ -28,7 +28,7 @@ pie showData
 title Lines changed by file type
 ".py" : 501
 ".yaml" : 5
-".html" : 192
+".html" : 217
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 10
-"16h" : 20
+"16h" : 22
 ```
 
 
-> **Last Updated:** 6/26/2025, 4:56:00 PM
+> **Last Updated:** 6/26/2025, 5:01:00 PM
