@@ -35,9 +35,9 @@
       "averageChangeSize": 31
     },
     "webapp": {
-      "totalLinesAdded": 440,
+      "totalLinesAdded": 558,
       "totalLinesRemoved": 121,
-      "totalActiveTime": 34,
+      "totalActiveTime": 39,
       "files": {
         "e:\\Academic\\MiniProject\\webapp\\app.py": [
           {
@@ -314,6 +314,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-26T11:16:05.870Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-26T11:20:26.628Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "html"
           }
         ],
