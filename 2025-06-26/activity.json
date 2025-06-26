@@ -35,9 +35,9 @@
       "averageChangeSize": 31
     },
     "webapp": {
-      "totalLinesAdded": 273,
+      "totalLinesAdded": 417,
       "totalLinesRemoved": 51,
-      "totalActiveTime": 15,
+      "totalActiveTime": 24,
       "files": {
         "e:\\Academic\\MiniProject\\webapp\\app.py": [
           {
@@ -60,6 +60,20 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T10:48:18.487Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\app.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
             "projectName": "webapp",
             "content": {
               "added": [],
@@ -201,6 +215,34 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T10:47:15.103Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\spacescale.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T10:48:19.646Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\spacescale.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "e:\\Academic\\MiniProject\\webapp\\templates\\index.html": [
@@ -217,6 +259,50 @@
             },
             "duration": 2,
             "language": "html"
+          }
+        ],
+        "e:\\Academic\\MiniProject\\webapp\\segmenter.py": [
+          {
+            "timestamp": "2025-06-26T10:46:03.037Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\segmenter.py",
+            "fileType": ".py",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T10:48:08.904Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\segmenter.py",
+            "fileType": ".py",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T10:48:17.225Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\segmenter.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
