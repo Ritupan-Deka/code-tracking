@@ -35,9 +35,9 @@
       "averageChangeSize": 31
     },
     "webapp": {
-      "totalLinesAdded": 417,
-      "totalLinesRemoved": 111,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 440,
+      "totalLinesRemoved": 121,
+      "totalActiveTime": 34,
       "files": {
         "e:\\Academic\\MiniProject\\webapp\\app.py": [
           {
@@ -80,6 +80,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:06:17.582Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:06:36.629Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\app.py",
+            "fileType": ".py",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:07:42.069Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\app.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ],
@@ -324,6 +366,34 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 59,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:08:06.311Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\segmenter.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:08:07.477Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\segmenter.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "webapp",
             "content": {
               "added": [],
