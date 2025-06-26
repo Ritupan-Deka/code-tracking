@@ -35,9 +35,9 @@
       "averageChangeSize": 31
     },
     "webapp": {
-      "totalLinesAdded": 652,
-      "totalLinesRemoved": 123,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 657,
+      "totalLinesRemoved": 128,
+      "totalActiveTime": 62,
       "files": {
         "e:\\Academic\\MiniProject\\webapp\\app.py": [
           {
@@ -532,6 +532,146 @@
           },
           {
             "timestamp": "2025-06-26T11:44:50.325Z",
+            "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:51:42.495Z",
+            "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:51:43.546Z",
+            "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:51:51.459Z",
+            "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:51:51.886Z",
+            "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:51:56.919Z",
+            "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:51:58.224Z",
+            "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:52:03.710Z",
+            "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:52:05.522Z",
+            "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:52:07.547Z",
+            "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T11:52:07.873Z",
             "fileName": "e:\\.chatgptauto\\resumetailoreauto.py",
             "fileType": ".py",
             "linesAdded": 1,

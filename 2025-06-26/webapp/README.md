@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 652                                          |
-| **Lines Removed** (➖) | 123                                        |
+| **Lines Added** (➕)   | 657                                          |
+| **Lines Removed** (➖) | 128                                        |
 | **Net Change** (↕)    | 529                |
-| **Active Time** (⌚)   | 54 minutes |
+| **Active Time** (⌚)   | 62 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **spacescale.py** (+71, -1)
 - **index.html** (+216, -1)
 - **segmenter.py** (+129, -66)
-- **resumetailoreauto.py** (+51, -1)
+- **resumetailoreauto.py** (+56, -6)
 
 ## Visualizations
 
@@ -27,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 553
+".py" : 563
 ".yaml" : 5
 ".html" : 217
 ```
@@ -39,8 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "15h" : 10
 "16h" : 22
-"17h" : 3
+"17h" : 13
 ```
 
 
-> **Last Updated:** 6/26/2025, 5:16:00 PM
+> **Last Updated:** 6/26/2025, 5:26:00 PM
