@@ -33,6 +33,70 @@
         "e:\\Academic\\MiniProject\\.myHTR\\model.py"
       ],
       "averageChangeSize": 31
+    },
+    "webapp": {
+      "totalLinesAdded": 98,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
+      "files": {
+        "e:\\Academic\\MiniProject\\webapp\\app.py": [
+          {
+            "timestamp": "2025-06-26T09:41:47.900Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\app.py",
+            "fileType": ".py",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-26T09:41:58.502Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "e:\\Academic\\MiniProject\\webapp\\model_loader.py": [
+          {
+            "timestamp": "2025-06-26T09:45:06.087Z",
+            "fileName": "e:\\Academic\\MiniProject\\webapp\\model_loader.py",
+            "fileType": ".py",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 5
+      },
+      "changeFrequency": {
+        "15": 5
+      },
+      "topFiles": [
+        "e:\\Academic\\MiniProject\\webapp\\app.py",
+        "e:\\Academic\\MiniProject\\webapp\\model_loader.py"
+      ],
+      "averageChangeSize": 33
     }
   },
   "totalActiveTime": 0,
