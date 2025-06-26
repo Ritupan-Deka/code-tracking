@@ -1,0 +1,64 @@
+{
+  "date": "2025-06-27",
+  "projects": {
+    "MiniProject": {
+      "totalLinesAdded": 54,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Academic\\MiniProject\\.myHTR\\modelcode\\inferenceModel.py": [
+          {
+            "timestamp": "2025-06-26T21:13:45.328Z",
+            "fileName": "e:\\Academic\\MiniProject\\.myHTR\\modelcode\\inferenceModel.py",
+            "fileType": ".py",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "MiniProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "e:\\Academic\\MiniProject\\.myHTR\\modelcode\\configs.py": [
+          {
+            "timestamp": "2025-06-26T21:15:09.733Z",
+            "fileName": "e:\\Academic\\MiniProject\\.myHTR\\modelcode\\configs.py",
+            "fileType": ".py",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "MiniProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "2": 2
+      },
+      "topFiles": [
+        "e:\\Academic\\MiniProject\\.myHTR\\modelcode\\inferenceModel.py",
+        "e:\\Academic\\MiniProject\\.myHTR\\modelcode\\configs.py"
+      ],
+      "averageChangeSize": 27
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
