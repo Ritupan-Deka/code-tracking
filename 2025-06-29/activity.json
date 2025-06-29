@@ -2,9 +2,9 @@
   "date": "2025-06-29",
   "projects": {
     "WhiteBoard": {
-      "totalLinesAdded": 677,
-      "totalLinesRemoved": 152,
-      "totalActiveTime": 20,
+      "totalLinesAdded": 867,
+      "totalLinesRemoved": 340,
+      "totalActiveTime": 35,
       "files": {
         "e:\\Projects\\WhiteBoard\\hand_tracking.py": [
           {
@@ -212,6 +212,62 @@
             "fileName": "e:\\Projects\\WhiteBoard\\windsurfversion\\main.py",
             "fileType": ".py",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-29T08:11:11.624Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\windsurfversion\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 93,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-29T08:11:11.762Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\windsurfversion\\main.py",
+            "fileType": ".py",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-29T08:14:54.455Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\windsurfversion\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 95,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-29T08:14:55.021Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\windsurfversion\\main.py",
+            "fileType": ".py",
+            "linesAdded": 95,
             "linesRemoved": 0,
             "projectName": "WhiteBoard",
             "content": {
