@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 330                                          |
+| **Lines Added** (➕)   | 358                                          |
 | **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 324                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Net Change** (↕)    | 352                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
-- **hand_tracking.py** (+104, -4)
-- **main.py** (+226, -2)
+- **hand_tracking.py** (+123, -4)
+- **main.py** (+235, -2)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 336
+".py" : 364
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"13h" : 8
+"13h" : 11
 ```
 
 
-> **Last Updated:** 6/29/2025, 1:11:05 PM
+> **Last Updated:** 6/29/2025, 1:16:04 PM
