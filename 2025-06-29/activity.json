@@ -1,0 +1,148 @@
+{
+  "date": "2025-06-29",
+  "projects": {
+    "WhiteBoard": {
+      "totalLinesAdded": 330,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 7,
+      "files": {
+        "e:\\Projects\\WhiteBoard\\hand_tracking.py": [
+          {
+            "timestamp": "2025-06-29T07:36:56.625Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\hand_tracking.py",
+            "fileType": ".py",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-29T07:37:04.724Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\hand_tracking.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-29T07:37:06.646Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\hand_tracking.py",
+            "fileType": ".py",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-29T07:38:36.615Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\hand_tracking.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "e:\\Projects\\WhiteBoard\\main.py": [
+          {
+            "timestamp": "2025-06-29T07:37:43.464Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\main.py",
+            "fileType": ".py",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-29T07:38:09.556Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-29T07:38:10.384Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-29T07:38:37.541Z",
+            "fileName": "e:\\Projects\\WhiteBoard\\main.py",
+            "fileType": ".py",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "WhiteBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 7
+      },
+      "changeFrequency": {
+        "13": 7
+      },
+      "topFiles": [
+        "e:\\Projects\\WhiteBoard\\hand_tracking.py",
+        "e:\\Projects\\WhiteBoard\\main.py"
+      ],
+      "averageChangeSize": 42
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
