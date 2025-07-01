@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1366                                          |
+| **Lines Added** (➕)   | 1562                                          |
 | **Lines Removed** (➖) | 48                                        |
-| **Net Change** (↕)    | 1318                |
-| **Active Time** (⌚)   | 38 minutes |
+| **Net Change** (↕)    | 1514                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,8 @@
 - **index.css** (+14, -0)
 - **package-lock.json** (+949, -0)
 - **package.json** (+44, -0)
+- **App.jsx** (+179, -0)
+- **main.jsx** (+17, -0)
 
 ## Visualizations
 
@@ -28,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 248
-".jsx" : 159
+".jsx" : 355
 ".css" : 14
 ".json" : 993
 ```
@@ -39,8 +41,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 28
-"15h" : 3
+"15h" : 10
 ```
 
 
-> **Last Updated:** 7/1/2025, 3:08:26 PM
+> **Last Updated:** 7/1/2025, 3:23:27 PM
