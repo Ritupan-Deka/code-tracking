@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 484                                          |
-| **Lines Removed** (➖) | 107                                        |
-| **Net Change** (↕)    | 377                |
-| **Active Time** (⌚)   | 297 minutes |
+| **Lines Added** (➕)   | 581                                          |
+| **Lines Removed** (➖) | 110                                        |
+| **Net Change** (↕)    | 471                |
+| **Active Time** (⌚)   | 300 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **package.json** (+53, -9)
 - **notesRoutes.js** (+31, -2)
 - **notesController.js** (+23, -12)
-- **notesController.js** (+195, -40)
+- **notesController.js** (+292, -43)
 - **db.js** (+24, -12)
 - **server.js** (+36, -4)
 - **.env** (+3, -0)
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 526
+".js" : 626
 ".json" : 62
 "unknown" : 3
 ```
@@ -45,8 +45,8 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "14h" : 36
 "15h" : 2
-"16h" : 18
+"16h" : 26
 ```
 
 
-> **Last Updated:** 7/2/2025, 4:12:21 PM
+> **Last Updated:** 7/2/2025, 4:54:36 PM
