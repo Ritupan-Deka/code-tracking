@@ -2,9 +2,9 @@
   "date": "2025-07-05",
   "projects": {
     "Projects": {
-      "totalLinesAdded": 14,
+      "totalLinesAdded": 41,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 6,
       "files": {
         "e:\\Projects\\ModernCountdownTimer\\Dockerfile.nginx": [
           {
@@ -36,6 +36,38 @@
             },
             "duration": 1,
             "language": "http-server"
+          }
+        ],
+        "e:\\Projects\\ModernCountdownTimer\\.dockerignore": [
+          {
+            "timestamp": "2025-07-04T21:35:03.669Z",
+            "fileName": "e:\\Projects\\ModernCountdownTimer\\.dockerignore",
+            "fileType": "unknown",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          }
+        ],
+        "e:\\Projects\\ModernCountdownTimer\\docker-compose.yml": [
+          {
+            "timestamp": "2025-07-04T21:37:08.345Z",
+            "fileName": "e:\\Projects\\ModernCountdownTimer\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "Projects",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "yml"
           }
         ]
       },
