@@ -85,9 +85,9 @@
       "averageChangeSize": 7
     },
     "Hidden Search Widget": {
-      "totalLinesAdded": 452,
-      "totalLinesRemoved": 107,
-      "totalActiveTime": 120,
+      "totalLinesAdded": 661,
+      "totalLinesRemoved": 152,
+      "totalActiveTime": 133,
       "files": {
         "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -455,6 +455,48 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-07-05T15:30:02.382Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-05T15:30:03.669Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\script.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-05T15:30:04.681Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\script.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "e:\\Projects\\Hidden Search Widget\\index.html": [
@@ -618,6 +660,20 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-05T15:30:28.344Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "Hidden Search Widget",
             "content": {
               "added": [],
@@ -1201,6 +1257,110 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-07-05T15:30:13.883Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "e:\\Projects\\Hidden Search Widget\\New\\script.js": [
+          {
+            "timestamp": "2025-07-05T15:31:08.998Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\script.js",
+            "fileType": ".js",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-05T15:33:49.225Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\script.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\Hidden Search Widget\\New\\styles.css": [
+          {
+            "timestamp": "2025-07-05T15:31:16.750Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "e:\\Projects\\Hidden Search Widget\\New\\index.html": [
+          {
+            "timestamp": "2025-07-05T15:31:26.443Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\index.html",
+            "fileType": ".html",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-05T15:33:40.287Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-05T15:33:41.869Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },
