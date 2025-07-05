@@ -85,9 +85,9 @@
       "averageChangeSize": 7
     },
     "Hidden Search Widget": {
-      "totalLinesAdded": 661,
-      "totalLinesRemoved": 152,
-      "totalActiveTime": 133,
+      "totalLinesAdded": 665,
+      "totalLinesRemoved": 198,
+      "totalActiveTime": 145,
       "files": {
         "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -1317,6 +1317,104 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-07-05T15:36:21.014Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 39,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-05T15:37:08.726Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-05T15:37:10.073Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-05T15:37:10.411Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-05T15:39:20.137Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-05T15:39:41.543Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-05T15:39:57.711Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ],
         "e:\\Projects\\Hidden Search Widget\\New\\index.html": [
@@ -1350,6 +1448,34 @@
           },
           {
             "timestamp": "2025-07-05T15:33:41.869Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-05T15:36:12.578Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\New\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-05T15:37:46.208Z",
             "fileName": "e:\\Projects\\Hidden Search Widget\\New\\index.html",
             "fileType": ".html",
             "linesAdded": 0,
