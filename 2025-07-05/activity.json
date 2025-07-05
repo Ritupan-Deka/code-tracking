@@ -83,6 +83,67 @@
         "e:\\Projects\\ModernCountdownTimer\\Dockerfile.http-server"
       ],
       "averageChangeSize": 7
+    },
+    "Hidden Search Widget": {
+      "totalLinesAdded": 191,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-07-05T12:41:03.574Z",
+            "fileName": "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 190,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-05T12:41:10.741Z",
+            "fileName": "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-05T12:41:14.601Z",
+            "fileName": "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2
+      },
+      "changeFrequency": {
+        "18": 2
+      },
+      "topFiles": [
+        "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 64
     }
   },
   "totalActiveTime": 1,
