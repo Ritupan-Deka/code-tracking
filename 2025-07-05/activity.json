@@ -85,9 +85,9 @@
       "averageChangeSize": 7
     },
     "Hidden Search Widget": {
-      "totalLinesAdded": 268,
-      "totalLinesRemoved": 25,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 270,
+      "totalLinesRemoved": 27,
+      "totalActiveTime": 27,
       "files": {
         "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -328,6 +328,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-05T13:17:53.132Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\script.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-05T13:17:53.143Z",
+            "fileName": "e:\\Projects\\Hidden Search Widget\\script.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Hidden Search Widget",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "js"
           }
         ],
