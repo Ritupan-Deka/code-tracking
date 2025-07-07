@@ -3,7 +3,7 @@
   "projects": {
     "Urlwebwala Intership Work": {
       "totalLinesAdded": 5,
-      "totalLinesRemoved": 4,
+      "totalLinesRemoved": 5,
       "totalActiveTime": 8,
       "files": {
         "e:\\Urlwebwala Intership Work\\html\\html5_tags_and_attributes.md": [
@@ -135,6 +135,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-07T07:24:45.179Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\html\\html.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "md"
           }
         ]
