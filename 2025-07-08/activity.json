@@ -2,9 +2,9 @@
   "date": "2025-07-08",
   "projects": {
     "Urlwebwala Intership Work": {
-      "totalLinesAdded": 4,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 9,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 23,
       "files": {
         "e:\\Urlwebwala Intership Work\\html\\exercise\\all.html": [
           {
@@ -119,6 +119,90 @@
               "removed": []
             },
             "duration": 0,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-08T05:21:42.958Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\html\\html.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-08T05:23:49.480Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\html\\html.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-08T05:25:31.876Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\html\\html.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-08T05:25:34.345Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\html\\html.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-08T05:25:35.282Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\html\\html.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-08T05:25:36.293Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\html\\html.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "md"
           }
         ]
