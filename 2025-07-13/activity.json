@@ -2,9 +2,9 @@
   "date": "2025-07-13",
   "projects": {
     "DockerDjango": {
-      "totalLinesAdded": 64,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 82,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 4,
       "files": {
         "e:\\Projects\\DockerDjango\\RailSathiBE\\requirements.txt": [
           {
@@ -20,6 +20,78 @@
             },
             "duration": 0,
             "language": "txt"
+          }
+        ],
+        "e:\\Projects\\DockerDjango\\RailSathiBE\\Dockerfile": [
+          {
+            "timestamp": "2025-07-13T11:53:26.354Z",
+            "fileName": "e:\\Projects\\DockerDjango\\RailSathiBE\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "DockerDjango",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-13T11:53:36.548Z",
+            "fileName": "e:\\Projects\\DockerDjango\\RailSathiBE\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "DockerDjango",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-13T11:53:38.627Z",
+            "fileName": "e:\\Projects\\DockerDjango\\RailSathiBE\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DockerDjango",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-13T11:54:05.311Z",
+            "fileName": "e:\\Projects\\DockerDjango\\RailSathiBE\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "DockerDjango",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-13T11:54:08.711Z",
+            "fileName": "e:\\Projects\\DockerDjango\\RailSathiBE\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DockerDjango",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
