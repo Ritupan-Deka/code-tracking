@@ -2,9 +2,9 @@
   "date": "2025-07-14",
   "projects": {
     "Urlwebwala Intership Work": {
-      "totalLinesAdded": 12,
-      "totalLinesRemoved": 545,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 13,
+      "totalLinesRemoved": 547,
+      "totalActiveTime": 23,
       "files": {
         "e:\\Urlwebwala Intership Work\\js\\javascript.md": [
           {
@@ -321,6 +321,48 @@
             "fileType": ".md",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-14T10:42:10.429Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\js\\javascript.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-14T10:42:49.089Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\js\\javascript.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-14T10:42:59.227Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\js\\javascript.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Urlwebwala Intership Work",
             "content": {
               "added": [],
