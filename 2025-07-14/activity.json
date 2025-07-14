@@ -2,7 +2,7 @@
   "date": "2025-07-14",
   "projects": {
     "Urlwebwala Intership Work": {
-      "totalLinesAdded": 16,
+      "totalLinesAdded": 172,
       "totalLinesRemoved": 547,
       "totalActiveTime": 26,
       "files": {
@@ -411,6 +411,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-14T12:09:44.230Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\js\\javascript.md",
+            "fileType": ".md",
+            "linesAdded": 156,
+            "linesRemoved": 0,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "md"
           }
         ]
