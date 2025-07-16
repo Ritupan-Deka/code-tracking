@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 273                                          |
-| **Lines Removed** (➖) | 154                                        |
-| **Net Change** (↕)    | 119                |
-| **Active Time** (⌚)   | 232 minutes |
+| **Lines Added** (➕)   | 299                                          |
+| **Lines Removed** (➖) | 169                                        |
+| **Net Change** (↕)    | 130                |
+| **Active Time** (⌚)   | 263 minutes |
 
 
 ## Modified Files
 - **package.json** (+25, -5)
 - **server.js** (+125, -77)
 - **.env** (+2, -0)
-- **workouts.js** (+85, -49)
-- **Workout.js** (+36, -23)
+- **workouts.js** (+86, -49)
+- **Workout.js** (+61, -38)
 
 ## Visualizations
 
@@ -25,7 +25,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 30
-".js" : 395
+".js" : 436
 "unknown" : 2
 ```
 
@@ -38,8 +38,8 @@ title Coding activity by hour (count of changes)
 "19h" : 73
 "20h" : 3
 "21h" : 1
-"22h" : 80
+"22h" : 108
 ```
 
 
-> **Last Updated:** 7/16/2025, 10:40:27 PM
+> **Last Updated:** 7/16/2025, 10:45:27 PM
