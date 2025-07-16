@@ -3,7 +3,7 @@
   "projects": {
     "MERN-WorkoutBoard": {
       "totalLinesAdded": 332,
-      "totalLinesRemoved": 170,
+      "totalLinesRemoved": 171,
       "totalActiveTime": 278,
       "files": {
         "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json": [
@@ -1911,6 +1911,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:13:09.094Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\server.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
