@@ -1,0 +1,204 @@
+{
+  "date": "2025-07-17",
+  "projects": {
+    "MERN-WorkoutBoard": {
+      "totalLinesAdded": 9,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 18,
+      "files": {
+        "e:\\Projects\\MERN-WorkoutBoard\\backend\\routes\\workouts.js": [
+          {
+            "timestamp": "2025-07-16T18:26:35.872Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\routes\\workouts.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:28:14.596Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\routes\\workouts.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js": [
+          {
+            "timestamp": "2025-07-16T18:27:19.749Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:27:33.196Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:27:35.072Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:27:36.267Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:27:36.689Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:27:38.378Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:29:52.712Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:29:53.710Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:29:58.866Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-16T18:29:59.008Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 18
+      },
+      "changeFrequency": {
+        "23": 18
+      },
+      "topFiles": [
+        "e:\\Projects\\MERN-WorkoutBoard\\backend\\controllers\\workoutController.js",
+        "e:\\Projects\\MERN-WorkoutBoard\\backend\\routes\\workouts.js"
+      ],
+      "averageChangeSize": 2
+    }
+  },
+  "totalActiveTime": 17,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
