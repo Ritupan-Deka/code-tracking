@@ -1,0 +1,47 @@
+{
+  "date": "2025-07-16",
+  "projects": {
+    "MERN-WorkoutBoard": {
+      "totalLinesAdded": 18,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json": [
+          {
+            "timestamp": "2025-07-16T12:35:33.683Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json"
+      ],
+      "averageChangeSize": 18
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
