@@ -2,9 +2,9 @@
   "date": "2025-07-16",
   "projects": {
     "MERN-WorkoutBoard": {
-      "totalLinesAdded": 28,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 34,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 24,
       "files": {
         "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json": [
           {
@@ -19,6 +19,160 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:19.507Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:44.718Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:44.504Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:44.885Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:45.558Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:45.805Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:46.175Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:47.237Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:47.649Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:48.953Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-16T12:53:49.331Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],
