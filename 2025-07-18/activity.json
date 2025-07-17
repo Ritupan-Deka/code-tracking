@@ -2,9 +2,9 @@
   "date": "2025-07-18",
   "projects": {
     "MERN-WorkoutBoard": {
-      "totalLinesAdded": 6,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 10,
+      "totalLinesAdded": 74,
+      "totalLinesRemoved": 39,
+      "totalActiveTime": 69,
       "files": {
         "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\App.js": [
           {
@@ -161,6 +161,792 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:38:54.143Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:39:38.442Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:39:40.287Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:39:43.133Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:39:43.251Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:39:43.292Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:01.066Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:01.458Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:09.894Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:33.768Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:33.955Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:39.118Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:39.727Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:40.749Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:40.918Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:43.217Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:43.432Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:48.154Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:48.426Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:49.317Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:50.021Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:51.465Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:52.159Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:54.349Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:40:56.472Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:04.548Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:05.154Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:07.475Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:12.393Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:13.274Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:19.069Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:19.607Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:21.471Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:21.901Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:22.984Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:23.750Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:41:52.568Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:01.639Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:02.691Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:11.880Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:12.135Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:12.919Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:13.972Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:14.748Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:15.337Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:15.571Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:17.195Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:20.536Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:24.955Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:25.240Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:25.516Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:25.564Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:38.573Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:42:39.127Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\pages\\Home.js": [
+          {
+            "timestamp": "2025-07-17T18:39:06.667Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\pages\\Home.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-17T18:39:22.450Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\pages\\Home.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
