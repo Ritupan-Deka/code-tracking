@@ -2145,9 +2145,9 @@
       "averageChangeSize": 1
     },
     "Urlwebwala Intership Work": {
-      "totalLinesAdded": 3,
+      "totalLinesAdded": 172,
       "totalLinesRemoved": 1545,
-      "totalActiveTime": 2,
+      "totalActiveTime": 7,
       "files": {
         "e:\\Urlwebwala Intership Work\\reactjs\\reactjs.md": [
           {
@@ -2190,6 +2190,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-18T08:43:25.272Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\reactjs\\reactjs.md",
+            "fileType": ".md",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "md"
+          },
+          {
+            "timestamp": "2025-07-18T08:47:33.375Z",
+            "fileName": "e:\\Urlwebwala Intership Work\\reactjs\\reactjs.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Urlwebwala Intership Work",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "md"
           }
         ],
