@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 129                                          |
+| **Lines Added** (➕)   | 229                                          |
 | **Lines Removed** (➖) | 33                                        |
-| **Net Change** (↕)    | 96                |
-| **Active Time** (⌚)   | 82 minutes |
+| **Net Change** (↕)    | 196                |
+| **Active Time** (⌚)   | 83 minutes |
 
 
 ## Modified Files
 - **WorkoutForm.js** (+83, -20)
 - **Home.js** (+46, -13)
+- **index.css** (+100, -0)
 
 ## Visualizations
 
@@ -22,6 +23,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 162
+".css" : 100
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +33,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "20h" : 46
 "21h" : 20
-"23h" : 6
+"23h" : 9
 ```
 
 
-> **Last Updated:** 7/19/2025, 11:47:00 PM
+> **Last Updated:** 7/19/2025, 11:52:00 PM
