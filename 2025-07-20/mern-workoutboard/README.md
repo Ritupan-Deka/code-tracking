@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 17                                          |
-| **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 14                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Lines Added** (➕)   | 37                                          |
+| **Lines Removed** (➖) | 8                                        |
+| **Net Change** (↕)    | 29                |
+| **Active Time** (⌚)   | 28 minutes |
 
 
 ## Modified Files
-- **workoutContext.js** (+17, -3)
+- **workoutContext.js** (+18, -6)
+- **index.js** (+19, -2)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 20
+".js" : 45
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,9 +29,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 6
+"00h" : 17
 "23h" : 9
 ```
 
 
-> **Last Updated:** 7/20/2025, 12:02:00 AM
+> **Last Updated:** 7/20/2025, 12:07:00 AM
