@@ -2726,9 +2726,9 @@
       "averageChangeSize": 1.3333333333333333
     },
     "ReactPhpMySQL": {
-      "totalLinesAdded": 130,
-      "totalLinesRemoved": 63,
-      "totalActiveTime": 142,
+      "totalLinesAdded": 156,
+      "totalLinesRemoved": 75,
+      "totalActiveTime": 180,
       "files": {
         "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js": [
           {
@@ -4424,6 +4424,202 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:19.291Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:20.858Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:24.093Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:25.361Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:28.740Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:29.191Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:32.987Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:34.333Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:35.672Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:36.051Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:38.145Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:39.944Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:41.242Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T15:40:44.947Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\components\\ListUsers.js": [
@@ -4600,6 +4796,260 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css": [
+          {
+            "timestamp": "2025-07-20T15:36:07.094Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:36:08.027Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:36:26.506Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:36:27.288Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:36:29.728Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:36:29.425Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:36:30.828Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:08.532Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:09.872Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:12.906Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:14.640Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:18.572Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:20.069Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:27.793Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:28.877Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:29.001Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:30.239Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-20T15:37:32.774Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
