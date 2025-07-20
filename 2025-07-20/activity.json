@@ -2,9 +2,9 @@
   "date": "2025-07-20",
   "projects": {
     "MERN-WorkoutBoard": {
-      "totalLinesAdded": 37,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 71,
+      "totalLinesRemoved": 27,
+      "totalActiveTime": 41,
       "files": {
         "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js": [
           {
@@ -264,6 +264,202 @@
             "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
             "fileType": ".js",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:40:31.063Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:40:32.287Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:40:32.437Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:40:54.940Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:40:55.140Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:40:55.740Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:40:56.277Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:41:17.336Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:41:22.300Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:41:22.370Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:41:22.388Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:41:22.599Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:41:31.582Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "MERN-WorkoutBoard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-20T08:41:31.637Z",
+            "fileName": "e:\\Projects\\MERN-WorkoutBoard\\frontend\\src\\context\\workoutContext.js",
+            "fileType": ".js",
+            "linesAdded": 14,
             "linesRemoved": 0,
             "projectName": "MERN-WorkoutBoard",
             "content": {
