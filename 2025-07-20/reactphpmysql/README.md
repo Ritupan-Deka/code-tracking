@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15                                          |
+| **Lines Added** (➕)   | 17                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 14                |
+| **Net Change** (↕)    | 16                |
 | **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **App.js** (+15, -1)
+- **ListUsers.js** (+2, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 16
+".js" : 18
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"20h" : 2
+"20h" : 3
 ```
 
 
-> **Last Updated:** 7/20/2025, 8:45:56 PM
+> **Last Updated:** 7/20/2025, 8:50:56 PM

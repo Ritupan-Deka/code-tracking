@@ -2726,7 +2726,7 @@
       "averageChangeSize": 1.3333333333333333
     },
     "ReactPhpMySQL": {
-      "totalLinesAdded": 15,
+      "totalLinesAdded": 17,
       "totalLinesRemoved": 1,
       "totalActiveTime": 1,
       "files": {
@@ -2757,6 +2757,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\components\\ListUsers.js": [
+          {
+            "timestamp": "2025-07-20T15:20:31.986Z",
+            "fileName": "e:\\Projects\\ReactPhpMySQL\\react-php-mysql-crud-app\\src\\components\\ListUsers.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ReactPhpMySQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
