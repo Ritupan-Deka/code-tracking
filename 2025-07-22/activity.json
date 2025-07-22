@@ -2,9 +2,9 @@
   "date": "2025-07-22",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 359,
-      "totalLinesRemoved": 252,
-      "totalActiveTime": 161,
+      "totalLinesAdded": 378,
+      "totalLinesRemoved": 260,
+      "totalActiveTime": 187,
       "files": {
         "e:\\Projects\\Javascript\\basic\\dataTypes.js": [
           {
@@ -2003,6 +2003,344 @@
             "fileType": ".js",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:05.782Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:06.083Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:07.476Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:07.537Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:07.675Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:08.110Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:09.902Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:10.429Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:11.833Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:11.852Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:13.200Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:25.533Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:13:28.417Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conversionAndOperation.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\Javascript\\basic\\conparison.js": [
+          {
+            "timestamp": "2025-07-22T18:16:04.715Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:16:05.660Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:16:07.979Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:16:50.960Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:16:55.893Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:16:58.705Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:17:05.688Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:17:09.728Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:17:15.306Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:17:16.376Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-22T18:17:17.682Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\conparison.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Javascript",
             "content": {
               "added": [],
