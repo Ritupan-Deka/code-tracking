@@ -2,9 +2,9 @@
   "date": "2025-07-26",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 493,
-      "totalLinesRemoved": 417,
-      "totalActiveTime": 162,
+      "totalLinesAdded": 503,
+      "totalLinesRemoved": 418,
+      "totalActiveTime": 174,
       "files": {
         "e:\\Projects\\Javascript\\basic\\string.js": [
           {
@@ -2044,6 +2044,118 @@
             "fileName": "e:\\Projects\\Javascript\\basic\\numbersAndMaths.js",
             "fileType": ".js",
             "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-26T17:49:32.303Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\numbersAndMaths.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-26T17:49:35.821Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\numbersAndMaths.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-26T17:49:52.983Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\numbersAndMaths.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-26T17:52:34.218Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\numbersAndMaths.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-26T17:52:36.002Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\numbersAndMaths.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-26T17:52:41.586Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\numbersAndMaths.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-26T17:52:41.611Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\numbersAndMaths.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-26T17:52:43.109Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\numbersAndMaths.js",
+            "fileType": ".js",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "Javascript",
             "content": {
