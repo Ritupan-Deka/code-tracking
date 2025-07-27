@@ -1,0 +1,299 @@
+{
+  "date": "2025-07-27",
+  "projects": {
+    "Javascript": {
+      "totalLinesAdded": 40,
+      "totalLinesRemoved": 25,
+      "totalActiveTime": 18,
+      "files": {
+        "e:\\Projects\\Javascript\\basic\\dateInJs.js": [
+          {
+            "timestamp": "2025-07-27T17:34:54.494Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:12.756Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:17.212Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:18.336Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:18.523Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:18.511Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:18.684Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:18.886Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:22.761Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:23.936Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:26.509Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:31.211Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:31.798Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:42.724Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:35:42.716Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:36:02.248Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:36:13.284Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:36:35.829Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T17:36:36.022Z",
+            "fileName": "e:\\Projects\\Javascript\\basic\\dateInJs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 18
+      },
+      "changeFrequency": {
+        "23": 18
+      },
+      "topFiles": [
+        "e:\\Projects\\Javascript\\basic\\dateInJs.js"
+      ],
+      "averageChangeSize": 3.4210526315789473
+    }
+  },
+  "totalActiveTime": 16,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
