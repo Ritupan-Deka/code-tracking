@@ -1,0 +1,75 @@
+{
+  "date": "2025-07-29",
+  "projects": {
+    "Javascript": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "e:\\Projects\\Javascript\\begineer\\array.js": [
+          {
+            "timestamp": "2025-07-28T18:25:34.351Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\array.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-28T18:25:34.528Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\array.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-28T18:25:39.413Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\array.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 3
+      },
+      "changeFrequency": {
+        "23": 3
+      },
+      "topFiles": [
+        "e:\\Projects\\Javascript\\begineer\\array.js"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
