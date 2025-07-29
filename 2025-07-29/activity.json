@@ -2,9 +2,9 @@
   "date": "2025-07-29",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 504,
-      "totalLinesRemoved": 499,
-      "totalActiveTime": 49,
+      "totalLinesAdded": 513,
+      "totalLinesRemoved": 501,
+      "totalActiveTime": 54,
       "files": {
         "e:\\Projects\\Javascript\\begineer\\array.js": [
           {
@@ -670,6 +670,92 @@
             "fileName": "e:\\Projects\\Javascript\\begineer\\array.js",
             "fileType": ".js",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "e:\\Projects\\Javascript\\begineer\\objects.js": [
+          {
+            "timestamp": "2025-07-29T16:38:48.908Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\objects.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-29T16:39:39.220Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\objects.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-29T16:39:42.640Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\objects.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-29T16:39:42.600Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\objects.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-29T16:39:58.937Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\objects.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-29T16:40:08.807Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\objects.js",
+            "fileType": ".js",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "Javascript",
             "content": {
