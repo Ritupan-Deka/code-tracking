@@ -1,0 +1,61 @@
+{
+  "date": "2025-08-03",
+  "projects": {
+    "Javascript": {
+      "totalLinesAdded": 16,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "e:\\Projects\\Javascript\\begineer\\scopes.js": [
+          {
+            "timestamp": "2025-08-03T15:44:57.730Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T15:45:03.290Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "e:\\Projects\\Javascript\\begineer\\scopes.js"
+      ],
+      "averageChangeSize": 8
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
