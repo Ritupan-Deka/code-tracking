@@ -2,9 +2,9 @@
   "date": "2025-08-03",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 324,
-      "totalLinesRemoved": 263,
-      "totalActiveTime": 73,
+      "totalLinesAdded": 687,
+      "totalLinesRemoved": 625,
+      "totalActiveTime": 90,
       "files": {
         "e:\\Projects\\Javascript\\begineer\\scopes.js": [
           {
@@ -880,6 +880,216 @@
             "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
             "fileType": ".js",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:13.413Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 60,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:13.421Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:29.665Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 60,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:29.689Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:31.022Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 60,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:30.961Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:39.672Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 60,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:39.652Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:39.728Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 60,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:39.805Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:44.788Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:46.321Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:01:47.182Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:02:06.439Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 61,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:02:06.455Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\scopes.js",
+            "fileType": ".js",
+            "linesAdded": 61,
             "linesRemoved": 0,
             "projectName": "Javascript",
             "content": {
