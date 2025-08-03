@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 960                                          |
-| **Lines Removed** (➖) | 698                                        |
-| **Net Change** (↕)    | 262                |
-| **Active Time** (⌚)   | 150 minutes |
+| **Lines Added** (➕)   | 1055                                          |
+| **Lines Removed** (➖) | 785                                        |
+| **Net Change** (↕)    | 270                |
+| **Active Time** (⌚)   | 190 minutes |
 
 
 ## Modified Files
 - **scopes.js** (+687, -625)
 - **settings.json** (+180, -0)
-- **arrow.js** (+93, -73)
+- **arrow.js** (+188, -160)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1478
+".js" : 1660
 ".json" : 180
 ```
 
@@ -32,7 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 139
+"22h" : 41
 ```
 
 
-> **Last Updated:** 8/3/2025, 9:55:15 PM
+> **Last Updated:** 8/3/2025, 10:05:15 PM

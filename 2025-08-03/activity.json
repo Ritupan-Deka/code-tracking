@@ -2,9 +2,9 @@
   "date": "2025-08-03",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 960,
-      "totalLinesRemoved": 698,
-      "totalActiveTime": 150,
+      "totalLinesAdded": 1055,
+      "totalLinesRemoved": 785,
+      "totalActiveTime": 190,
       "files": {
         "e:\\Projects\\Javascript\\begineer\\scopes.js": [
           {
@@ -1945,6 +1945,580 @@
           },
           {
             "timestamp": "2025-08-03T16:24:15.962Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:31:21.478Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:31:21.810Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:31:29.710Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:31:29.592Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:31:29.732Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:31:41.203Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:31:44.092Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:31:53.682Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:31:54.690Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:31:55.790Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:32:42.906Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:32:45.709Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 26,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:32:45.841Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:32:52.135Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:32:52.121Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:04.257Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:11.900Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:11.945Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:12.010Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:12.195Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:12.667Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:12.757Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:15.076Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:15.149Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 26,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:15.139Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:18.376Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:18.491Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:18.719Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:19.209Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:19.323Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:19.388Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:20.170Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:21.539Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:21.633Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:21.899Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:21.998Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:22.139Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:22.986Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:23.037Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:23.088Z",
+            "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T16:33:23.440Z",
             "fileName": "e:\\Projects\\Javascript\\begineer\\arrow.js",
             "fileType": ".js",
             "linesAdded": 1,
