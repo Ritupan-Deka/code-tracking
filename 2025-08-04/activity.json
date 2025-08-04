@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 1257,
+      "totalLinesAdded": 1260,
       "totalLinesRemoved": 1086,
-      "totalActiveTime": 317,
+      "totalActiveTime": 318,
       "files": {
         "e:\\Projects\\Javascript\\controlFlow\\one.js": [
           {
@@ -4120,6 +4120,34 @@
             "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
             "fileType": ".js",
             "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T18:00:25.096Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T18:00:42.945Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Javascript",
             "content": {
