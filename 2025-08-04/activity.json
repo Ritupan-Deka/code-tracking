@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 827,
-      "totalLinesRemoved": 737,
-      "totalActiveTime": 173,
+      "totalLinesAdded": 856,
+      "totalLinesRemoved": 739,
+      "totalActiveTime": 189,
       "files": {
         "e:\\Projects\\Javascript\\controlFlow\\one.js": [
           {
@@ -2289,6 +2289,230 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:27:35.809Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:28:31.017Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:28:34.137Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:28:35.607Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:28:40.912Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:28:43.664Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:28:53.110Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:28:55.248Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:29:01.149Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:29:04.531Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:29:19.851Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:29:20.215Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:29:21.810Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:29:21.897Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:29:22.105Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:29:22.385Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\switch.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
