@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 117,
-      "totalLinesRemoved": 72,
-      "totalActiveTime": 66,
+      "totalLinesAdded": 476,
+      "totalLinesRemoved": 416,
+      "totalActiveTime": 119,
       "files": {
         "e:\\Projects\\Javascript\\controlFlow\\one.js": [
           {
@@ -947,6 +947,748 @@
           },
           {
             "timestamp": "2025-08-04T16:56:39.855Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:56:50.332Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:56:56.945Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:56:56.903Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:56:58.133Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:00.462Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:04.804Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:04.757Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:16.562Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 37,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:16.578Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:19.242Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:35.680Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:41.319Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:41.337Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:41.374Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:41.519Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:43.733Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:43.869Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:52.667Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 37,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:57:52.652Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:58:50.427Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:58:52.300Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 40,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:58:52.373Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:59:04.681Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:59:07.104Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:59:11.893Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:59:11.903Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:59:17.693Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:59:17.671Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:59:23.924Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:59:28.027Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T16:59:57.137Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:21.131Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:29.398Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:29.570Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:34.836Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 45,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:34.986Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:35.518Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:35.529Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:38.466Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:42.053Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:44.446Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:44.621Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:00:52.413Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:01:16.307Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:01:16.713Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:01:21.346Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:01:21.557Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:01:21.519Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 48,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:01:21.801Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:01:22.095Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:01:22.024Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:01:22.249Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:01:22.798Z",
             "fileName": "e:\\Projects\\Javascript\\controlFlow\\one.js",
             "fileType": ".js",
             "linesAdded": 1,
