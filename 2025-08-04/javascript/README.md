@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 901                                          |
-| **Lines Removed** (➖) | 775                                        |
-| **Net Change** (↕)    | 126                |
-| **Active Time** (⌚)   | 216 minutes |
+| **Lines Added** (➕)   | 994                                          |
+| **Lines Removed** (➖) | 848                                        |
+| **Net Change** (↕)    | 146                |
+| **Active Time** (⌚)   | 252 minutes |
 
 
 ## Modified Files
 - **one.js** (+826, -737)
 - **switch.js** (+65, -35)
 - **truthyAndfalsy.js** (+10, -3)
+- **truthyAndfalsy.js** (+93, -73)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1676
+".js" : 1842
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +33,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 1
 "22h" : 178
-"23h" : 23
+"23h" : 58
 ```
 
 
-> **Last Updated:** 8/4/2025, 11:06:41 PM
+> **Last Updated:** 8/4/2025, 11:11:41 PM
