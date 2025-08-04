@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 1110,
-      "totalLinesRemoved": 952,
-      "totalActiveTime": 285,
+      "totalLinesAdded": 1120,
+      "totalLinesRemoved": 957,
+      "totalActiveTime": 302,
       "files": {
         "e:\\Projects\\Javascript\\controlFlow\\one.js": [
           {
@@ -3756,6 +3756,188 @@
             "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
             "fileType": ".js",
             "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:50:17.116Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:50:53.723Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:50:54.198Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:51:05.474Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:51:05.529Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:51:06.429Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:51:06.456Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:51:08.725Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:51:08.907Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:51:08.873Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:51:09.007Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:51:09.119Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T17:51:09.144Z",
+            "fileName": "e:\\Projects\\Javascript\\controlFlow\\truthyAndfalsy.js",
+            "fileType": ".js",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Javascript",
             "content": {
