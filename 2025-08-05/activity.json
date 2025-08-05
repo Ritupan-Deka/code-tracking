@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 225,
-      "totalLinesRemoved": 176,
-      "totalActiveTime": 68,
+      "totalLinesAdded": 294,
+      "totalLinesRemoved": 230,
+      "totalActiveTime": 91,
       "files": {
         "e:\\Projects\\Javascript\\iterations\\whileDoWhile.js": [
           {
@@ -868,6 +868,314 @@
             "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
             "fileType": ".js",
             "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:46:59.468Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:47:00.106Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:47:06.546Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:47:18.878Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:47:30.265Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:47:43.605Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:47:55.597Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:48:11.518Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:48:12.125Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:48:14.006Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:48:17.681Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:48:51.107Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:48:52.224Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:48:56.127Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:49:03.852Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:49:05.276Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:49:05.774Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:49:08.387Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:49:25.396Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:49:26.895Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:49:42.245Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 49,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:49:42.263Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\higherOrderArrayLoops.js",
+            "fileType": ".js",
+            "linesAdded": 49,
             "linesRemoved": 0,
             "projectName": "Javascript",
             "content": {
