@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 438                                          |
-| **Lines Removed** (➖) | 348                                        |
-| **Net Change** (↕)    | 90                |
-| **Active Time** (⌚)   | 153 minutes |
+| **Lines Added** (➕)   | 480                                          |
+| **Lines Removed** (➖) | 377                                        |
+| **Net Change** (↕)    | 103                |
+| **Active Time** (⌚)   | 170 minutes |
 
 
 ## Modified Files
 - **whileDoWhile.js** (+16, -2)
 - **higherOrderArrayLoops.js** (+278, -228)
-- **filterMapReduce.js** (+144, -118)
+- **filterMapReduce.js** (+186, -147)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 786
+".js" : 857
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,9 +32,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 6
 "19h" : 70
-"22h" : 62
+"22h" : 75
 "23h" : 8
 ```
 
 
-> **Last Updated:** 8/5/2025, 10:34:37 PM
+> **Last Updated:** 8/5/2025, 10:39:37 PM
