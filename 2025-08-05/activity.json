@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 384,
-      "totalLinesRemoved": 299,
-      "totalActiveTime": 144,
+      "totalLinesAdded": 386,
+      "totalLinesRemoved": 300,
+      "totalActiveTime": 147,
       "files": {
         "e:\\Projects\\Javascript\\iterations\\whileDoWhile.js": [
           {
@@ -1921,6 +1921,34 @@
             "fileType": ".js",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T16:54:57.225Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T16:55:05.741Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Javascript",
             "content": {
               "added": [],
