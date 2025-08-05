@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 651,
-      "totalLinesRemoved": 541,
-      "totalActiveTime": 186,
+      "totalLinesAdded": 658,
+      "totalLinesRemoved": 545,
+      "totalActiveTime": 195,
       "files": {
         "e:\\Projects\\Javascript\\iterations\\whileDoWhile.js": [
           {
@@ -2365,6 +2365,132 @@
           },
           {
             "timestamp": "2025-08-05T17:13:49.509Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:14:41.860Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:14:44.006Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:14:44.445Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:14:48.317Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:14:54.291Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:14:56.809Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:14:58.453Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:15:15.951Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:15:16.023Z",
             "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
             "fileType": ".js",
             "linesAdded": 1,
