@@ -2,9 +2,9 @@
   "date": "2025-08-06",
   "projects": {
     "Javascript": {
-      "totalLinesAdded": 85,
+      "totalLinesAdded": 138,
       "totalLinesRemoved": 21,
-      "totalActiveTime": 9,
+      "totalActiveTime": 10,
       "files": {
         "e:\\Projects\\Javascript\\dom\\one.html": [
           {
@@ -161,6 +161,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-06T17:50:26.590Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-06T17:50:28.078Z",
+            "fileName": "e:\\Projects\\Javascript\\iterations\\filterMapReduce.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
