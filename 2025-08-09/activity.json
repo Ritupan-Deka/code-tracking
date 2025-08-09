@@ -1,0 +1,187 @@
+{
+  "date": "2025-08-09",
+  "projects": {
+    "Javascript": {
+      "totalLinesAdded": 11,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 9,
+      "files": {
+        "e:\\Projects\\Javascript\\dom\\dom.js": [
+          {
+            "timestamp": "2025-08-09T16:40:06.916Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-09T16:40:11.335Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-09T16:40:30.923Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-09T16:40:32.071Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-09T16:40:35.086Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-09T16:40:35.336Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-09T16:40:35.532Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-09T16:40:35.781Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-09T16:40:36.824Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-09T16:40:38.557Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-09T16:40:45.101Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\dom.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 9
+      },
+      "changeFrequency": {
+        "22": 9
+      },
+      "topFiles": [
+        "e:\\Projects\\Javascript\\dom\\dom.js"
+      ],
+      "averageChangeSize": 1.4545454545454546
+    }
+  },
+  "totalActiveTime": 10,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
