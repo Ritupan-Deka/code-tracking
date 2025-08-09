@@ -1,0 +1,159 @@
+{
+  "date": "2025-08-10",
+  "projects": {
+    "Javascript": {
+      "totalLinesAdded": 11,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 8,
+      "files": {
+        "e:\\Projects\\Javascript\\dom\\two.html": [
+          {
+            "timestamp": "2025-08-09T18:47:17.610Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\two.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T18:47:43.377Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\two.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T18:47:54.592Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\two.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T18:48:26.450Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\two.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T18:48:30.591Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\two.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T18:48:35.714Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\two.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T18:48:42.599Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\two.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T18:49:26.366Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\two.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T18:49:28.187Z",
+            "fileName": "e:\\Projects\\Javascript\\dom\\two.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 8
+      },
+      "changeFrequency": {
+        "0": 8
+      },
+      "topFiles": [
+        "e:\\Projects\\Javascript\\dom\\two.html"
+      ],
+      "averageChangeSize": 1.2222222222222223
+    }
+  },
+  "totalActiveTime": 8,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
