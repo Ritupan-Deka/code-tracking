@@ -1,0 +1,234 @@
+{
+  "date": "2025-08-24",
+  "projects": {
+    "Javascript": {
+      "totalLinesAdded": 137,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 14,
+      "files": {
+        "e:\\Projects\\Javascript\\projects\\guessTheNumber\\index.html": [
+          {
+            "timestamp": "2025-08-24T13:54:56.321Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\index.html",
+            "fileType": ".html",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-24T13:55:23.803Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-24T13:55:24.893Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-24T13:55:28.187Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css": [
+          {
+            "timestamp": "2025-08-24T13:55:06.242Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-24T13:56:38.496Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-24T13:56:43.118Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-24T13:56:44.703Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-24T13:56:45.017Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-24T13:56:57.434Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-24T13:57:30.192Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-24T13:57:31.963Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-24T13:57:33.777Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-24T13:57:34.639Z",
+            "fileName": "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 3,
+        "css": 11
+      },
+      "changeFrequency": {
+        "19": 14
+      },
+      "topFiles": [
+        "e:\\Projects\\Javascript\\projects\\guessTheNumber\\styles.css",
+        "e:\\Projects\\Javascript\\projects\\guessTheNumber\\index.html"
+      ],
+      "averageChangeSize": 10.571428571428571
+    }
+  },
+  "totalActiveTime": 14,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "css",
+    "html"
+  ]
+}
