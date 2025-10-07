@@ -2,9 +2,9 @@
   "date": "2025-10-07",
   "projects": {
     "Url-Shortener": {
-      "totalLinesAdded": 117,
-      "totalLinesRemoved": 78,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 318,
+      "totalLinesRemoved": 80,
+      "totalActiveTime": 66,
       "files": {
         "e:\\Projects\\Url-Shortener\\database\\database.sqlite": [
           {
@@ -764,6 +764,162 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:21:14.165Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:21:14.398Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:21:15.591Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:21:20.493Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:21:31.837Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:21:49.665Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:22:14.098Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:22:41.578Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:24:07.109Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:24:18.791Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-10-07T17:22:10.373Z",
+            "fileName": "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 187,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
