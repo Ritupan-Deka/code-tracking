@@ -3,8 +3,8 @@
   "projects": {
     "Url-Shortener": {
       "totalLinesAdded": 334,
-      "totalLinesRemoved": 86,
-      "totalActiveTime": 84,
+      "totalLinesRemoved": 88,
+      "totalActiveTime": 86,
       "files": {
         "e:\\Projects\\Url-Shortener\\database\\database.sqlite": [
           {
@@ -1113,6 +1113,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:32:07.577Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ],
