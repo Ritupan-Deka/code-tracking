@@ -2,9 +2,9 @@
   "date": "2025-10-07",
   "projects": {
     "Url-Shortener": {
-      "totalLinesAdded": 335,
-      "totalLinesRemoved": 88,
-      "totalActiveTime": 86,
+      "totalLinesAdded": 336,
+      "totalLinesRemoved": 89,
+      "totalActiveTime": 89,
       "files": {
         "e:\\Projects\\Url-Shortener\\database\\database.sqlite": [
           {
@@ -1141,6 +1141,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:41:15.741Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-07T17:41:48.539Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
