@@ -1,0 +1,89 @@
+{
+  "date": "2025-10-07",
+  "projects": {
+    "Url-Shortener": {
+      "totalLinesAdded": 16,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "e:\\Projects\\Url-Shortener\\database\\database.sqlite": [
+          {
+            "timestamp": "2025-10-07T16:49:31.230Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\database\\database.sqlite",
+            "fileType": ".sqlite",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sqlite"
+          },
+          {
+            "timestamp": "2025-10-07T16:49:31.816Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\database\\database.sqlite",
+            "fileType": ".sqlite",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sqlite"
+          },
+          {
+            "timestamp": "2025-10-07T16:49:31.940Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\database\\database.sqlite",
+            "fileType": ".sqlite",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sqlite"
+          },
+          {
+            "timestamp": "2025-10-07T16:49:32.496Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\database\\database.sqlite",
+            "fileType": ".sqlite",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sqlite"
+          }
+        ]
+      },
+      "languageStats": {
+        "sqlite": 3
+      },
+      "changeFrequency": {
+        "22": 3
+      },
+      "topFiles": [
+        "e:\\Projects\\Url-Shortener\\database\\database.sqlite"
+      ],
+      "averageChangeSize": 4.25
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "sqlite"
+  ]
+}
