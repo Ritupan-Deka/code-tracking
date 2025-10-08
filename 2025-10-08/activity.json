@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-08",
+  "projects": {
+    "Url-Shortener": {
+      "totalLinesAdded": 46,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php": [
+          {
+            "timestamp": "2025-10-08T17:05:45.994Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php"
+      ],
+      "averageChangeSize": 46
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
