@@ -2,7 +2,7 @@
   "date": "2025-10-08",
   "projects": {
     "Url-Shortener": {
-      "totalLinesAdded": 128,
+      "totalLinesAdded": 129,
       "totalLinesRemoved": 23,
       "totalActiveTime": 30,
       "files": {
@@ -271,6 +271,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-08T17:28:09.105Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\resources\\views\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
