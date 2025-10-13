@@ -2,7 +2,7 @@
   "date": "2025-10-13",
   "projects": {
     "Url-Shortener": {
-      "totalLinesAdded": 99,
+      "totalLinesAdded": 165,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -36,6 +36,22 @@
             },
             "duration": 0,
             "language": "php"
+          }
+        ],
+        "e:\\Projects\\Url-Shortener\\.env": [
+          {
+            "timestamp": "2025-10-13T14:06:16.135Z",
+            "fileName": "e:\\Projects\\Url-Shortener\\.env",
+            "fileType": "unknown",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "Url-Shortener",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
