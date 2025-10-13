@@ -163,6 +163,56 @@
         "e:\\Projects\\Url-Shortener\\app\\Models\\Url.php"
       ],
       "averageChangeSize": 13
+    },
+    "scopecraft": {
+      "totalLinesAdded": 138,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "e:\\Saas\\scopecraft\\components\\landing\\HeroSection.tsx": [
+          {
+            "timestamp": "2025-10-13T15:39:46.682Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\HeroSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\landing\\PricingPlans.tsx": [
+          {
+            "timestamp": "2025-10-13T15:40:07.892Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\landing\\PricingPlans.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "e:\\Saas\\scopecraft\\components\\landing\\HeroSection.tsx",
+        "e:\\Saas\\scopecraft\\components\\landing\\PricingPlans.tsx"
+      ],
+      "averageChangeSize": 69
     }
   },
   "totalActiveTime": 0,
