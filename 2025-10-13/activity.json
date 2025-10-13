@@ -165,9 +165,9 @@
       "averageChangeSize": 13
     },
     "scopecraft": {
-      "totalLinesAdded": 633,
-      "totalLinesRemoved": 110,
-      "totalActiveTime": 80,
+      "totalLinesAdded": 634,
+      "totalLinesRemoved": 111,
+      "totalActiveTime": 83,
       "files": {
         "e:\\Saas\\scopecraft\\components\\landing\\HeroSection.tsx": [
           {
@@ -996,6 +996,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:51:36.744Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:52:25.401Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
