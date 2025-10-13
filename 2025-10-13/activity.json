@@ -165,9 +165,9 @@
       "averageChangeSize": 13
     },
     "scopecraft": {
-      "totalLinesAdded": 138,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 256,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 8,
       "files": {
         "e:\\Saas\\scopecraft\\components\\landing\\HeroSection.tsx": [
           {
@@ -198,6 +198,94 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\layout\\MasterLayout.jsx": [
+          {
+            "timestamp": "2025-10-13T16:07:34.655Z",
+            "fileName": "e:\\Saas\\scopecraft\\layout\\MasterLayout.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:07:39.071Z",
+            "fileName": "e:\\Saas\\scopecraft\\layout\\MasterLayout.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:07:40.023Z",
+            "fileName": "e:\\Saas\\scopecraft\\layout\\MasterLayout.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:07:43.486Z",
+            "fileName": "e:\\Saas\\scopecraft\\layout\\MasterLayout.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:07:44.286Z",
+            "fileName": "e:\\Saas\\scopecraft\\layout\\MasterLayout.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\builder\\ScopeForm.tsx": [
+          {
+            "timestamp": "2025-10-13T16:10:07.113Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\ScopeForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
