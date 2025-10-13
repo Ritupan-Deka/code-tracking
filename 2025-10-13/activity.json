@@ -165,9 +165,9 @@
       "averageChangeSize": 13
     },
     "scopecraft": {
-      "totalLinesAdded": 530,
-      "totalLinesRemoved": 21,
-      "totalActiveTime": 47,
+      "totalLinesAdded": 549,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 63,
       "files": {
         "e:\\Saas\\scopecraft\\components\\landing\\HeroSection.tsx": [
           {
@@ -709,6 +709,146 @@
             "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:25:30.071Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:25:39.510Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:25:41.795Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:25:43.865Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:26:13.919Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:26:14.130Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:26:14.725Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:26:14.584Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:30:11.077Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T16:30:12.294Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\sharedComponents\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
             "linesRemoved": 0,
             "projectName": "scopecraft",
             "content": {
