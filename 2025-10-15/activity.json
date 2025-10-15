@@ -3,8 +3,8 @@
   "projects": {
     "scopecraft": {
       "totalLinesAdded": 792,
-      "totalLinesRemoved": 488,
-      "totalActiveTime": 74,
+      "totalLinesRemoved": 611,
+      "totalActiveTime": 76,
       "files": {
         "e:\\Saas\\scopecraft\\components\\print.tsx": [
           {
@@ -819,6 +819,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-15T16:04:48.208Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 123,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
