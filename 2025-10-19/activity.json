@@ -1717,9 +1717,9 @@
       "averageChangeSize": 1.8333333333333333
     },
     "scopecraft": {
-      "totalLinesAdded": 1619,
-      "totalLinesRemoved": 814,
-      "totalActiveTime": 75,
+      "totalLinesAdded": 1708,
+      "totalLinesRemoved": 1005,
+      "totalActiveTime": 79,
       "files": {
         "e:\\Saas\\scopecraft\\components\\landing\\HeroSection.tsx": [
           {
@@ -2503,6 +2503,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-19T18:23:54.162Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\ScopePDF.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 191,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-19T18:24:08.840Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\ScopePDF.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "e:\\Saas\\scopecraft\\components\\builder\\PDFDownloadButton.tsx": [
@@ -2554,6 +2582,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-19T18:22:28.445Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\PDFDownloadButton.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "scopecraft",
             "content": {
               "added": [],
