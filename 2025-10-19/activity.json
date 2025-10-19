@@ -2,9 +2,9 @@
   "date": "2025-10-19",
   "projects": {
     "Typescript": {
-      "totalLinesAdded": 32,
-      "totalLinesRemoved": 19,
-      "totalActiveTime": 45,
+      "totalLinesAdded": 104,
+      "totalLinesRemoved": 72,
+      "totalActiveTime": 72,
       "files": {
         "e:\\Projects\\Typescript\\intro\\intro.ts": [
           {
@@ -617,6 +617,384 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:11:43.161Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:11:43.434Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:11:44.213Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:11:47.449Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:05.585Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:09.588Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:12.016Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:13.704Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:16.219Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:18.530Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:23.509Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:24.682Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:28.363Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:31.024Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:12:34.510Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:13:52.918Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:14:07.614Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:14:07.723Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:14:24.095Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:14:27.999Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:14:32.199Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:14:32.747Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:14:33.200Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:14:50.454Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:14:54.892Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:14:54.900Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T08:15:00.727Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\variable.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "Typescript",
             "content": {
               "added": [],
