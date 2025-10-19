@@ -1,0 +1,117 @@
+{
+  "date": "2025-10-19",
+  "projects": {
+    "Typescript": {
+      "totalLinesAdded": 8,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 5,
+      "files": {
+        "e:\\Projects\\Typescript\\intro\\intro.ts": [
+          {
+            "timestamp": "2025-10-19T07:15:43.293Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\intro.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T07:15:46.461Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\intro.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T07:15:48.415Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\intro.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T07:15:49.492Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\intro.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T07:15:49.876Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\intro.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-19T07:15:50.771Z",
+            "fileName": "e:\\Projects\\Typescript\\intro\\intro.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Typescript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 5
+      },
+      "changeFrequency": {
+        "12": 5
+      },
+      "topFiles": [
+        "e:\\Projects\\Typescript\\intro\\intro.ts"
+      ],
+      "averageChangeSize": 1.8333333333333333
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
