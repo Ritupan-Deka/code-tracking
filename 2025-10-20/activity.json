@@ -2,9 +2,9 @@
   "date": "2025-10-20",
   "projects": {
     "scopecraft": {
-      "totalLinesAdded": 706,
-      "totalLinesRemoved": 156,
-      "totalActiveTime": 51,
+      "totalLinesAdded": 876,
+      "totalLinesRemoved": 228,
+      "totalActiveTime": 60,
       "files": {
         "e:\\Saas\\scopecraft\\components\\landing\\HeroSection.tsx": [
           {
@@ -466,6 +466,62 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-20T06:58:16.566Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\builder\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 67,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-20T06:58:16.663Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\builder\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-20T06:58:17.201Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\builder\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-20T06:58:55.287Z",
+            "fileName": "e:\\Saas\\scopecraft\\app\\builder\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "e:\\Saas\\scopecraft\\components\\builder\\PDFDownloadButton.tsx": [
@@ -489,6 +545,80 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-20T06:55:55.855Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\PDFDownloadButton.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\builder\\ScopePDF.tsx": [
+          {
+            "timestamp": "2025-10-20T06:56:40.479Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\ScopePDF.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-20T06:57:11.027Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\ScopePDF.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-20T06:57:12.236Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\ScopePDF.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "scopecraft",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "e:\\Saas\\scopecraft\\components\\builder\\ScopeForm.tsx": [
+          {
+            "timestamp": "2025-10-20T06:57:39.974Z",
+            "fileName": "e:\\Saas\\scopecraft\\components\\builder\\ScopeForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 116,
+            "linesRemoved": 0,
             "projectName": "scopecraft",
             "content": {
               "added": [],
