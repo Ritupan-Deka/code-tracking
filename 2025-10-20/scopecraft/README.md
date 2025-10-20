@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 976                                          |
+| **Lines Added** (➕)   | 1058                                          |
 | **Lines Removed** (➖) | 295                                        |
-| **Net Change** (↕)    | 681                |
+| **Net Change** (↕)    | 763                |
 | **Active Time** (⌚)   | 89 minutes |
 
 
@@ -22,6 +22,7 @@
 - **ScopePDF.tsx** (+53, -2)
 - **ScopeForm.tsx** (+116, -0)
 - **Scope.tsx** (+99, -26)
+- **ScopeEditor.tsx** (+82, -0)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1271
+".tsx" : 1353
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,8 +40,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 19
-"12h" : 47
+"12h" : 48
 ```
 
 
-> **Last Updated:** 10/20/2025, 12:50:55 PM
+> **Last Updated:** 10/20/2025, 12:55:55 PM
