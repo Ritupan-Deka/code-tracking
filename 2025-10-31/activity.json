@@ -1,0 +1,81 @@
+{
+  "date": "2025-10-31",
+  "projects": {
+    "backend": {
+      "totalLinesAdded": 92,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go": [
+          {
+            "timestamp": "2025-10-31T15:47:21.160Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go",
+            "fileType": ".go",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\internal\\core\\config.go": [
+          {
+            "timestamp": "2025-10-31T15:50:57.898Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\core\\config.go",
+            "fileType": ".go",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "go"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\internal\\core\\logger.go": [
+          {
+            "timestamp": "2025-10-31T15:51:06.285Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\core\\logger.go",
+            "fileType": ".go",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ]
+      },
+      "languageStats": {
+        "go": 5
+      },
+      "changeFrequency": {
+        "21": 5
+      },
+      "topFiles": [
+        "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go",
+        "e:\\Saas\\zentra\\backend\\internal\\core\\config.go",
+        "e:\\Saas\\zentra\\backend\\internal\\core\\logger.go"
+      ],
+      "averageChangeSize": 30.666666666666668
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "go"
+  ]
+}
