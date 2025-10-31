@@ -4,16 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 92                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 92                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 204                                          |
+| **Lines Removed** (➖) | 77                                        |
+| **Net Change** (↕)    | 127                |
+| **Active Time** (⌚)   | 14 minutes |
 
 
 ## Modified Files
-- **main.go** (+50, -0)
+- **main.go** (+123, -77)
 - **config.go** (+31, -0)
 - **logger.go** (+11, -0)
+- **handler.go** (+22, -0)
+- **handler.go** (+17, -0)
 
 ## Visualizations
 
@@ -22,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".go" : 92
+".go" : 281
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"21h" : 3
+"21h" : 11
 ```
 
 
-> **Last Updated:** 10/31/2025, 9:21:28 PM
+> **Last Updated:** 10/31/2025, 9:26:28 PM
