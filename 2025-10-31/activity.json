@@ -2,9 +2,9 @@
   "date": "2025-10-31",
   "projects": {
     "backend": {
-      "totalLinesAdded": 573,
-      "totalLinesRemoved": 269,
-      "totalActiveTime": 50,
+      "totalLinesAdded": 590,
+      "totalLinesRemoved": 309,
+      "totalActiveTime": 56,
       "files": {
         "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go": [
           {
@@ -418,6 +418,20 @@
             },
             "duration": 1,
             "language": "go"
+          },
+          {
+            "timestamp": "2025-10-31T17:12:14.087Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\markdown\\handler.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
           }
         ],
         "e:\\Saas\\zentra\\backend\\internal\\pdf\\handler.go": [
@@ -522,6 +536,34 @@
             },
             "duration": 1,
             "language": "toml"
+          },
+          {
+            "timestamp": "2025-10-31T17:16:03.452Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\.air.toml",
+            "fileType": ".toml",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-10-31T17:16:20.173Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\.air.toml",
+            "fileType": ".toml",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
           }
         ],
         "e:\\Saas\\zentra\\backend\\.env": [
@@ -576,6 +618,20 @@
             "fileName": "e:\\Saas\\zentra\\backend\\go.mod",
             "fileType": ".mod",
             "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mod"
+          },
+          {
+            "timestamp": "2025-10-31T17:12:03.225Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\go.mod",
+            "fileType": ".mod",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "backend",
             "content": {
