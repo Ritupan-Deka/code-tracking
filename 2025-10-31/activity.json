@@ -2,9 +2,9 @@
   "date": "2025-10-31",
   "projects": {
     "backend": {
-      "totalLinesAdded": 384,
-      "totalLinesRemoved": 203,
-      "totalActiveTime": 25,
+      "totalLinesAdded": 440,
+      "totalLinesRemoved": 204,
+      "totalActiveTime": 35,
       "files": {
         "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go": [
           {
@@ -89,6 +89,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-10-31T16:26:27.268Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "go"
           }
         ],
@@ -268,6 +282,66 @@
             },
             "duration": 1,
             "language": "tomb"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\.air.toml": [
+          {
+            "timestamp": "2025-10-31T16:23:45.736Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\.air.toml",
+            "fileType": ".toml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-10-31T16:23:46.757Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\.air.toml",
+            "fileType": ".toml",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-10-31T16:23:55.521Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\.air.toml",
+            "fileType": ".toml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\.env": [
+          {
+            "timestamp": "2025-10-31T16:25:17.402Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\.env",
+            "fileType": "unknown",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
           }
         ]
       },
