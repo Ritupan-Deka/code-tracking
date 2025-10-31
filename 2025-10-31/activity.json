@@ -2,9 +2,9 @@
   "date": "2025-10-31",
   "projects": {
     "backend": {
-      "totalLinesAdded": 308,
-      "totalLinesRemoved": 151,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 370,
+      "totalLinesRemoved": 202,
+      "totalActiveTime": 24,
       "files": {
         "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go": [
           {
@@ -172,6 +172,34 @@
             "fileName": "e:\\Saas\\zentra\\backend\\internal\\markdown\\handler.go",
             "fileType": ".go",
             "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-10-31T16:09:13.415Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\markdown\\handler.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-10-31T16:09:14.391Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\markdown\\handler.go",
+            "fileType": ".go",
+            "linesAdded": 62,
             "linesRemoved": 0,
             "projectName": "backend",
             "content": {
