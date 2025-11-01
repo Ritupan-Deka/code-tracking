@@ -2,9 +2,9 @@
   "date": "2025-11-01",
   "projects": {
     "backend": {
-      "totalLinesAdded": 1003,
-      "totalLinesRemoved": 108,
-      "totalActiveTime": 81,
+      "totalLinesAdded": 1006,
+      "totalLinesRemoved": 111,
+      "totalActiveTime": 86,
       "files": {
         "e:\\Saas\\zentra\\backend\\internal\\markdown\\handler.go": [
           {
@@ -979,6 +979,62 @@
             "fileType": ".html",
             "linesAdded": 32,
             "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-11-01T16:21:25.343Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\pdf\\template.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-11-01T16:21:30.046Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\pdf\\template.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-11-01T16:21:36.712Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\pdf\\template.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-11-01T16:21:39.091Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\pdf\\template.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "backend",
             "content": {
               "added": [],
