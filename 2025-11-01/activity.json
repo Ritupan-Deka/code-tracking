@@ -2,9 +2,9 @@
   "date": "2025-11-01",
   "projects": {
     "backend": {
-      "totalLinesAdded": 841,
+      "totalLinesAdded": 970,
       "totalLinesRemoved": 108,
-      "totalActiveTime": 68,
+      "totalActiveTime": 73,
       "files": {
         "e:\\Saas\\zentra\\backend\\internal\\markdown\\handler.go": [
           {
@@ -837,6 +837,84 @@
               "removed": []
             },
             "duration": 3,
+            "language": "html"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\internal\\pdf\\handler.go": [
+          {
+            "timestamp": "2025-11-01T15:38:22.058Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\pdf\\handler.go",
+            "fileType": ".go",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\internal\\pdf\\renderer.go": [
+          {
+            "timestamp": "2025-11-01T15:38:40.243Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\pdf\\renderer.go",
+            "fileType": ".go",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\internal\\pdf\\service.go": [
+          {
+            "timestamp": "2025-11-01T15:38:47.871Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\pdf\\service.go",
+            "fileType": ".go",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-11-01T15:40:07.795Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\pdf\\service.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "go"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\internal\\pdf\\template.html": [
+          {
+            "timestamp": "2025-11-01T15:38:57.845Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\pdf\\template.html",
+            "fileType": ".html",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ]

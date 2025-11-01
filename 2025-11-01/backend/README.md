@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 841                                          |
+| **Lines Added** (➕)   | 970                                          |
 | **Lines Removed** (➖) | 108                                        |
-| **Net Change** (↕)    | 733                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Net Change** (↕)    | 862                |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,10 @@
 - **parser.go** (+36, -0)
 - **validator.go** (+29, -0)
 - **output.html** (+126, -0)
+- **handler.go** (+27, -0)
+- **renderer.go** (+26, -0)
+- **service.go** (+44, -0)
+- **template.html** (+32, -0)
 
 ## Visualizations
 
@@ -30,10 +34,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".go" : 295
+".go" : 392
 ".mod" : 115
 ".sum" : 51
-".html" : 300
+".html" : 332
 ".json" : 188
 ```
 
@@ -45,8 +49,9 @@ title Coding activity by hour (count of changes)
 "18h" : 41
 "19h" : 8
 "20h" : 7
+"21h" : 5
 "23h" : 2
 ```
 
 
-> **Last Updated:** 11/1/2025, 8:10:55 PM
+> **Last Updated:** 11/1/2025, 9:10:55 PM
