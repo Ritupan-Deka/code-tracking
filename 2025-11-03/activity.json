@@ -1,0 +1,81 @@
+{
+  "date": "2025-11-03",
+  "projects": {
+    "backend": {
+      "totalLinesAdded": 120,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\type.go": [
+          {
+            "timestamp": "2025-11-03T16:32:00.915Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\type.go",
+            "fileType": ".go",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\optimizer.go": [
+          {
+            "timestamp": "2025-11-03T16:32:11.473Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\optimizer.go",
+            "fileType": ".go",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\service.go": [
+          {
+            "timestamp": "2025-11-03T16:32:23.207Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\service.go",
+            "fileType": ".go",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ]
+      },
+      "languageStats": {
+        "go": 2
+      },
+      "changeFrequency": {
+        "22": 2
+      },
+      "topFiles": [
+        "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\type.go",
+        "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\optimizer.go",
+        "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\service.go"
+      ],
+      "averageChangeSize": 40
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "go"
+  ]
+}
