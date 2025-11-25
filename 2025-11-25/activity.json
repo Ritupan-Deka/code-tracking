@@ -1,0 +1,78 @@
+{
+  "date": "2025-11-25",
+  "projects": {
+    "backend": {
+      "totalLinesAdded": 77,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go": [
+          {
+            "timestamp": "2025-11-25T15:14:14.463Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go",
+            "fileType": ".go",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-11-25T15:15:30.067Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ],
+        "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\type.go": [
+          {
+            "timestamp": "2025-11-25T15:15:20.311Z",
+            "fileName": "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\type.go",
+            "fileType": ".go",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "go"
+          }
+        ]
+      },
+      "languageStats": {
+        "go": 3
+      },
+      "changeFrequency": {
+        "20": 3
+      },
+      "topFiles": [
+        "e:\\Saas\\zentra\\backend\\cmd\\server\\main.go",
+        "e:\\Saas\\zentra\\backend\\internal\\imageOptimizer\\type.go"
+      ],
+      "averageChangeSize": 25.666666666666668
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "go"
+  ]
+}
