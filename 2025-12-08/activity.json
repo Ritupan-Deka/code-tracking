@@ -2,9 +2,9 @@
   "date": "2025-12-08",
   "projects": {
     "DSA": {
-      "totalLinesAdded": 8,
+      "totalLinesAdded": 201,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 7,
       "files": {
         "e:\\Projects\\DSA\\array.cpp": [
           {
@@ -90,6 +90,52 @@
             },
             "duration": 1,
             "language": "cpp"
+          }
+        ],
+        "e:\\Projects\\DSA\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-12-08T15:24:10.326Z",
+            "fileName": "e:\\Projects\\DSA\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-12-08T15:24:11.403Z",
+            "fileName": "e:\\Projects\\DSA\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-12-08T15:24:11.468Z",
+            "fileName": "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
