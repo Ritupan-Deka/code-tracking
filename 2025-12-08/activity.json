@@ -2,7 +2,7 @@
   "date": "2025-12-08",
   "projects": {
     "DSA": {
-      "totalLinesAdded": 201,
+      "totalLinesAdded": 209,
       "totalLinesRemoved": 0,
       "totalActiveTime": 7,
       "files": {
@@ -89,6 +89,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-12-08T15:31:34.980Z",
+            "fileName": "e:\\Projects\\DSA\\array.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cpp"
           }
         ],
