@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 103                                          |
-| **Lines Removed** (➖) | 76                                        |
-| **Net Change** (↕)    | 27                |
-| **Active Time** (⌚)   | 128 minutes |
+| **Lines Added** (➕)   | 116                                          |
+| **Lines Removed** (➖) | 88                                        |
+| **Net Change** (↕)    | 28                |
+| **Active Time** (⌚)   | 177 minutes |
 
 
 ## Modified Files
-- **main.rs** (+86, -66)
+- **main.rs** (+99, -78)
 - **Cargo.toml** (+17, -10)
 
 ## Visualizations
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".rs" : 152
+".rs" : 177
 ".toml" : 27
 ```
 
@@ -31,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 18
-"22h" : 93
+"22h" : 118
 ```
 
 
-> **Last Updated:** 12/27/2025, 10:40:12 PM
+> **Last Updated:** 12/27/2025, 10:45:13 PM
