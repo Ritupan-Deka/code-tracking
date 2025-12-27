@@ -2,9 +2,9 @@
   "date": "2025-12-27",
   "projects": {
     "Rust": {
-      "totalLinesAdded": 116,
-      "totalLinesRemoved": 88,
-      "totalActiveTime": 177,
+      "totalLinesAdded": 141,
+      "totalLinesRemoved": 112,
+      "totalActiveTime": 248,
       "files": {
         "e:\\Projects\\Rust\\src\\main.rs": [
           {
@@ -1633,6 +1633,664 @@
           },
           {
             "timestamp": "2025-12-27T17:15:08.163Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:15:35.682Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:15:39.130Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:15:39.990Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:16.629Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:16.748Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:17.052Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:17.190Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:17.701Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:17.806Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:18.366Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:18.673Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:19.389Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:19.494Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:19.681Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:19.813Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:20.436Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:20.655Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:21.540Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:22.321Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:21.766Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:22.737Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:23.968Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:24.206Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:28.147Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:28.902Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:29.902Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:30.729Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:31.574Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:32.973Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:41.973Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:42.358Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:43.626Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:43.321Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:44.411Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:45.090Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:45.565Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:46.000Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:48.800Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:48.836Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:49.527Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:49.950Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:50.773Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:52.113Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:52.569Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:52.734Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:53.396Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-27T17:18:53.748Z",
             "fileName": "e:\\Projects\\Rust\\src\\main.rs",
             "fileType": ".rs",
             "linesAdded": 1,
