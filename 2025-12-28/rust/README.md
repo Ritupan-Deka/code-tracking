@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2142                                          |
-| **Lines Removed** (➖) | 1768                                        |
-| **Net Change** (↕)    | 374                |
-| **Active Time** (⌚)   | 583 minutes |
+| **Lines Added** (➕)   | 2160                                          |
+| **Lines Removed** (➖) | 1776                                        |
+| **Net Change** (↕)    | 384                |
+| **Active Time** (⌚)   | 593 minutes |
 
 
 ## Modified Files
-- **main.rs** (+2022, -1705)
+- **main.rs** (+2024, -1706)
 - **keybindings.json** (+13, -4)
 - **guessing_game.rs** (+107, -59)
+- **second_largest.rs** (+16, -7)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".rs" : 3893
+".rs" : 3919
 ".json" : 17
 ```
 
@@ -37,8 +38,8 @@ title Coding activity by hour (count of changes)
 "15h" : 92
 "17h" : 204
 "18h" : 90
-"19h" : 12
+"19h" : 23
 ```
 
 
-> **Last Updated:** 12/28/2025, 7:01:29 PM
+> **Last Updated:** 12/28/2025, 7:11:29 PM
