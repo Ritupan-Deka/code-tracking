@@ -2,9 +2,9 @@
   "date": "2025-12-28",
   "projects": {
     "Rust": {
-      "totalLinesAdded": 2024,
-      "totalLinesRemoved": 1652,
-      "totalActiveTime": 562,
+      "totalLinesAdded": 2142,
+      "totalLinesRemoved": 1768,
+      "totalActiveTime": 583,
       "files": {
         "e:\\Projects\\Rust\\src\\main.rs": [
           {
@@ -5606,6 +5606,174 @@
             },
             "duration": 1,
             "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:26.078Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:29.537Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:47.289Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 110,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:47.373Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:50.632Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:50.741Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:54.975Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:55.245Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:55.306Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:55.462Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:55.721Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:30:55.920Z",
+            "fileName": "e:\\Projects\\Rust\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
           }
         ],
         "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\keybindings.json": [
@@ -6855,6 +7023,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:27:13.662Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:28:14.200Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:29:14.211Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T13:29:14.248Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "rs"
           }
         ]
