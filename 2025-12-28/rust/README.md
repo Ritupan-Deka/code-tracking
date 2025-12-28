@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 156                                          |
-| **Lines Removed** (➖) | 112                                        |
-| **Net Change** (↕)    | 44                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Lines Added** (➕)   | 170                                          |
+| **Lines Removed** (➖) | 116                                        |
+| **Net Change** (↕)    | 54                |
+| **Active Time** (⌚)   | 125 minutes |
 
 
 ## Modified Files
-- **main.rs** (+156, -112)
+- **main.rs** (+157, -112)
+- **keybindings.json** (+13, -4)
 
 ## Visualizations
 
@@ -20,7 +21,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".rs" : 268
+".rs" : 269
+".json" : 17
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 81
-"13h" : 5
+"13h" : 8
 ```
 
 
-> **Last Updated:** 12/28/2025, 1:01:41 PM
+> **Last Updated:** 12/28/2025, 1:06:41 PM
