@@ -2,9 +2,9 @@
   "date": "2025-12-28",
   "projects": {
     "Rust": {
-      "totalLinesAdded": 1703,
-      "totalLinesRemoved": 1486,
-      "totalActiveTime": 455,
+      "totalLinesAdded": 1713,
+      "totalLinesRemoved": 1492,
+      "totalActiveTime": 475,
       "files": {
         "e:\\Projects\\Rust\\src\\main.rs": [
           {
@@ -5557,6 +5557,230 @@
           },
           {
             "timestamp": "2025-12-28T12:25:48.067Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:27:33.076Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:29:32.952Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:29:33.089Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:29:38.127Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:29:38.391Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:29:42.264Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:30:10.598Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:30:13.142Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:30:13.171Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:30:13.507Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:30:13.794Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:30:14.070Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:30:14.415Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:30:30.646Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:30:33.279Z",
+            "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Rust",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-12-28T12:30:35.371Z",
             "fileName": "e:\\Projects\\Rust\\src\\guessing_game.rs",
             "fileType": ".rs",
             "linesAdded": 1,
