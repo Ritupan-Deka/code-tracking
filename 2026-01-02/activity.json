@@ -2,9 +2,9 @@
   "date": "2026-01-02",
   "projects": {
     "DSA": {
-      "totalLinesAdded": 520,
-      "totalLinesRemoved": 95,
-      "totalActiveTime": 129,
+      "totalLinesAdded": 522,
+      "totalLinesRemoved": 96,
+      "totalActiveTime": 131,
       "files": {
         "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -399,6 +399,48 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T17:49:39.653Z",
+            "fileName": "e:\\Projects\\DSA\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T17:49:40.493Z",
+            "fileName": "e:\\Projects\\DSA\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T17:49:51.655Z",
+            "fileName": "e:\\Projects\\DSA\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],
