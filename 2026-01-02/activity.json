@@ -2,9 +2,9 @@
   "date": "2026-01-02",
   "projects": {
     "DSA": {
-      "totalLinesAdded": 463,
-      "totalLinesRemoved": 51,
-      "totalActiveTime": 61,
+      "totalLinesAdded": 489,
+      "totalLinesRemoved": 69,
+      "totalActiveTime": 77,
       "files": {
         "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -685,6 +685,174 @@
           },
           {
             "timestamp": "2026-01-02T16:41:01.906Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:44:17.024Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:44:35.519Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:45:38.602Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:45:40.999Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:45:40.990Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:46:26.663Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:47:04.322Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:47:57.735Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:48:17.421Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:48:24.138Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:48:24.327Z",
+            "fileName": "e:\\Projects\\DSA\\First.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-02T16:48:25.653Z",
             "fileName": "e:\\Projects\\DSA\\First.py",
             "fileType": ".py",
             "linesAdded": 1,
