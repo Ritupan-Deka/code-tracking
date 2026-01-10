@@ -2,9 +2,9 @@
   "date": "2026-01-10",
   "projects": {
     "DSA": {
-      "totalLinesAdded": 10,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 54,
+      "totalLinesRemoved": 40,
+      "totalActiveTime": 68,
       "files": {
         "e:\\Projects\\DSA\\2array.py": [
           {
@@ -54,6 +54,776 @@
             "fileName": "e:\\Projects\\DSA\\2array.py",
             "fileType": ".py",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:51:47.550Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:51:48.027Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:51:53.606Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:51:53.945Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:52:01.034Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:52:01.012Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:52:57.621Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:53:08.170Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:53:27.922Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:53:42.200Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:53:42.247Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:53:43.042Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:53:44.436Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:46.121Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:46.143Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:46.522Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:46.825Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:46.945Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:46.934Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:47.712Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:47.929Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:47.692Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:47.558Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:48.377Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:48.418Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:48.533Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:48.972Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:49.302Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:49.061Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:49.644Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:50.055Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:50.223Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:50.520Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:52.101Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:52.255Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:52.499Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:54:52.811Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:10.551Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:10.640Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:13.603Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:13.875Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:14.018Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:14.290Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:14.258Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:14.625Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:15.235Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:15.433Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:15.883Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:16.137Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:16.993Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:17.162Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:17.217Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:17.415Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:19.154Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-10T16:55:19.278Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "DSA",
             "content": {
