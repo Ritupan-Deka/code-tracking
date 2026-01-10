@@ -1,0 +1,108 @@
+{
+  "date": "2026-01-10",
+  "projects": {
+    "DSA": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
+      "files": {
+        "e:\\Projects\\DSA\\2array.py": [
+          {
+            "timestamp": "2026-01-10T16:32:10.883Z",
+            "fileName": "e:\\Projects\\DSA\\2array.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "e:\\Projects\\DSA\\2array.md": [
+          {
+            "timestamp": "2026-01-10T16:32:18.454Z",
+            "fileName": "e:\\Projects\\DSA\\2array.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          },
+          {
+            "timestamp": "2026-01-10T16:33:54.312Z",
+            "fileName": "e:\\Projects\\DSA\\2array.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "md"
+          },
+          {
+            "timestamp": "2026-01-10T16:34:02.068Z",
+            "fileName": "e:\\Projects\\DSA\\2array.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          },
+          {
+            "timestamp": "2026-01-10T16:34:02.900Z",
+            "fileName": "e:\\Projects\\DSA\\2array.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0,
+        "md": 5
+      },
+      "changeFrequency": {
+        "22": 5
+      },
+      "topFiles": [
+        "e:\\Projects\\DSA\\2array.md",
+        "e:\\Projects\\DSA\\2array.py"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "md",
+    "py"
+  ]
+}
