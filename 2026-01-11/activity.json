@@ -2,9 +2,9 @@
   "date": "2026-01-11",
   "projects": {
     "DSA": {
-      "totalLinesAdded": 1395,
-      "totalLinesRemoved": 1162,
-      "totalActiveTime": 343,
+      "totalLinesAdded": 1398,
+      "totalLinesRemoved": 1163,
+      "totalActiveTime": 349,
       "files": {
         "e:\\Projects\\DSA\\2array.py": [
           {
@@ -4141,6 +4141,62 @@
           },
           {
             "timestamp": "2026-01-11T15:35:42.062Z",
+            "fileName": "e:\\Projects\\DSA\\3singlyLinkedList.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-11T15:37:10.400Z",
+            "fileName": "e:\\Projects\\DSA\\3singlyLinkedList.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-11T15:38:49.748Z",
+            "fileName": "e:\\Projects\\DSA\\3singlyLinkedList.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-11T15:38:52.245Z",
+            "fileName": "e:\\Projects\\DSA\\3singlyLinkedList.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "DSA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-11T15:39:07.645Z",
             "fileName": "e:\\Projects\\DSA\\3singlyLinkedList.py",
             "fileType": ".py",
             "linesAdded": 1,
