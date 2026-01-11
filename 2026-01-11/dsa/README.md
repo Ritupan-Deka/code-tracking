@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1380                                          |
+| **Lines Added** (➕)   | 1387                                          |
 | **Lines Removed** (➖) | 1160                                        |
-| **Net Change** (↕)    | 220                |
-| **Active Time** (⌚)   | 317 minutes |
+| **Net Change** (↕)    | 227                |
+| **Active Time** (⌚)   | 322 minutes |
 
 
 ## Modified Files
 - **2array.py** (+1297, -1126)
-- **3singlyLinkedList.py** (+83, -34)
+- **3singlyLinkedList.py** (+90, -34)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 2540
+".py" : 2547
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +33,8 @@ title Coding activity by hour (count of changes)
 "10h" : 118
 "11h" : 63
 "19h" : 47
-"20h" : 36
+"20h" : 43
 ```
 
 
-> **Last Updated:** 1/11/2026, 8:41:35 PM
+> **Last Updated:** 1/11/2026, 8:51:35 PM
